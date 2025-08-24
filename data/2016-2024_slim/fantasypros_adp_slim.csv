@@ -1,0 +1,3753 @@
+Year,Player,POS,Rank
+2016,Antonio Brown,WR1,1
+2016,Julio Jones,WR2,2
+2016,Odell Beckham Jr.,WR3,3
+2016,Todd Gurley,RB1,4
+2016,DeAndre Hopkins,WR4,5
+2016,A.J. Green,WR5,6
+2016,David Johnson,RB2,7
+2016,Ezekiel Elliott,RB3,8
+2016,Allen Robinson,WR6,9
+2016,Adrian Peterson,RB4,10
+2016,Rob Gronkowski,TE1,11
+2016,Lamar Miller,RB5,12
+2016,Dez Bryant,WR7,14
+2016,Keenan Allen,WR8,15
+2016,Brandon Marshall,WR9,16
+2016,Devonta Freeman,RB7,17
+2016,Mike Evans,WR10,18
+2016,Jordy Nelson,WR11,19
+2016,Alshon Jeffery,WR12,20
+2016,Amari Cooper,WR13,21
+2016,Jamaal Charles,RB8,22
+2016,Brandin Cooks,WR14,23
+2016,Mark Ingram,RB9,24
+2016,Eddie Lacy,RB10,25
+2016,LeSean McCoy,RB11,26
+2016,T.Y. Hilton,WR15,27
+2016,Demaryius Thomas,WR16,28
+2016,Sammy Watkins,WR17,29
+2016,Doug Martin,RB12,30
+2016,Jarvis Landry,WR18,31
+2016,Jordan Reed,TE2,32
+2016,Cam Newton,QB1,33
+2016,C.J. Anderson,RB13,34
+2016,Randall Cobb,WR19,35
+2016,Julian Edelman,WR20,36
+2016,Matt Forte,RB14,37
+2016,Aaron Rodgers,QB2,38
+2016,Latavius Murray,RB15,39
+2016,Jeremy Maclin,WR21,40
+2016,Thomas Rawls,RB16,41
+2016,Carlos Hyde,RB17,42
+2016,Greg Olsen,TE3,43
+2016,DeMarco Murray,RB18,44
+2016,Golden Tate,WR22,45
+2016,Kelvin Benjamin,WR23,46
+2016,Donte Moncrief,WR24,47
+2016,Eric Decker,WR25,48
+2016,Jeremy Langford,RB19,49
+2016,Doug Baldwin,WR26,50
+2016,Russell Wilson,QB3,51
+2016,Andrew Luck,QB4,52
+2016,Danny Woodhead,RB20,53
+2016,Travis Kelce,TE4,54
+2016,Larry Fitzgerald,WR27,55
+2016,Michael Floyd,WR28,56
+2016,Jeremy Hill,RB21,57
+2016,Jordan Matthews,TE5,58
+2016,Delanie Walker,TE6,59
+2016,Drew Brees,QB5,60
+2016,Giovani Bernard,RB22,61
+2016,Melvin Gordon,RB23,62
+2016,Duke Johnson Jr.,RB24,63
+2016,Ryan Mathews,RB25,64
+2016,Marvin Jones Jr.,WR29,65
+2016,Coby Fleener,TE7,66
+2016,Arian Foster,RB26,67
+2016,Emmanuel Sanders,WR30,68
+2016,Allen Hurns,WR31,69
+2016,Ben Roethlisberger,QB6,70
+2016,Jonathan Stewart,RB27,71
+2016,John Brown,WR32,72
+2016,Tom Brady,QB7,73
+2016,Tyler Lockett,WR33,74
+2016,Josh Gordon ,WR34,75
+2016,Matt Jones,RB28,76
+2016,Michael Crabtree,WR35,77
+2016,Frank Gore,RB29,78
+2016,Carson Palmer,QB8,79
+2016,Zach Ertz,TE8,80
+2016,DeSean Jackson,WR36,81
+2016,DeAngelo Williams,RB30,82
+2016,Gary Barnidge,TE9,83
+2016,Ameer Abdullah,RB31,84
+2016,Rashad Jennings,RB32,85
+2016,DeVante Parker,WR37,86
+2016,Julius Thomas,TE10,87
+2016,Sterling Shepard,WR38,88
+2016,Charles Sims,RB33,89
+2016,Blake Bortles,QB9,90
+2016,Derrick Henry,RB34,91
+2016,Eli Manning,QB10,92
+2016,T.J. Yeldon,RB35,93
+2016,Chris Ivory,RB36,94
+2016,Antonio Gates,TE11,95
+2016,Kevin White,WR39,96
+2016,Willie Snead,WR40,97
+2016,Stefon Diggs,WR41,98
+2016,Theo Riddick,RB37,99
+2016,Philip Rivers,QB11,100
+2016,LeGarrette Blount,RB38,101
+2016,Bilal Powell,RB39,102
+2016,Derek Carr,QB12,103
+2016,Isaiah Crowell,RB40,104
+2016,Kamar Aiken,WR42,105
+2016,Martellus Bennett,TE12,106
+2016,Travis Benjamin,WR43,107
+2016,Tavon Austin,WR44,108
+2016,Corey Coleman,WR45,109
+2016,Tyler Eifert ,TE13,110
+2016,Devin Funchess,WR46,111
+2016,Tevin Coleman,RB41,112
+2016,Jay Ajayi,RB42,113
+2016,Vincent Jackson,WR47,114
+2016,Dwayne Allen,TE14,115
+2016,Kirk Cousins,QB13,116
+2016,Justin Forsett,RB43,117
+2016,Torrey Smith,WR48,118
+2016,Stephen Gostkowski,K1,119
+2016,Markus Wheaton,WR49,120
+2016,Darren Sproles,RB44,121
+2016,Tyrod Taylor,QB14,122
+2016,Jimmy Graham,TE15,123
+2016,Tajae Sharpe,WR50,124
+2016,James White,RB45,125
+2016,Jameis Winston,QB15,126
+2016,Matthew Stafford,QB16,127
+2016,Michael Thomas,WR51,128
+2016,Dion Lewis,RB46,129
+2016,Jason Witten,TE16,130
+2016,Mohamed Sanu Sr.,WR52,131
+2016,Eric Ebron,TE17,132
+2016,Jared Cook,TE18,133
+2016,Stephen Hauschka,K2,134
+2016,Spencer Ware,RB47,135
+2016,Shane Vereen,RB48,136
+2016,Phillip Dorsett II,WR53,137
+2016,Devontae Booker,RB49,138
+2016,Jerick McKinnon,RB50,139
+2016,Christine Michael,RB51,140
+2016,Zach Miller,TE19,141
+2016,DeAndre Washington,RB52,142
+2016,Alfred Morris,RB53,143
+2016,Marcus Mariota,QB17,144
+2016,Denver Broncos,DST1,145
+2016,Rishard Matthews,WR54,146
+2016,Andy Dalton,QB18,147
+2016,Tyler Boyd,WR55,148
+2016,Matt Ryan,QB19,149
+2016,Justin Tucker,K3,150
+2016,Steve Smith,WR56,151
+2016,Chris Hogan,WR57,152
+2016,Graham Gano,K4,153
+2016,James Starks,RB54,154
+2016,Chandler Catanzaro,K5,155
+2016,Seattle Seahawks,DST2,156
+2016,Arizona Cardinals,DST3,157
+2016,William Fuller,WR58,158
+2016,Ryan Tannehill,QB20,159
+2016,Dorial Green-Beckham,WR59,160
+2016,Terrance West,RB55,161
+2016,Mike Wallace,WR60,162
+2016,Carolina Panthers,DST4,163
+2016,Dan Bailey,K6,164
+2016,Pierre Garcon,WR61,165
+2016,Chris Johnson,RB56,166
+2016,Mason Crosby,K7,167
+2016,Kenny Stills,WR62,168
+2016,Virgil Green,TE20,169
+2016,Brandon McManus,K8,170
+2016,Terrelle Pryor Sr.,WR63,171
+2016,Ryan Fitzpatrick,QB21,172
+2016,Kenneth Dixon,RB57,173
+2016,Ted Ginn Jr.,WR64,174
+2016,Houston Texans,DST5,175
+2016,Laquon Treadwell,WR65,176
+2016,Dak Prescott,QB22,177
+2016,Kansas City Chiefs,DST6,178
+2016,Victor Cruz,WR66,179
+2016,Robert Griffin,QB23,180
+2016,Minnesota Vikings,DST7,181
+2016,Sammie Coates,WR67,182
+2016,Chris Thompson,RB58,183
+2016,Charles Clay,TE21,184
+2016,Los Angeles Rams,DST8,185
+2016,Austin Seferian-Jenkins,TE22,186
+2016,C.J. Prosise,RB59,187
+2016,Brock Osweiler,QB24,188
+2016,New England Patriots,DST9,189
+2016,Javorius Allen,RB60,190
+2016,Ladarius Green,TE23,191
+2016,Cincinnati Bengals,DST10,192
+2016,Adam Vinatieri,K9,193
+2016,New York Jets,DST11,194
+2016,Blair Walsh,K10,195
+2016,Charcandrick West,RB61,196
+2016,Clive Walford,TE24,197
+2016,Las Vegas Raiders,DST12,198
+2016,Jordan Howard,RB62,199
+2016,Cairo Santos,K11,200
+2016,Green Bay Packers,DST13,201
+2016,Buffalo Bills,DST14,202
+2016,Philadelphia Eagles,DST15,203
+2016,Jesse James,TE25,204
+2016,Jordan Cameron,TE26,205
+2016,Joe Flacco,QB25,206
+2016,Kendall Wright,WR68,207
+2016,Nelson Agholor,WR69,208
+2016,Terrance Williams,WR70,209
+2016,Josh Ferguson,RB63,210
+2016,Kyle Rudolph,TE27,211
+2016,C.J. Spiller,RB64,212
+2016,Anquan Boldin,WR71,213
+2016,Wendell Smallwood,RB65,214
+2016,Breshad Perriman,WR72,215
+2016,Sebastian Janikowski,K12,216
+2016,Josh Doctson,WR73,217
+2016,Eli Rogers,WR74,218
+2016,Chris Boswell,K13,219
+2016,Trevor Siemian,QB26,220
+2016,Jaelen Strong,WR75,221
+2016,Shaun Draughn,RB66,222
+2016,Tyler Gaffney,RB67,223
+2016,Darren McFadden,RB68,224
+2016,Paul Perkins,RB69,225
+2016,Vance McDonald,TE28,226
+2016,Robert Kelley,RB70,227
+2016,Jay Cutler,QB27,228
+2016,Davante Adams,WR76,229
+2016,Charles Johnson,WR77,230
+2016,Tim Hightower,RB71,231
+2016,Keith Marshall,RB72,232
+2016,Tony Romo,QB28,233
+2016,Alex Smith,QB29,234
+2016,Kenjon Barner,RB73,235
+2016,Karlos Williams,RB74,236
+2016,Ronnie Hillman,RB75,237
+2016,Quinton Patton,WR78,238
+2016,Robert Woods,WR79,239
+2016,Braxton Miller,WR80,240
+2016,Matt Prater,K14,241
+2016,Jamison Crowder,WR81,242
+2016,Dan Carpenter,K15,243
+2016,Cameron Artis-Payne,RB76,244
+2016,Will,TE29,245
+2016,Malcolm Mitchell,WR82,246
+2016,Jermaine Kearse,WR83,247
+2016,Carson Wentz,QB30,248
+2016,Pittsburgh Steelers,DST16,249
+2016,Danny Amendola,WR84,250
+2016,Andre Ellington,RB77,251
+2016,Kenyan Drake,RB78,252
+2016,Benjamin Watson,TE30,253
+2016,Justin Hardy,WR85,254
+2016,Zach Zenner,RB79,255
+2016,Benny Cunningham Jr.,RB80,256
+2016,Brandon LaFell,WR86,257
+2016,Sam Bradford,QB31,258
+2016,Pharoh Cooper,WR87,259
+2016,Tyler Higbee,TE31,260
+2016,Lance Dunbar,RB81,261
+2016,Jacob Tamme,TE32,262
+2016,Jonathan Williams,RB82,263
+2016,New York Giants,DST17,264
+2016,Cameron Brate,TE33,265
+2016,Richard Rodgers,TE34,266
+2016,Bruce Ellington,WR88,267
+2016,Jimmy Garoppolo,QB32,268
+2016,Reggie Bush,RB83,269
+2016,Marqise,WR89,270
+2016,Kenny Britt,WR90,271
+2016,Rueben Randle,WR91,272
+2016,Tyler Ervin,RB84,273
+2016,Hunter Henry,TE35,274
+2016,Chris Conley,WR92,275
+2016,J.J. Nelson,WR93,276
+2016,Robert Turbin,RB85,277
+2016,Blaine Gabbert,QB33,279
+2016,Larry Donnell,TE36,280
+2016,Jeff Janis,WR94,281
+2016,Jace Amaro,TE37,282
+2016,Jerell Adams,TE38,283
+2016,Alfred Blue,RB87,284
+2016,Mike Gillislee,RB88,285
+2016,Teddy Bridgewater,QB34,286
+2016,Brandon Coleman,WR95,287
+2016,Paxton Lynch,QB35,288
+2016,Cole Beasley,WR96,289
+2016,Tyler Kroft,TE39,290
+2016,Seth Roberts,WR97,291
+2016,Alex Collins,RB89,292
+2016,Andre Johnson,WR98,293
+2016,Crockett Gillmore,TE40,294
+2016,Tyrell Williams,WR99,295
+2016,Antonio Andrews,RB90,296
+2016,Jared Goff,QB36,297
+2016,Jacksonville Jaguars,DST18,298
+2016,Daniel Lasco,RB91,299
+2016,DeAndre Smelter,WR100,300
+2016,Jared Abbrederis,WR101,301
+2016,Eddie Royal,WR102,302
+2016,Khiry Robinson,RB92,303
+2016,D.J. Foster,RB93,304
+2016,Roberto Aguayo,K16,305
+2016,Josh Brown,K17,306
+2016,Washington Commanders,DST19,307
+2016,Darrius Heyward-Bey,WR103,308
+2016,James Jones,WR104,309
+2016,Robbie Gould,K18,310
+2016,Tre Mason,RB94,311
+2016,Nick Novak,K19,312
+2016,Matt Bryant,K20,313
+2016,Mike Thomas,WR105,314
+2016,Baltimore Ravens,DST20,315
+2016,Steve Johnson,WR106,316
+2016,Dexter McCluster,RB95,317
+2016,Austin Hooper,TE41,318
+2016,Trent Richardson,RB96,319
+2016,Maxx Williams,TE42,320
+2016,Stevan Ridley,RB97,321
+2016,Knile Davis,RB98,322
+2016,Nate Washington,WR107,323
+2016,Andre Williams,RB99,324
+2016,Miami Dolphins,DST21,325
+2016,Josh Lambo,K21,326
+2016,Marquess Wilson,WR108,327
+2016,Colin Kaepernick,QB37,328
+2016,Dwayne Washington,RB100,329
+2016,Connor Barth,K22,330
+2016,Leonte Carroo,WR109,331
+2016,Mike Nugent,K23,332
+2016,Case Keenum,QB38,333
+2016,Tampa Bay Buccaneers,DST22,334
+2016,Kyle Juszczyk,RB101,335
+2016,Mike Tolbert,RB102,336
+2016,Indianapolis Colts,DST23,337
+2016,Detroit Lions,DST24,338
+2016,Dallas Cowboys,DST25,339
+2016,David Cobb,RB103,340
+2016,Dontrelle Inman,WR110,341
+2016,Chicago Bears,DST26,342
+2016,San Francisco 49ers,DST27,343
+2016,Brian Quick,WR111,344
+2016,Tennessee Titans,DST28,345
+2016,Los Angeles Chargers,DST29,346
+2016,Atlanta Falcons,DST30,347
+2016,Cleveland Browns,DST31,348
+2016,Kelvin Taylor,RB104,349
+2016,New Orleans Saints,DST32,350
+2016,Roddy White,WR112,351
+2016,Harry Douglas,WR113,352
+2016,T.J. Jones,WR114,353
+2016,Jason Myers,K24,354
+2016,Dustin Hopkins,K25,355
+2016,Cecil Shorts,WR115,356
+2016,Denard Robinson,RB105,357
+2016,Dwayne Harris,WR116,358
+2016,Jonathan Grimes,RB106,359
+2016,Andrew Hawkins,WR117,360
+2016,Brent Celek,TE43,361
+2016,Cordarrelle Patterson,RB107,362
+2016,Mark Sanchez,QB39,363
+2016,Phil Dawson,K26,364
+2016,Damien Williams,RB108,365
+2016,Josh McCown,QB40,366
+2016,Joique Bell,RB109,367
+2016,Marques Colston,WR118,368
+2016,Jacquizz Rodgers,RB110,369
+2016,Chris Boyd,WR119,370
+2016,Rashad Greene,WR120,371
+2016,Orleans Darkwa,RB111,372
+2016,Josh Huff,WR121,373
+2016,Jordan Todman,RB112,374
+2016,Nick Folk,K27,375
+2016,Ryan Succop,K28,376
+2016,Greg Zuerlein,K29,377
+2016,Juwan Thompson,RB113,378
+2016,Brian Hoyer,QB41,379
+2016,Seyi Ajirotutu,WR122,380
+2016,Mario Alford,WR123,381
+2016,Mike Davis,RB114,382
+2016,Miles Austin,WR124,383
+2016,Adam Humphries,WR125,384
+2016,Jason Avant,WR126,385
+2016,Quincy Enunwa,WR127,386
+2016,Matt Asiata,RB115,387
+2016,Jeremy Kerley,WR128,388
+2016,Ty Montgomery,RB116,389
+2016,Rex Burkhead,RB117,390
+2016,Roy Helu,RB118,391
+2016,Fozzy Whittaker,RB119,392
+2016,Rashard Higgins,WR129,393
+2016,Jalen Richard,RB120,394
+2016,Albert Wilson,WR130,395
+2016,Cody Latimer,WR131,396
+2016,Marcel Reece,RB121,397
+2016,Devin Smith,WR132,398
+2016,Jarius Wright,WR133,399
+2016,Corey Brown,WR134,400
+2016,Jaron Brown,WR135,401
+2016,Paul Richardson Jr.,WR136,402
+2016,Tavarres King,WR137,403
+2016,George Atkinson,RB122,404
+2016,Rod Streater,WR138,405
+2016,Bishop Sankey,RB123,406
+2016,Terrell Watson,RB124,407
+2016,Fitzgerald Toussaint,RB125,408
+2016,Brandon Bolden,RB126,409
+2016,Shaun Hill,QB42,410
+2016,Troymaine Pope,RB127,411
+2016,Lorenzo Taliaferro,RB128,412
+2016,Travaris Cadet,RB129,413
+2016,Donald Brown,RB130,414
+2016,Isaiah Pead,RB131,415
+2016,Fred Jackson,RB132,416
+2016,Dwayne Bowe,WR139,417
+2016,Mike James,RB133,418
+2016,Taiwan Jones,RB134,419
+2016,Ryan Grant,WR140,420
+2016,Adam Thielen,WR141,421
+2016,Chris Polk,RB135,422
+2016,Jamize Olawale,RB136,423
+2016,Terron Ward,RB137,424
+2016,Darius Jackson,RB138,425
+2016,Chris Moore,WR142,426
+2016,Stepfan Taylor,RB139,427
+2016,Dan Herron,RB140,428
+2016,Brice Butler,WR143,429
+2016,Robbie Chosen,WR144,430
+2016,Justin Hunter,WR145,431
+2016,Marquise Goodwin,WR146,432
+2016,Ricardo Louis,WR147,433
+2016,John Crockett,RB141,434
+2016,Jeff Heuerman,TE44,435
+2016,Bennie Fowler,WR148,436
+2016,Roger Lewis,WR149,437
+2016,Lance Kendricks,TE45,438
+2016,Daniel Braverman,WR150,439
+2016,Brian Hartline,WR151,440
+2016,Josh Hill,TE46,441
+2016,Geno Smith,QB43,442
+2016,Bobby Rainey,RB142,443
+2016,Vernon Davis,TE47,444
+2016,Niles Paul,TE48,445
+2016,Tyreek Hill,WR152,446
+2016,Daryl Richardson,RB143,447
+2016,Paul Turner,WR153,448
+2016,Dennis Pitta,TE49,449
+2016,Taylor Gabriel,WR154,450
+2016,Patrick DiMarco,RB144,451
+2016,Moritz Bohringer,WR155,452
+2016,Garrett Celek,TE50,453
+2016,Kenny Bell,WR156,454
+2016,Jordan Norwood,WR157,455
+2016,Nick Foles,QB44,456
+2016,Kenneth Farrow,RB145,457
+2016,Brandon Burks,RB146,458
+2016,Jerricho Cotchery,WR158,459
+2016,Andre Holmes,WR159,460
+2016,Andre Roberts,WR160,461
+2016,Dezmin Lewis,WR161,462
+2016,Louis Murphy,WR162,463
+2016,Charone Peake,WR163,464
+2016,Leonard Hankerson,WR164,465
+2016,Mychal Rivera,TE51,466
+2016,Quan Bray,WR165,467
+2016,Chase Daniel,QB45,468
+2016,Corey Fuller,WR166,469
+2016,Keshawn Martin,WR167,470
+2016,Owen Daniels,TE52,471
+2016,Jordan Payton,WR168,472
+2016,Aaron Burbridge,WR169,473
+2016,Demarcus Robinson,WR170,474
+2016,Devin Hester,WR171,475
+2016,Matt Cassel,QB46,476
+2016,Greg Salas,WR172,477
+2016,Chris Givens,WR173,478
+2016,Brett Hundley,QB47,479
+2016,Ryan Mallett,QB48,480
+2016,E.J. Manuel,QB49,481
+2016,Luke Willson,TE53,482
+2016,Aaron Dobson,WR174,483
+2016,Ryan Griffin,TE54,484
+2016,Kenbrell Thompkins,WR175,485
+2016,Darren Fells,TE55,486
+2016,Devon Cajuste,WR176,487
+2016,Landry Jones,QB50,488
+2016,Chad Henne,QB51,489
+2016,Cody Kessler,QB52,490
+2016,Sean Mannion,QB53,491
+2016,AJ McCarron,QB54,492
+2016,Derek Anderson,QB55,493
+2016,Jermaine Gresham,TE56,494
+2016,Colt McCoy,QB56,495
+2016,Matt Schaub,QB57,496
+2016,Matt Moore,QB58,497
+2016,Mike Glennon,QB59,498
+2016,Kellen Davis,TE57,499
+2016,Christian Hackenberg,QB60,500
+2016,Dan Orlovsky,QB61,501
+2016,Tom Savage,QB62,502
+2016,MyCole Pruitt,TE58,503
+2016,Aaron Murray,QB63,504
+2016,Scott Tolzien,QB64,505
+2016,Stephen Anderson,TE59,506
+2016,Brandon Weeden,QB65,507
+2016,Austin Davis,QB66,508
+2016,Drew Stanton,QB67,509
+2016,Scott Chandler,TE60,510
+2016,Zach Mettenberger,QB68,511
+2016,Troy Niklas,TE61,512
+2016,Ryan Nassib,QB69,513
+2016,Garrett Graham,TE62,514
+2016,Kellen Moore,QB70,515
+2016,C.J. Fiedorowicz,TE63,516
+2016,Garrett Grayson,QB71,517
+2016,Jack Doyle,TE64,518
+2016,Trevone Boykin,QB72,519
+2016,Dion Sims,TE65,520
+2016,Marcedes Lewis,TE66,521
+2016,Cardale Jones,QB73,522
+2016,Blake Bell,TE67,523
+2016,Kellen Clemens,QB74,524
+2016,Ed Dickson,TE68,525
+2016,Luke McCown,QB75,526
+2016,Seth DeValve,TE69,527
+2016,Bryce Petty,QB76,528
+2016,Jeff Cumberland,TE70,529
+2016,Anthony Fasano,TE71,530
+2016,Matt McGloin,QB77,531
+2016,Gavin Escobar,TE72,532
+2016,Jacoby Brissett,QB78,533
+2016,Nick Vannett,TE73,534
+2016,Bruce Gradkowski,QB79,535
+2016,Jeff Driskel,QB80,537
+2016,Brandon Pettigrew,TE75,538
+2016,Kevin Hogan,QB81,539
+2016,Demetrius Harris,TE76,540
+2016,Joe Webb,QB82,541
+2016,Logan Paulsen,TE77,542
+2016,Joel Stave,QB83,543
+2016,Connor Cook,QB84,544
+2016,Nate Sudfeld,QB85,545
+2016,Josh Scobee,K30,546
+2016,Kai Forbath,K31,547
+2016,Cody Parkey,K32,548
+2016,Wil Lutz,K33,549
+2016,Andrew Franks,K34,550
+2016,Caleb Sturgis,K35,551
+2017,David Johnson,RB1,1
+2017,Antonio Brown,WR1,3
+2017,Julio Jones,WR2,4
+2017,Odell Beckham Jr.,WR3,5
+2017,LeSean McCoy,RB3,6
+2017,Mike Evans,WR4,7
+2017,A.J. Green,WR5,8
+2017,Devonta Freeman,RB4,9
+2017,Melvin Gordon,RB5,10
+2017,Jordy Nelson,WR6,11
+2017,Michael Thomas,WR7,12
+2017,Jordan Howard,RB6,13
+2017,DeMarco Murray,RB7,14
+2017,Jay Ajayi,RB8,15
+2017,Ezekiel Elliott,RB9,16
+2017,Amari Cooper,WR8,17
+2017,Todd Gurley,RB10,18
+2017,Brandin Cooks,WR9,19
+2017,Rob Gronkowski,TE1,20
+2017,Dez Bryant,WR10,21
+2017,Aaron Rodgers,QB1,22
+2017,Doug Baldwin,WR11,23
+2017,Leonard Fournette,RB11,24
+2017,T.Y. Hilton,WR12,25
+2017,Christian McCaffrey,RB12,26
+2017,DeAndre Hopkins,WR13,27
+2017,Demaryius Thomas,WR14,28
+2017,Lamar Miller,RB13,29
+2017,Tom Brady,QB2,30
+2017,Keenan Allen,WR15,31
+2017,Terrelle Pryor Sr.,WR16,32
+2017,Isaiah Crowell,RB14,33
+2017,Dalvin Cook,RB15,34
+2017,Marshawn Lynch,RB16,35
+2017,Travis Kelce,TE2,36
+2017,Alshon Jeffery,WR17,37
+2017,Kareem Hunt,RB17,38
+2017,Michael Crabtree,WR18,39
+2017,Carlos Hyde,RB18,40
+2017,Davante Adams,WR19,41
+2017,Ty Montgomery,RB19,42
+2017,Drew Brees,QB3,43
+2017,Joe Mixon,RB20,44
+2017,Golden Tate,WR20,45
+2017,Allen Robinson,WR21,46
+2017,Larry Fitzgerald,WR22,47
+2017,Greg Olsen,TE3,48
+2017,Tyreek Hill,WR23,49
+2017,Jordan Reed,TE4,50
+2017,Kelvin Benjamin,WR24,51
+2017,Martavis Bryant,WR25,52
+2017,Jarvis Landry,WR26,53
+2017,Mark Ingram,RB21,54
+2017,Matt Ryan,QB4,55
+2017,Stefon Diggs,WR27,56
+2017,Jimmy Graham,TE5,57
+2017,Bilal Powell,RB22,58
+2017,Sammy Watkins,WR28,59
+2017,Emmanuel Sanders,WR29,60
+2017,C.J. Anderson,RB23,61
+2017,DeVante Parker,WR30,62
+2017,Russell Wilson,QB5,63
+2017,Jamison Crowder,WR31,64
+2017,Ameer Abdullah,RB24,65
+2017,Brandon Marshall,WR32,66
+2017,Danny Woodhead,RB25,67
+2017,Pierre Garcon,WR33,68
+2017,Tevin Coleman,RB26,69
+2017,Kyle Rudolph,TE6,70
+2017,Adrian Peterson,RB27,71
+2017,Doug Martin,RB28,72
+2017,Mike Gillislee,RB29,73
+2017,Delanie Walker,TE7,74
+2017,Zach Ertz,TE8,75
+2017,Tyler Eifert,TE9,76
+2017,Frank Gore,RB30,77
+2017,Jameis Winston,QB6,78
+2017,Theo Riddick,RB31,79
+2017,Robert Kelley,RB32,80
+2017,Kirk Cousins,QB7,81
+2017,Paul Perkins,RB33,82
+2017,Jeremy Maclin,WR34,83
+2017,Willie Snead,WR35,84
+2017,Marcus Mariota,QB8,85
+2017,Derek Carr,QB9,86
+2017,Cam Newton,QB10,87
+2017,DeSean Jackson,WR36,88
+2017,Martellus Bennett,TE10,89
+2017,Derrick Henry,RB34,90
+2017,Eric Decker,WR37,91
+2017,Randall Cobb,WR38,92
+2017,Duke Johnson Jr.,RB35,93
+2017,Tyrell Williams,WR39,94
+2017,Terrance West,RB36,95
+2017,Andrew Luck,QB11,96
+2017,Adam Thielen,WR40,97
+2017,Eddie Lacy,RB37,98
+2017,LeGarrette Blount,RB38,99
+2017,Darren McFadden,RB39,100
+2017,Chris Hogan,WR41,101
+2017,Ben Roethlisberger,QB12,102
+2017,Hunter Henry,TE11,103
+2017,James White,RB40,104
+2017,Corey Coleman,WR42,105
+2017,Dak Prescott,QB13,106
+2017,Matthew Stafford,QB14,107
+2017,Thomas Rawls,RB41,108
+2017,Marvin Jones Jr.,WR43,109
+2017,Jonathan Stewart,RB42,110
+2017,Rishard Matthews,WR44,111
+2017,Philip Rivers,QB15,112
+2017,Jordan Matthews,TE12,113
+2017,Matt Forte,RB43,114
+2017,Eric Ebron,TE13,115
+2017,Darren Sproles,RB44,116
+2017,John Brown,WR45,117
+2017,Donte Moncrief,WR46,118
+2017,Jack Doyle,TE14,119
+2017,Stephen Gostkowski,K1,120
+2017,Justin Tucker,K2,121
+2017,C.J. Prosise,RB45,122
+2017,Jacquizz Rodgers,RB46,123
+2017,Ted Ginn Jr.,WR47,124
+2017,Eli Manning,QB16,125
+2017,Jason Witten,TE15,126
+2017,Andy Dalton,QB17,127
+2017,Kevin White,WR48,128
+2017,Jamaal Charles,RB47,129
+2017,Kenny Britt,WR49,130
+2017,Mike Wallace,WR50,131
+2017,Cooper Kupp,WR51,132
+2017,Austin Hooper,TE16,133
+2017,Rex Burkhead,RB48,134
+2017,Denver Broncos,DST1,135
+2017,Carson Palmer,QB18,136
+2017,Jeremy Hill,RB49,137
+2017,Corey Davis,WR52,138
+2017,Zay Jones,WR53,139
+2017,Samaje Perine,RB50,140
+2017,Jamaal Williams,RB51,141
+2017,Alvin Kamara,RB52,142
+2017,Matt Bryant,K3,143
+2017,O.J. Howard,TE17,144
+2017,Dan Bailey,K4,145
+2017,Giovani Bernard,RB53,146
+2017,Carson Wentz,QB19,147
+2017,Sterling Shepard,WR54,148
+2017,Coby Fleener,TE18,149
+2017,Seattle Seahawks,DST2,150
+2017,Cole Beasley,WR55,151
+2017,Latavius Murray,RB54,152
+2017,Tyler Lockett,WR56,153
+2017,New York Giants,DST3,154
+2017,Evan Engram,TE19,155
+2017,Tyrod Taylor,QB20,156
+2017,Kansas City Chiefs,DST4,157
+2017,Houston Texans,DST5,158
+2017,Julius Thomas,TE20,159
+2017,Mason Crosby,K5,160
+2017,Josh Doctson,WR57,161
+2017,Cameron Brate,TE21,162
+2017,Wendell Smallwood,RB55,163
+2017,Taylor Gabriel,WR58,164
+2017,Minnesota Vikings,DST6,165
+2017,Arizona Cardinals,DST7,166
+2017,New England Patriots,DST8,167
+2017,Antonio Gates,TE22,168
+2017,Shane Vereen,RB56,169
+2017,Robbie Chosen,WR59,170
+2017,Carolina Panthers,DST9,171
+2017,Mohamed Sanu Sr.,WR60,172
+2017,Adam Vinatieri,K6,173
+2017,Kenny Stills,WR61,174
+2017,Joe Flacco,QB21,175
+2017,Kendall Wright,WR62,176
+2017,Danny Amendola,WR63,177
+2017,Marqise,WR64,178
+2017,Chris Thompson,RB57,179
+2017,Kenny Golladay,WR65,180
+2017,John Ross,WR66,181
+2017,Matt Prater,K7,182
+2017,Pittsburgh Steelers,DST10,183
+2017,Wil Lutz,K8,184
+2017,Jared Cook,TE23,185
+2017,Charles Sims,RB58,186
+2017,Jacksonville Jaguars,DST11,187
+2017,Marlon Mack,RB59,188
+2017,Torrey Smith,WR67,189
+2017,Cairo Santos,K9,191
+2017,Los Angeles Rams,DST12,192
+2017,Breshad Perriman,WR68,193
+2017,Jay Cutler,QB22,194
+2017,Baltimore Ravens,DST13,195
+2017,Dion Lewis,RB61,196
+2017,Philadelphia Eagles,DST14,197
+2017,DeAndre Washington,RB62,198
+2017,J.J. Nelson,WR69,199
+2017,James Conner,RB63,200
+2017,Atlanta Falcons,DST15,201
+2017,Charcandrick West,RB64,202
+2017,Sebastian Janikowski,K10,203
+2017,Sam Bradford,QB23,204
+2017,Dustin Hopkins,K11,205
+2017,Malcolm Mitchell,WR70,206
+2017,C.J. Fiedorowicz,TE24,207
+2017,David Njoku,TE25,208
+2017,Brandon LaFell,WR71,209
+2017,Allen Hurns,WR72,210
+2017,Devin Funchess,WR73,211
+2017,Julian Edelman,WR74,212
+2017,Jonathan Williams,RB65,213
+2017,Spencer Ware,RB66,214
+2017,Jalen Richard,RB67,215
+2017,Deshaun Watson,QB24,216
+2017,Joe Williams,RB68,217
+2017,Robert Woods,WR75,218
+2017,Chris Carson,RB69,219
+2017,Cincinnati Bengals,DST16,220
+2017,T.J. Yeldon,RB70,221
+2017,Cameron Meredith,WR76,222
+2017,Los Angeles Chargers,DST17,223
+2017,Blair Walsh,K12,224
+2017,ArDarius Stewart,WR77,226
+2017,Chris Boswell,K13,227
+2017,Mike Williams,WR78,228
+2017,Devontae Booker,RB72,229
+2017,Tavon Austin,WR79,230
+2017,Graham Gano,K14,231
+2017,Jesse James,TE26,232
+2017,Tarik Cohen,RB73,233
+2017,William Fuller,WR80,234
+2017,Matt Breida,RB74,235
+2017,Jaron Brown,WR81,236
+2017,Branden Oliver,RB75,237
+2017,Curtis Samuel,WR82,238
+2017,Charles Clay,TE27,239
+2017,Austin Seferian-Jenkins,TE28,240
+2017,Paul Richardson Jr.,WR83,241
+2017,Chris Conley,WR84,242
+2017,Stephen Hauschka,K15,243
+2017,Kenyan Drake,RB76,244
+2017,Alex Smith,QB25,245
+2017,Kyle Juszczyk,RB77,246
+2017,Caleb Sturgis,K16,247
+2017,Zach Zenner,RB78,248
+2017,Dwayne Allen,TE29,249
+2017,Brandon McManus,K17,250
+2017,Chris Ivory,RB79,251
+2017,Jimmy Garoppolo,QB26,252
+2017,Kerwynn Williams,RB80,253
+2017,Robert Turbin,RB81,254
+2017,Vance McDonald,TE30,255
+2017,Nelson Agholor,WR85,256
+2017,Blake Bortles,QB27,257
+2017,Chris Godwin Jr.,WR86,258
+2017,Mitchell Trubisky,QB28,259
+2017,Harrison Butker,K18,260
+2017,Dede Westbrook,WR87,261
+2017,Tyler Higbee,TE31,262
+2017,Brian Hoyer,QB29,263
+2017,Carlos Henderson,WR88,264
+2017,Alfred Morris,RB82,265
+2017,Younghoe Koo,K19,266
+2017,Javorius Allen,RB83,267
+2017,Laquon Treadwell,WR89,268
+2017,JuJu Smith-Schuster,WR90,269
+2017,Benjamin Watson,TE32,270
+2017,C.J. Spiller,RB84,271
+2017,Zach Miller,TE33,272
+2017,DeShone Kizer,QB30,273
+2017,Tampa Bay Buccaneers,DST18,274
+2017,Trevor Siemian,QB31,275
+2017,Travis Benjamin,WR91,276
+2017,Tim Hightower,RB85,277
+2017,Jerick McKinnon,RB86,278
+2017,Las Vegas Raiders,DST19,279
+2017,Jared Goff,QB32,280
+2017,Brandon Coleman,WR92,281
+2017,George Kittle,TE34,282
+2017,Kasen Williams,WR93,283
+2017,Aaron Jones Sr.,RB87,284
+2017,Chandler Catanzaro,K20,285
+2017,Tyler Boyd,WR94,286
+2017,Donnel Pumphrey,RB88,287
+2017,Marquise Goodwin,WR95,288
+2017,Tennessee Titans,DST20,289
+2017,Josh Gordon,WR96,290
+2017,Bruce Ellington,WR97,291
+2017,Chester Rogers,WR98,292
+2017,Ryan Switzer,WR99,293
+2017,Orleans Darkwa,RB89,294
+2017,Geronimo Allison,WR100,295
+2017,Jermaine Kearse,WR101,296
+2017,Gerald Everett,TE35,297
+2017,Matt Jones,RB90,298
+2017,Alex Erickson,WR102,299
+2017,Matt Asiata,RB91,300
+2017,Chris Johnson,RB92,301
+2017,Josh McCown,QB33,302
+2017,Phillip Dorsett II,WR103,303
+2017,Nick Folk,K21,304
+2017,Jermaine Gresham,TE36,305
+2017,Wayne Gallman Jr.,RB93,306
+2017,Andre Roberts,WR104,307
+2017,Green Bay Packers,DST21,308
+2017,Ryan Mathews,RB94,309
+2017,Jeremy Kerley,WR105,310
+2017,Cordarrelle Patterson,RB95,311
+2017,Patrick Mahomes II,QB34,312
+2017,Tajae Sharpe,WR106,313
+2017,Jeremy McNichols,RB96,314
+2017,Deonte Thompson,WR107,315
+2017,Brandon Tate,WR108,316
+2017,Braxton Miller,WR109,317
+2017,New York Jets,DST22,318
+2017,Eli Rogers,WR110,319
+2017,Taywan Taylor,WR111,320
+2017,Erik Swoope,TE37,321
+2017,Dwayne Washington,RB97,322
+2017,Markus Wheaton,WR112,323
+2017,Vernon Davis,TE38,324
+2017,Buffalo Bills,DST23,325
+2017,Kamar Aiken,WR113,326
+2017,Terrance Williams,WR114,327
+2017,Daniel Lasco,RB98,328
+2017,Miami Dolphins,DST24,329
+2017,Ladarius Green,TE39,330
+2017,Aldrick Rosas,K22,331
+2017,Dallas Cowboys,DST25,332
+2017,Dennis Pitta,TE40,333
+2017,Cleveland Browns,DST26,334
+2017,Chicago Bears,DST27,335
+2017,Zane Gonzalez,K23,336
+2017,San Francisco 49ers,DST28,337
+2017,Phil Dawson,K24,338
+2017,Washington Commanders,DST29,339
+2017,Indianapolis Colts,DST30,340
+2017,Detroit Lions,DST31,341
+2017,Josh Lambo,K25,342
+2017,New Orleans Saints,DST32,343
+2017,Tom Savage,QB35,344
+2017,Nick Novak,K26,345
+2017,Mike Glennon,QB36,346
+2017,DeAngelo Williams,RB99,347
+2017,Kenjon Barner,RB100,348
+2017,Dontrelle Inman,WR115,349
+2017,Matt Barkley,QB37,350
+2017,Victor Cruz,WR116,351
+2017,James Starks,RB101,352
+2017,Roberto Aguayo,K27,353
+2017,Michael Floyd,WR117,354
+2017,Damien Williams,RB102,355
+2017,Seth Roberts,WR118,356
+2017,Brock Osweiler,QB38,357
+2017,Adam Humphries,WR119,358
+2017,Cody Kessler,QB39,359
+2017,Paxton Lynch,QB40,360
+2017,Christine Michael,RB103,361
+2017,Sammie Coates,WR120,362
+2017,Ryan Succop,K28,363
+2017,Cameron Artis-Payne,RB104,364
+2017,Kai Forbath,K29,365
+2017,Shaun Draughn,RB105,366
+2017,Colin Kaepernick,QB41,367
+2017,Robbie Gould,K30,369
+2017,Kenneth Dixon,RB106,370
+2017,Dorial Green-Beckham,WR122,371
+2017,Ryan Tannehill,QB42,372
+2017,Rico Gathers,TE41,373
+2017,Derrick Coleman,RB107,374
+2017,Kyle Brindza,K31,375
+2017,Quincy Enunwa,WR123,376
+2017,Greg Zuerlein,K32,377
+2017,Mack Hollins,WR124,378
+2017,Seth DeValve,TE42,379
+2017,Dion Sims,TE43,380
+2017,Adam Shaheen,TE44,381
+2017,Andrew Franks,K33,382
+2017,Mike Tolbert,RB108,383
+2017,Elijah McGuire,RB109,384
+2017,Aaron Hernandez,TE45,385
+2017,Nick Boyle,TE46,386
+2017,Corey Clement,RB110,387
+2017,Rod Smith,RB111,388
+2017,Alfred Blue,RB112,389
+2017,Benny Cunningham Jr.,RB113,390
+2017,Andre Holmes,WR125,391
+2017,Jakeem Grant Sr.,WR126,392
+2017,Jake Butt,TE47,393
+2017,Dwayne Harris,WR127,394
+2017,Malcolm Brown,RB114,395
+2017,Matt Moore,QB43,396
+2017,Charone Peake,WR128,397
+2017,Jaelen Strong,WR129,398
+2017,David Fluellen,RB115,399
+2017,Maxx Williams,TE48,400
+2017,J.D. McKissic,RB116,401
+2017,Jordan Leggett,TE49,402
+2017,Tyler Ervin,RB117,403
+2017,Trent Taylor,WR130,404
+2017,Jonnu Smith,TE50,405
+2017,Ryan Griffin,TE51,406
+2017,Ka'imi Fairbairn,K34,407
+2017,Michael Campanaro,WR131,408
+2017,Albert Wilson,WR132,409
+2018,Todd Gurley,RB1,1
+2018,David Johnson,RB3,3
+2018,Ezekiel Elliott,RB4,4
+2018,Antonio Brown,WR1,5
+2018,Alvin Kamara,RB5,6
+2018,Saquon Barkley,RB6,7
+2018,DeAndre Hopkins,WR2,8
+2018,Leonard Fournette,RB7,9
+2018,Melvin Gordon,RB8,10
+2018,Kareem Hunt,RB9,11
+2018,dell Beckham Jr.,WR3,12
+2018,Julio Jones,WR4,13
+2018,Dalvin Cook,RB10,14
+2018,Christian McCaffrey,RB11,15
+2018,Michael Thomas,WR5,16
+2018,Keenan Allen,WR6,17
+2018,Devonta Freeman,RB12,18
+2018,Davante Adams,WR7,19
+2018,Jordan Howard,RB13,20
+2018,A.J. Green ,WR8,21
+2018,Rob Gronkowski,TE1,22
+2018,Joe Mixon,RB14,23
+2018,Mike Evans,WR9,24
+2018,LeSean McCoy,RB15,25
+2018,Tyreek Hill,WR10,26
+2018,Stefon Diggs,WR11,27
+2018,T.Y. Hilton,WR12,28
+2018,Travis Kelce,TE2,29
+2018,Aaron Rodgers,QB1,30
+2018,Alex Collins ,RB16,31
+2018,Adam Thielen,WR13,32
+2018,Derrick Henry,RB17,33
+2018,Doug Baldwin,WR14,34
+2018,Kenyan Drake,RB18,35
+2018,Amari Cooper,WR15,36
+2018,Larry Fitzgerald,WR16,37
+2018,Zach Ertz,TE3,38
+2018,Jay Ajayi ,RB19,39
+2018,JuJu Smith-Schuster,WR17,40
+2018,Royce Freeman,RB20,41
+2018,Brandin Cooks,WR18,42
+2018,Lamar Miller,RB21,43
+2018,Josh Gordon ,WR19,44
+2018,Demaryius Thomas ,WR20,45
+2018,Jarvis Landry,WR21,46
+2018,Mark Ingram II ,RB22,47
+2018,Deshaun Watson,QB2,48
+2018,Allen Robinson,WR22,49
+2018,Golden Tate,WR23,50
+2018,Jimmy Graham,TE4,51
+2018,Tom Brady,QB3,52
+2018,Marvin Jones Jr. ,WR24,53
+2018,Russell Wilson,QB4,54
+2018,Marshawn Lynch ,RB23,55
+2018,Carlos Hyde,RB24,56
+2018,Dion Lewis,RB25,57
+2018,Chris Hogan,WR25,58
+2018,Rashaad Penny,RB26,59
+2018,Greg lsen,TE5,60
+2018,Alshon Jeffery,WR26,61
+2018,Cam Newton ,QB5,62
+2018,Corey Davis,WR27,63
+2018,Evan Engram,TE6,64
+2018,Michael Crabtree,WR28,65
+2018,Tevin Coleman,RB27,66
+2018,Sony Michel,RB28,67
+2018,Drew Brees,QB6,68
+2018,Marquise Goodwin,WR29,69
+2018,Kerryon Johnson ,RB29,70
+2018,Julian Edelman ,WR30,71
+2018,Rex Burkhead,RB30,72
+2018,Emmanuel Sanders ,WR31,73
+2018,Jamaal Williams,RB31,74
+2018,Sammy Watkins,WR32,75
+2018,William Fuller V ,WR33,76
+2018,Carson Wentz ,QB7,77
+2018,Delanie Walker ,TE7,78
+2018,Kyle Rudolph,TE8,79
+2018,Ronald Jones,RB32,80
+2018,Devin Funchess,WR34,81
+2018,Trey Burton ,TE9,82
+2018,Marlon Mack,RB33,83
+2018,Kirk Cousins,QB8,84
+2018,Cooper Kupp,WR35,85
+2018,Tarik Cohen,RB34,86
+2018,Isaiah Crowell ,RB35,87
+2018,Robert Woods,WR36,88
+2018,Jordy Nelson,WR37,89
+2018,Robbie Chosen,WR38,90
+2018,Jamison Crowder,WR39,91
+2018,Pierre Garcon ,WR40,92
+2018,Jordan Reed ,TE10,93
+2018,Randall Cobb,WR41,94
+2018,Chris Carson,RB36,95
+2018,Andrew Luck,QB9,96
+2018,Aaron Jones r.,RB37,97
+2018,Jimmy Garoppolo,QB10,98
+2018,Nelson Agholor,WR42,99
+2018,Matthew Stafford,QB11,100
+2018,Nick Chubb,RB38,101
+2018,Duke Johnson Jr.,RB39,102
+2018,Peyton Barber,RB40,103
+2018,Kelvin Benjamin,WR43,104
+2018,Philip Rivers,QB12,105
+2018,Sterling Shepard,WR44,106
+2018,Matt Ryan,QB13,107
+2018,Ben Roethlisberger,QB14,108
+2018,C.J. Anderson,RB41,109
+2018,David Njoku,TE11,110
+2018,Kenny Stills,WR45,111
+2018,Patrick Mahomes II,QB15,112
+2018,Jared Goff,QB16,113
+2018,Allen Hurns,WR46,114
+2018,Calvin Ridley,WR47,115
+2018,Adrian Peterson,RB42,116
+2018,DeVante Parker,WR48,117
+2018,DJ Moore,WR49,118
+2018,Latavius Murray,RB43,119
+2018,Jack Doyle ,TE12,120
+2018,Ty Montgomery,RB44,121
+2018,Corey Clement,RB45,122
+2018,LeGarrette Blount,RB46,123
+2018,James White,RB47,124
+2018,George Kittle,TE13,125
+2018,Greg Zuerlein,K1,126
+2018,Kenny Golladay,WR50,127
+2018,Marcus Mariota,QB17,128
+2018,Cameron Meredith ,WR51,129
+2018,Devontae Booker,RB48,130
+2018,Alex Smith ,QB18,131
+2018,Stephen Gostkowski,K2,132
+2018,Bilal Powell ,RB49,133
+2018,Derek Carr,QB19,134
+2018,Tyler Eifert ,TE14,135
+2018,Michael Gallup,WR52,136
+2018,Giovani Bernard,RB50,137
+2018,Tyler Lockett,WR53,138
+2018,Justin Tucker,K3,139
+2018,Dak Prescott,QB20,140
+2018,Matt Breida ,RB51,141
+2018,Doug Martin,RB53,143
+2018,.J. Howard,TE15,144
+2018,Chris Thompson,RB54,145
+2018,Keelan Cole Sr.,WR54,146
+2018,Jacksonville Jaguars,DST1,147
+2018,Anthony Miller,WR55,148
+2018,Martavis Bryant ,WR56,149
+2018,Mike Williams,WR57,150
+2018,Josh Doctson,WR58,151
+2018,Mohamed Sanu Sr.,WR59,152
+2018,Los Angeles Rams,DST2,153
+2018,Rishard Matthews,WR60,154
+2018,Minnesota Vikings,DST3,155
+2018,Dez Bryant ,WR61,156
+2018,Marqise Lee ,WR62,157
+2018,Jameis Winston,QB21,158
+2018,Eric Ebron,TE16,159
+2018,Mitchell Trubisky,QB22,160
+2018,Jordan Wilkins,RB55,161
+2018,Alfred Morris,RB56,162
+2018,Philadelphia Eagles,DST4,163
+2018,Chris Godwin Jr.,WR63,164
+2018,Dede Westbrook,WR64,165
+2018,Los Angeles Chargers,DST5,166
+2018,Austin Seferian-Jenkins,TE17,167
+2018,Wil Lutz,K4,168
+2018,Eli Manning,QB23,169
+2018,Austin Hooper,TE18,170
+2018,John Brown,WR65,171
+2018,Houston Texans,DST6,172
+2018,Baltimore Ravens,DST7,173
+2018,DeSean Jackson,WR66,174
+2018,Geronimo Allison ,WR67,175
+2018,Jake Elliott,K5,176
+2018,Benjamin Watson,TE19,177
+2018,Robert Kelley,RB57,178
+2018,Theo Riddick,RB58,179
+2018,Denver Broncos,DST8,180
+2018,Nyheim Miller-Hines,RB59,181
+2018,Christian Kirk,WR68,182
+2018,Case Keenum,QB24,183
+2018,Cameron Brate,TE20,184
+2018,New Orleans Saints,DST9,185
+2018,Austin Ekeler,RB60,186
+2018,Alex Erickson,WR69,187
+2018,Frank Gore ,RB61,188
+2018,Andy Dalton,QB25,189
+2018,Pharoh Cooper,WR70,190
+2018,Tyrell Williams,WR71,191
+2018,Tyrod Taylor,QB26,192
+2018,Ryan Switzer,WR72,193
+2018,Ricky Seals-Jones,TE21,194
+2018,Donte Moncrief,WR73,195
+2018,Jonathan Williams,RB62,196
+2018,James Conner,RB63,197
+2018,Paul Richardson Jr. ,WR74,198
+2018,John Ross,WR75,199
+2018,Ted Ginn Jr.,WR76,200
+2018,Harrison Butker,K6,201
+2018,Jared Cook,TE22,202
+2018,Danny Amendola,WR77,203
+2018,Chicago Bears,DST10,204
+2018,Blake Bortles,QB27,205
+2018,Matt Bryant,K7,206
+2018,Carolina Panthers,DST11,207
+2018,Courtland Sutton,WR78,208
+2018,Mike Gesicki,TE23,209
+2018,Jakeem Grant Sr.,WR79,210
+2018,Andre Roberts,WR80,211
+2018,Samaje Perine,RB64,212
+2018,T.J. Yeldon,RB65,213
+2018,Robbie Gould,K8,214
+2018,Spencer Ware,RB66,215
+2018,Hayden Hurst,TE24,216
+2018,John Kelly Jr.,RB67,217
+2018,Cleveland Browns,DST12,218
+2018,Vance McDonald,TE25,219
+2018,New England Patriots,DST13,220
+2018,Pittsburgh Steelers,DST14,221
+2018,Chris Ivory,RB68,222
+2018,Chris Boswell,K9,223
+2018,Charles Clay,TE26,224
+2018,Javorius Allen,RB69,225
+2018,Kenneth Dixon,RB70,226
+2018,Jeremy Hill ,RB71,227
+2018,Quincy Enunwa,WR81,228
+2018,Atlanta Falcons,DST15,229
+2018,Arizona Cardinals,DST16,230
+2018,Mason Crosby,K10,231
+2018,Kalen Ballage,RB72,232
+2018,Ryan Tannehill,QB28,233
+2018,Daniel Carlson,K11,234
+2018,Tennessee Titans,DST17,235
+2018,Jordan Matthews,TE27,236
+2018,Matt Prater,K12,237
+2018,Dan Bailey,K13,238
+2018,James Washington,WR82,239
+2018,Detroit Lions,DST18,240
+2018,Jake Butt ,TE28,241
+2018,Adam Vinatieri,K14,242
+2018,Brandon McManus,K15,243
+2018,Tavon Austin,WR83,244
+2018,Graham Gano,K16,245
+2018,Lamar Jackson,QB29,246
+2018,Trevor Davis,WR84,247
+2018,Josh Lambo,K17,248
+2018,Terrelle Pryor Sr.,WR85,249
+2018,Baker Mayfield,QB30,250
+2018,Jermaine Kearse,WR86,251
+2018,Luke Willson,TE29,252
+2018,Cole Beasley,WR87,253
+2018,Willie Snead,WR88,254
+2018,Ka'imi Fairbairn,K18,255
+2018,Sam Bradford,QB31,256
+2018,Phillip Dorsett II,WR89,257
+2018,Corey Coleman,WR90,258
+2018,Jaylen Samuels,RB73,259
+2018,Albert Wilson ,WR91,260
+2018,Jesse James,TE30,261
+2018,Dallas Goedert,TE31,262
+2018,Mike Wallace ,WR92,263
+2018,Travis Benjamin,WR93,264
+2018,Joe Flacco,QB32,265
+2018,Ryan Griffin,TE32,266
+2018,Vernon Davis,TE33,267
+2018,Zay Jones,WR94,268
+2018,Brandon Marshall,WR95,269
+2018,Ryan Succop,K19,270
+2018,Terrance Williams,WR96,271
+2018,Garrett Celek,TE34,272
+2018,Blake Jarwin,TE35,273
+2018,Ed Dickson,TE36,274
+2018,Cordarrelle Patterson,RB74,275
+2018,Brandon Zylstra,WR97,276
+2018,Rod Smith,RB75,277
+2018,Darren Sproles,RB76,279
+2018,Elijah McGuire,RB77,280
+2018,Virgil Green,TE37,281
+2018,Antonio Gates,TE38,282
+2018,Kai Forbath,K20,283
+2018,Jonathan Stewart,RB78,284
+2018,Dante Pettis,WR99,285
+2018,Sam Darnold,QB33,286
+2018,Chase Edmonds,RB79,287
+2018,Taywan Taylor,WR100,288
+2018,Stephen Hauschka,K21,289
+2018,Josh Allen,QB34,290
+2018,Keke Coutee,WR101,291
+2018,DJ Chark Jr.,WR102,292
+2018,Mark Andrews,TE39,293
+2018,Kevin White ,WR103,294
+2018,Chester Rogers,WR104,295
+2018,Stephen Anderson,TE40,296
+2018,Malcolm Brown ,RB80,297
+2018,Corey Grant ,RB81,298
+2018,Adam Shaheen,TE41,299
+2018,Ameer Abdullah,RB82,300
+2018,Gerald Everett,TE42,301
+2018,C.J. Prosise ,RB83,302
+2018,Jaron Brown,WR105,303
+2018,Curtis Samuel,WR106,304
+2018,Travaris Cadet,RB84,305
+2018,Rico Gathers,TE43,306
+2018,Cameron Artis-Payne,RB85,307
+2018,Ryan Fitzpatrick,QB35,308
+2018,Wayne Gallman Jr.,RB86,309
+2018,Nick Foles,QB36,310
+2018,Charles Sims,RB87,311
+2018,Geoff Swaim ,TE44,312
+2018,Josh Rosen,QB37,313
+2018,Taylor Gabriel,WR107,314
+2018,Jake Kumerow,WR108,315
+2018,Nick Vannett,TE45,316
+2018,Dustin Hopkins,K22,317
+2018,Matt Barkley,QB38,319
+2018,Joe Williams,RB88,320
+2018,Antonio Callaway,WR110,321
+2018,J.J. Nelson,WR111,322
+2018,Trent Taylor,WR112,323
+2018,Brice Butler,WR113,324
+2018,Mike Gillislee,RB89,325
+2018,Jacoby Brissett,QB39,326
+2018,Jonnu Smith,TE46,327
+2018,Kenny Britt,WR114,328
+2018,Laquon Treadwell,WR115,329
+2018,Stevan Ridley,RB90,330
+2018,Josh McCown,QB40,331
+2018,Dwayne Allen,TE47,332
+2018,Tyler Kroft ,TE48,333
+2018,Robert Turbin ,RB91,334
+2018,Jeremy Maclin ,WR116,335
+2018,Torrey Smith,WR117,336
+2018,Brian Hoyer,QB41,337
+2018,Jacquizz Rodgers,RB92,338
+2018,J.D. McKissic,RB93,339
+2018,Chad Williams,WR118,340
+2018,Orleans Darkwa,RB94,341
+2018,Steven Jackson,RB95,342
+2018,Phil Dawson ,K23,343
+2018,Peyton Hillis,RB96,344
+2018,Christine Michael,RB97,345
+2018,Michael Roberts,TE49,346
+2018,AJ McCarron,QB42,347
+2018,Cody Latimer,WR119,348
+2018,Tyler Ervin,RB98,349
+2018,Mark Walton,RB99,350
+2018,Jordan Leggett,TE50,351
+2018,Xavier Grimble,TE51,352
+2018,Chris Johnson ,RB100,353
+2018,Brandon LaFell ,WR120,354
+2018,Wes Welker,WR121,355
+2018,Jalen Richard,RB101,356
+2018,Brock Osweiler,QB43,357
+2018,,1,358
+2018,Adam Humphries,WR122,359
+2018,Phillip Lindsay,RB102,360
+2018,Dennis Pitta,TE52,361
+2018,Randy Moss,WR123,362
+2018,Tajae Sharpe,WR124,363
+2018,Tony Romo,QB44,364
+2018,Malcolm Mitchell,WR125,365
+2018,Knowshon Moreno,RB103,366
+2018,Marques Colston,WR126,367
+2018,Akeem Hunt,RB104,368
+2018,Sebastian Janikowski,K24,369
+2018,Caleb Sturgis,K25,370
+2018,Rashard Higgins,WR127,371
+2018,Jordan Akins,TE53,372
+2018,Marcedes Lewis,TE54,373
+2018,Ryan Grant ,WR128,374
+2018,Equanimeous St. Brown,WR129,375
+2018,Tyler Boyd,WR130,376
+2018,Coby Fleener,TE55,377
+2018,Kendall Wright,WR131,378
+2018,Damoun Patterson,WR132,379
+2018,Tyler Higbee,TE56,380
+2018,Aldrick Rosas,K26,381
+2018,Cairo Santos,K27,382
+2018,Alfred Blue,RB105,383
+2018,Marcus Murphy ,RB106,384
+2018,Landry Jones,QB45,385
+2018,Thomas Rawls,RB107,386
+2018,Trenton Cannon,RB108,387
+2018,Clive Walford,TE57,388
+2018,Fitzgerald Toussaint,RB109,389
+2018,Javon Wims,WR133,390
+2018,Troymaine Pope,RB110,391
+2018,C.J. Beathard,QB46,392
+2018,C.J. Ham,RB111,393
+2018,Boston Scott,RB112,394
+2018,Tommylee Lewis,WR134,395
+2018,Terrance West,RB113,396
+2018,Justin Hardy,WR135,397
+2018,Justin Watson,WR136,398
+2018,Teddy Bridgewater,QB47,399
+2018,Johnny Manziel,QB48,400
+2018,Wendell Smallwood,RB114,401
+2018,Mike Boone,RB115,402
+2018,David Moore,WR137,403
+2018,Mark Sanchez,QB49,404
+2018,Zane Gonzalez,K28,405
+2018,Nathan Peterman,QB50,406
+2018,Eric Tomlinson ,TE58,407
+2018,Eddy Pineiro,K29,408
+2018,Colin Kaepernick,QB51,409
+2018,Mike Davis,RB116,410
+2018,Shelton Gibson,WR138,411
+2018,Cody Parkey,K30,412
+2018,Aaron Hernandez,TE59,413
+2018,Brett Maher,K31,414
+2018,Deonte Thompson,WR139,415
+2018,Matt Cassel,QB52,416
+2018,Jeff Heuerman ,TE60,417
+2018,DeAndre Washington,RB117,418
+2018,Kerwynn Williams,RB118,419
+2018,Derek Watt,RB119,420
+2018,Chandler Catanzaro,K32,421
+2018,Bennie Fowler,WR140,422
+2018,Seth Roberts,WR141,423
+2018,DaeSean Hamilton,WR142,424
+2018,Derek Carrier,TE61,425
+2018,Akrum Wadley,RB120,426
+2018,Bruce Ellington,WR143,427
+2018,Charcandrick West,RB121,428
+2018,Mack Hollins,WR144,429
+2018,Brandon Tate,WR145,430
+2018,Dwayne Harris,WR146,431
+2018,Kyle Juszczyk,RB122,432
+2018,Roberto Aguayo,K33,433
+2018,Tim Tebow,TE62,434
+2018,Jacob Hollister,TE63,435
+2018,Brett Hundley,QB53,436
+2018,Roc Thomas,RB123,437
+2018,Marquez Valdes-Scantling,WR147,438
+2018,Braxton Berrios,WR148,439
+2018,Richie James Jr.,WR149,440
+2018,Justin Davis,RB124,441
+2018,Braxton Miller,WR150,442
+2018,Ito Smith ,RB125,443
+2018,Randy Bullock,K34,444
+2018,Kyle Lauletta,QB54,445
+2018,Amara Darboh,WR151,446
+2018,Jason Sanders,K35,447
+2018,T.J. Jones,WR152,448
+2018,Jeremy Kerley,WR153,449
+2018,Chris Conley,WR154,450
+2018,Mason Rudolph,QB55,451
+2018,Niles Paul,TE64,452
+2018,Keith Smith,RB126,453
+2018,Patrick DiMarco,RB127,454
+2018,Andy Janovich,RB128,455
+2018,Joe Webb,QB56,456
+2018,Nick Boyle,TE65,457
+2018,Chris Moore,WR155,458
+2018,Jermaine Gresham,TE66,459
+2018,Justin Hunter ,WR156,460
+2018,Demarcus Robinson,WR157,461
+2018,Brandon Weeden,QB57,462
+2018,Demetrius Harris ,TE67,463
+2018,Seth DeValve,TE68,464
+2018,Nate Sudfeld,QB58,465
+2018,Lee Smith,TE69,466
+2018,Lance Kendricks,TE70,467
+2018,Eli Rogers ,WR158,468
+2018,A.J. Derby,TE71,469
+2018,Benny Cunningham Jr.,RB129,470
+2018,Chad Hansen,WR159,471
+2018,Jamize Olawale,RB130,473
+2018,Chris Herndon,TE72,474
+2018,Logan Paulsen,TE74,476
+2018,Geno Smith,QB59,477
+2018,Josh Hill,TE75,478
+2018,Blaine Gabbert,QB60,479
+2018,Kendrick Bourne,WR161,480
+2018,Josh Reynolds,WR162,481
+2018,Hunter Henry,TE76,482
+2019,Saquon Barkley,RB1,1
+2019,Alvin Kamara,RB2,2
+2019,Christian McCaffrey,RB3,3
+2019,Ezekiel Elliott,RB4,4
+2019,David Johnson,RB5,5
+2019,DeAndre Hopkins,WR1,6
+2019,Davante Adams,WR2,7
+2019,James Conner,RB6,8
+2019,Nick Chubb,RB8,10
+2019,Michael Thomas,WR3,11
+2019,Julio Jones,WR4,12
+2019,Odell Beckham Jr.,WR5,13
+2019,Todd Gurley,RB9,14
+2019,Dalvin Cook,RB10,15
+2019,JuJu Smith-Schuster,WR6,16
+2019,Travis Kelce,TE1,17
+2019,Joe Mixon,RB11,18
+2019,Tyreek Hill,WR7,19
+2019,Patrick Mahomes II,QB1,20
+2019,Mike Evans,WR8,21
+2019,Antonio Brown,WR9,22
+2019,Keenan Allen,WR10,23
+2019,Adam Thielen,WR11,24
+2019,George Kittle,TE2,25
+2019,Leonard Fournette,RB12,26
+2019,Damien Williams,RB13,27
+2019,Aaron Jones Sr.,RB14,28
+2019,Kerryon Johnson,RB15,29
+2019,Zach Ertz,TE3,30
+2019,Devonta Freeman,RB16,31
+2019,Amari Cooper,WR12,32
+2019,Stefon Diggs,WR13,33
+2019,Derrick Henry,RB17,34
+2019,Josh Jacobs,RB18,35
+2019,Marlon Mack,RB19,36
+2019,Chris Carson ,RB20,37
+2019,Brandin Cooks,WR14,38
+2019,Robert Woods,WR15,39
+2019,T.Y. Hilton,WR16,40
+2019,David Montgomery,RB21,41
+2019,Julian Edelman,WR17,42
+2019,Deshaun Watson,QB2,43
+2019,Mark Ingram,RB22,44
+2019,Chris Godwin Jr.,WR18,45
+2019,Kenny Golladay,WR19,46
+2019,Melvin Gordon,RB23,47
+2019,Tyler Lockett,WR20,48
+2019,Sony Michel,RB24,49
+2019,Aaron Rodgers,QB3,50
+2019,Cooper Kupp,WR21,51
+2019,Phillip Lindsay,RB25,52
+2019,Tyler Boyd,WR22,53
+2019,O.J. Howard,TE4,54
+2019,Mike Williams,WR23,55
+2019,Calvin Ridley,WR24,56
+2019,Evan Engram,TE5,57
+2019,Baker Mayfield,QB4,58
+2019,A.J. Green ,WR25,59
+2019,Hunter Henry,TE6,60
+2019,Tevin Coleman,RB26,61
+2019,Jarvis Landry,WR26,62
+2019,Josh Gordon,WR27,63
+2019,DJ Moore,WR28,64
+2019,James White,RB27,65
+2019,Alshon Jeffery ,WR29,66
+2019,Allen Robinson,WR30,67
+2019,Miles Sanders,RB28,68
+2019,Matt Ryan,QB5,69
+2019,Duke Johnson Jr.,RB29,70
+2019,Jared Cook,TE7,71
+2019,Austin Ekeler,RB30,72
+2019,Tarik Cohen,RB31,73
+2019,Carson Wentz,QB6,74
+2019,Robbie Chosen,WR31,75
+2019,Drew Brees,QB7,76
+2019,Kenyan Drake,RB32,77
+2019,Chicago Bears,DST1,78
+2019,Dede Westbrook,WR32,79
+2019,Russell Wilson,QB8,80
+2019,William Fuller,WR33,81
+2019,Latavius Murray,RB33,82
+2019,Vance McDonald,TE8,83
+2019,Christian Kirk,WR34,84
+2019,Jared Goff,QB9,85
+2019,Derrius Guice ,RB34,86
+2019,Cam Newton ,QB10,87
+2019,Sammy Watkins,WR35,88
+2019,Curtis Samuel,WR36,89
+2019,David Njoku,TE9,90
+2019,Jordan Howard,RB35,91
+2019,Los Angeles Rams,DST2,92
+2019,Corey Davis,WR37,93
+2019,Eric Ebron ,TE10,94
+2019,Sterling Shepard,WR38,95
+2019,Marvin Jones Jr. ,WR39,96
+2019,Kyler Murray,QB11,97
+2019,Matt Breida,RB36,98
+2019,Royce Freeman,RB37,99
+2019,Larry Fitzgerald,WR40,100
+2019,Lamar Jackson,QB12,101
+2019,Emmanuel Sanders,WR41,102
+2019,Rashaad Penny ,RB38,103
+2019,Devin Singletary,RB39,104
+2019,Dante Pettis,WR42,105
+2019,LeSean McCoy,RB40,106
+2019,Kareem Hunt,RB41,107
+2019,Greg Zuerlein,K1,108
+2019,Jameis Winston,QB13,109
+2019,Jacksonville Jaguars,DST3,110
+2019,Delanie Walker ,TE11,111
+2019,Tom Brady,QB14,112
+2019,Ben Roethlisberger ,QB15,113
+2019,Marquez Valdes-Scantling,WR43,114
+2019,Justin Tucker,K2,115
+2019,Tony Pollard,RB42,116
+2019,Courtland Sutton,WR44,117
+2019,James Washington,WR45,118
+2019,Austin Hooper,TE12,119
+2019,Darrell Henderson Jr.,RB43,120
+2019,Philip Rivers,QB16,121
+2019,Adrian Peterson,RB44,122
+2019,Justin Jackson,RB45,123
+2019,Dak Prescott,QB17,124
+2019,Harrison Butker,K3,125
+2019,Michael Gallup,WR46,126
+2019,DeSean Jackson ,WR47,127
+2019,Geronimo Allison,WR48,128
+2019,Golden Tate,WR49,129
+2019,Minnesota Vikings,DST4,130
+2019,Mark Andrews,TE13,131
+2019,Donte Moncrief,WR50,132
+2019,Stephen Gostkowski ,K4,133
+2019,Jaylen Samuels,RB46,134
+2019,Tyrell Williams,WR51,135
+2019,DK Metcalf,WR52,136
+2019,Baltimore Ravens,DST5,137
+2019,Anthony Miller,WR53,138
+2019,Peyton Barber,RB47,139
+2019,Kalen Ballage ,RB48,140
+2019,Damien Harris,RB49,141
+2019,Cleveland Browns,DST6,142
+2019,Justice Hill,RB50,143
+2019,Mecole Hardman Jr.,WR54,144
+2019,Greg Olsen,TE14,145
+2019,Mitchell Trubisky,QB18,146
+2019,Dion Lewis,RB51,147
+2019,Kirk Cousins,QB19,148
+2019,Carlos Hyde,RB52,150
+2019,New England Patriots,DST7,151
+2019,Houston Texans,DST8,152
+2019,Ka'imi Fairbairn,K5,153
+2019,Wil Lutz,K6,154
+2019,Ronald Jones,RB53,155
+2019,Keke Coutee,WR56,156
+2019,Trey Burton ,TE15,157
+2019,T.J. Hockenson,TE16,158
+2019,Alexander Mattison,RB54,159
+2019,John Brown,WR57,160
+2019,Deebo Samuel Sr.,WR58,161
+2019,Jamison Crowder,WR59,162
+2019,Devin Funchess ,WR60,163
+2019,Kyle Rudolph,TE17,164
+2019,Nyheim Miller-Hines,RB55,165
+2019,Matthew Stafford,QB20,166
+2019,Ito Smith ,RB56,167
+2019,Denver Broncos,DST9,168
+2019,Jimmy Graham,TE18,169
+2019,Darwin Thompson,RB57,170
+2019,Jason Witten,TE19,171
+2019,Josh Allen,QB21,172
+2019,Jimmy Garoppolo,QB22,173
+2019,Randall Cobb,WR61,174
+2019,Nick Foles,QB23,175
+2019,Derek Carr,QB24,176
+2019,Jordan Reed,TE20,177
+2019,Parris Campbell ,WR62,178
+2019,Rex Burkhead,RB58,180
+2019,Adam Humphries,WR64,181
+2019,Sam Darnold,QB25,182
+2019,Ted Ginn Jr.,WR65,183
+2019,Marquise Goodwin,WR66,184
+2019,Jacoby Brissett,QB26,185
+2019,Dallas Cowboys,DST10,186
+2019,Marquise Brown,WR67,187
+2019,Carolina Panthers,DST11,188
+2019,Dare Ogunbowale,RB59,189
+2019,Malcolm Brown,RB60,190
+2019,Green Bay Packers,DST12,191
+2019,Los Angeles Chargers,DST13,192
+2019,C.J. Anderson,RB61,193
+2019,Atlanta Falcons,DST14,194
+2019,Demaryius Thomas,WR68,195
+2019,Robbie Gould,K7,196
+2019,Kenny Stills,WR69,197
+2019,Tyler Eifert,TE21,198
+2019,Mason Crosby,K8,199
+2019,Philadelphia Eagles,DST15,200
+2019,Seattle Seahawks,DST16,202
+2019,Buffalo Bills,DST17,203
+2019,Mohamed Sanu Sr.,WR70,204
+2019,Darren Waller,TE22,205
+2019,DaeSean Hamilton,WR71,206
+2019,Chris Herndon IV ,TE23,207
+2019,New Orleans Saints,DST18,208
+2019,Michael Badgley,K9,209
+2019,A.J. Brown,WR72,210
+2019,J.J. Arcega-Whiteside,WR73,211
+2019,Noah Fant,TE24,212
+2019,Nelson Agholor,WR74,213
+2019,Ty Montgomery,RB63,214
+2019,Zay Jones,WR75,215
+2019,Adam Vinatieri ,K10,216
+2019,Mike Davis,RB64,217
+2019,Kelvin Harmon,WR76,218
+2019,Jamaal Williams,RB65,219
+2019,DeVante Parker,WR77,220
+2019,Chris Thompson,RB66,221
+2019,Jalen Richard,RB67,222
+2019,Detroit Lions,DST19,223
+2019,Antonio Callaway ,WR78,224
+2019,Robert Foster,WR79,225
+2019,Marcus Mariota,QB27,226
+2019,Dallas Goedert,TE25,227
+2019,Jack Doyle,TE26,228
+2019,T.J. Yeldon,RB68,229
+2019,Ryquell Armstead,RB69,230
+2019,Andy Isabella,WR80,231
+2019,Chase Edmonds,RB70,232
+2019,Giovani Bernard,RB71,233
+2019,Darrel Williams ,RB72,234
+2019,Kansas City Chiefs,DST20,235
+2019,Albert Wilson,WR81,236
+2019,Brian Hill,RB73,237
+2019,Quincy Enunwa ,WR82,238
+2019,Preston Williams ,WR83,239
+2019,Jalen Hurd,WR84,240
+2019,Gus Edwards,RB74,241
+2019,Pittsburgh Steelers,DST21,242
+2019,Dontrell Hilliard,RB75,243
+2019,Dwayne Haskins,QB28,244
+2019,Darius Jackson,RB76,245
+2019,Devine Ozigbo,RB77,246
+2019,Trayveon Williams,RB78,247
+2019,Marqise,WR85,248
+2019,Jakobi Meyers,WR86,249
+2019,Alfred Morris,RB79,250
+2019,Giorgio Tavecchio,K11,251
+2019,Jake Elliott,K12,252
+2019,Mike Gesicki,TE27,253
+2019,Irv Smith Jr.,TE28,254
+2019,Damon Sheehy-Guiseppi,WR87,255
+2019,Trey Quinn ,WR88,256
+2019,Arizona Cardinals,DST22,257
+2019,Matt LaCosse,TE29,258
+2019,Austin Seibert,K13,259
+2019,Dexter Williams,RB80,260
+2019,Cole Beasley,WR89,261
+2019,Miles Boykin,WR90,262
+2019,Maurice Harris,WR91,263
+2019,San Francisco 49ers,DST23,264
+2019,Qadree Ollison,RB81,265
+2019,Demarcus Robinson,WR92,266
+2019,Riley Ridley,WR93,267
+2019,Frank Gore,RB82,268
+2019,Jay Ajayi,RB83,269
+2019,Matt Prater,K14,270
+2019,Willie Snead,WR94,271
+2019,Brett Maher,K15,272
+2019,Josh Reynolds,WR95,273
+2019,David Moore,WR96,274
+2019,Ian Thomas,TE30,275
+2019,Tennessee Titans,DST24,276
+2019,Theo Riddick,RB84,277
+2019,Bruce Anderson,RB85,278
+2019,KeeSean Johnson,WR97,279
+2019,Benny Snell Jr.,RB86,280
+2019,Taylor Gabriel,WR98,281
+2019,Dez Bryant,WR99,282
+2019,Jason Myers,K16,283
+2019,Gerald Everett,TE31,284
+2019,Chris Boswell,K17,285
+2019,Indianapolis Colts,DST25,286
+2019,Diontae Johnson,WR100,287
+2019,Eddy Pineiro,K18,288
+2019,Paul Richardson Jr. ,WR101,289
+2019,Matt Gay,K19,290
+2019,DJ Chark Jr.,WR102,291
+2019,John Ross,WR103,292
+2019,Josh Doctson,WR104,293
+2019,Andy Dalton,QB29,294
+2019,Rashard Higgins,WR105,295
+2019,Hunter Renfrow,WR106,296
+2019,Myles Gaskin,RB87,297
+2019,Dan Bailey,K20,298
+2019,Travis Benjamin,WR107,299
+2019,Aldrick Rosas,K21,300
+2019,Washington Commanders,DST26,301
+2019,Josh Rosen,QB30,302
+2019,Danny Amendola,WR108,303
+2019,Doug Martin,RB88,304
+2019,Chris Conley,WR109,305
+2019,Eli Manning,QB31,306
+2019,Cameron Artis-Payne,RB89,307
+2019,Ricky Seals-Jones,TE32,308
+2019,Deon Cain,WR110,309
+2019,Alfred Blue,RB90,310
+2019,Taywan Taylor,WR111,311
+2019,Ryan Fitzpatrick,QB32,312
+2019,Hayden Hurst,TE33,313
+2019,Isaac Zico,WR112,314
+2019,Chad Beebe,WR113,315
+2019,Alex Collins,RB91,316
+2019,Geoff Swaim,TE34,317
+2019,Devontae Booker,RB92,318
+2019,Corey Clement,RB93,319
+2019,,1,320
+2019,Benjamin Watson,TE35,321
+2019,New York Jets,DST27,322
+2019,Case Keenum,QB33,323
+2019,Joe Flacco,QB34,324
+2019,James Develin ,RB94,325
+2019,Blake Jarwin,TE36,326
+2019,Brandon McManus,K22,327
+2019,Spencer Ware,RB95,328
+2019,Bilal Powell,RB96,329
+2019,Kendrick Bourne,WR114,330
+2019,Zach Zenner,RB97,331
+2019,Devin Gray,WR115,332
+2019,Chris Hogan,WR116,333
+2019,Jaron Brown,WR117,334
+2019,Lucky Whitehead,WR118,335
+2019,Jordan Thomas,TE37,336
+2019,Phillip Dorsett II,WR119,337
+2019,Daniel Jones,QB35,338
+2019,Kyle Juszczyk,RB98,339
+2019,Michael Crabtree,WR120,340
+2019,Cordarrelle Patterson,RB99,341
+2019,Breshad Perriman,WR121,342
+2019,Wendell Smallwood,RB100,343
+2019,Laquon Treadwell,WR122,344
+2019,Wayne Gallman Jr.,RB101,345
+2019,Cameron Brate,TE38,346
+2019,Alonzo Harris,RB102,347
+2019,Chester Rogers ,WR123,348
+2019,Joe Banyard,RB103,349
+2019,Jordan Matthews,TE39,350
+2019,Jarius Wright,WR124,351
+2019,Keelan Cole Sr.,WR125,352
+2019,Jesse James,TE40,353
+2019,C.J. Uzomah,TE41,354
+2019,Ryan Succop ,K23,355
+2019,Seth Roberts,WR126,356
+2019,Tajae Sharpe,WR127,357
+2019,Isaiah McKenzie,WR128,358
+2019,Drew Lock,QB36,359
+2019,Randy Bullock,K24,360
+2019,Kapri Bibbs,RB104,361
+2019,Chris Matthews,WR129,362
+2019,Jordan Wilkins,RB105,363
+2019,Tim Patrick,WR130,364
+2019,Miami Dolphins,DST28,365
+2019,Blake Bortles,QB37,366
+2019,Zach Pascal,WR131,367
+2019,Gunner Olszewski,WR132,368
+2019,Joshua Dobbs,QB38,369
+2019,Nick Vannett,TE42,370
+2019,Aldrick Robinson,WR133,371
+2019,Ryan Tannehill,QB39,372
+2019,Dri Archer,RB106,373
+2019,C.J. Beathard,QB40,374
+2019,Elliott,K25,375
+2019,Reggie Bonnafon,RB107,376
+2019,Chris Ivory,RB108,377
+2019,Will Dissly,TE43,378
+2019,Alex Barnes,RB109,379
+2019,LeGarrette Blount,RB110,380
+2019,Jordan Scarlett,RB111,381
+2019,Marshawn Lynch,RB112,382
+2019,Jason Sanders,K26,383
+2019,Jaydon Mickens,WR134,384
+2019,Terry McLaurin,WR135,385
+2019,Corey Acosta,K27,386
+2019,Josh Lambo,K28,387
+2019,Olamide Zaccheaus,WR136,388
+2019,Hunter Sharp,WR137,389
+2019,Jacob Dolegala,QB41,390
+2019,Manasseh Garner,TE44,391
+2019,Terrelle Pryor Sr.,WR138,392
+2019,Connor Barth,K29,393
+2019,Joey Slye,K30,394
+2019,Demetrius Harris,TE45,395
+2019,Jordan Veasy,WR139,396
+2019,Devonte Boyd,WR140,397
+2019,Matt Bryant,K31,398
+2019,Jake Kumerow,WR141,399
+2019,Dustin Hopkins,K32,400
+2019,DeAndre Carter,WR142,401
+2019,Felton Davis,WR143,402
+2019,Robert Griffin,QB42,403
+2019,Paxton Lynch,QB43,404
+2019,Daniel Carlson,K33,405
+2019,Las Vegas Raiders,DST29,406
+2019,Stephen Hauschka,K34,407
+2019,DeAndre Washington,RB113,408
+2019,Damion Willis,WR144,409
+2019,Tim Tebow,TE46,410
+2019,Russell Shepard,WR145,411
+2019,Trace McSorley,QB44,412
+2019,Greg Joseph,K35,413
+2019,Darius Slayton,WR146,414
+2019,Ty Johnson,RB114,415
+2019,Aaron Hernandez,TE47,416
+2019,Tavon Austin,WR147,417
+2019,Marlon Brown,WR148,418
+2019,Zane Gonzalez,K36,419
+2019,James 'Shaughnessy,TE48,420
+2019,Taysom Hill,TE49,421
+2019,Dawson Knox,TE50,422
+2019,Jeff Heuerman,TE51,423
+2019,Josh Hill,TE52,424
+2019,Vernon Davis,TE53,425
+2019,C.J. Prosise ,RB115,426
+2019,Johnny Manziel,QB45,427
+2019,Jakeem Grant Sr.,WR149,428
+2019,Garrett Gilbert,QB46,429
+2019,Trent Taylor,WR150,430
+2019,Mark Walton,RB116,431
+2019,New York Giants,DST30,432
+2019,Darren Sproles ,RB117,433
+2019,Mason Rudolph,QB47,434
+2019,Josh liver,TE54,435
+2019,Andre Ellington,RB118,436
+2019,Mike Boone,RB119,437
+2019,Tyrod Taylor,QB48,438
+2019,Will Grier,QB49,439
+2019,Quadree Henderson,WR151,441
+2019,Gary Jennings Jr. ,WR152,442
+2019,Tampa Bay Buccaneers,DST31,443
+2019,AJ McCarron,QB50,444
+2019,Kevin White,WR153,445
+2019,Dontrelle Inman,WR154,446
+2019,Cooper Rush,QB51,447
+2019,Ryan Switzer,WR155,448
+2019,Charles Clay,TE55,449
+2019,Chris Moore,WR156,450
+2019,Tyler Kroft,TE56,451
+2019,Blaine Gabbert,QB52,452
+2019,Jonnu Smith,TE57,453
+2019,Justin Watson,WR157,454
+2019,Foster Moreau,TE58,455
+2019,Bryce Love,RB121,456
+2020,Christian McCaffrey,RB1,1
+2020,Saquon Barkley,RB2,2
+2020,Ezekiel Elliott,RB3,3
+2020,Dalvin Cook,RB4,4
+2020,Alvin Kamara,RB5,5
+2020,Derrick Henry,RB6,6
+2020,Michael Thomas,WR1,7
+2020,Davante Adams,WR2,8
+2020,Joe Mixon,RB7,9
+2020,Tyreek Hill,WR3,10
+2020,Nick Chubb,RB8,11
+2020,Clyde Edwards-Helaire,RB9,12
+2020,Josh Jacobs,RB10,13
+2020,Julio Jones,WR4,14
+2020,Kenyan Drake,RB11,15
+2020,DeAndre Hopkins,WR5,16
+2020,Patrick Mahomes II,QB1,17
+2020,Travis Kelce,TE1,18
+2020,Austin Ekeler,RB12,19
+2020,Aaron Jones Sr.,RB13,20
+2020,Miles Sanders,RB14,21
+2020,George Kittle,TE2,22
+2020,Lamar Jackson,QB2,23
+2020,Chris Godwin Jr.,WR6,24
+2020,Kenny Golladay,WR7,25
+2020,Mike Evans,WR8,26
+2020,Chris Carson,RB15,27
+2020,dell Beckham Jr.,WR9,28
+2020,Allen Robinson,WR10,29
+2020,Todd Gurley,RB16,30
+2020,Adam Thielen,WR11,31
+2020,James Conner,RB17,32
+2020,DJ Moore,WR12,33
+2020,Amari Cooper,WR13,34
+2020,JuJu Smith-Schuster,WR14,35
+2020,Jonathan Taylor,RB18,36
+2020,Melvin Gordon,RB19,37
+2020,A.J. Brown,WR15,38
+2020,Mark Andrews,TE3,39
+2020,Cooper Kupp,WR16,40
+2020,David Johnson,RB21,42
+2020,Calvin Ridley,WR17,43
+2020,Zach Ertz,TE4,44
+2020,Mark Ingram,RB22,45
+2020,Tyler Lockett,WR18,46
+2020,Courtland Sutton,WR19,47
+2020,Dak Prescott,QB3,48
+2020,Keenan Allen,WR20,49
+2020,Robert Woods,WR21,50
+2020,DK Metcalf,WR22,51
+2020,Raheem Mostert,RB23,52
+2020,Terry McLaurin,WR23,53
+2020,DJ Chark Jr.,WR24,54
+2020,Russell Wilson,QB4,55
+2020,Devin Singletary,RB24,56
+2020,Kyler Murray,QB5,57
+2020,T.Y. Hilton,WR25,58
+2020,Darren Waller,TE5,59
+2020,Cam Akers,RB25,60
+2020,Leonard Fournette,RB26,61
+2020,Deshaun Watson,QB6,62
+2020,DeVante Parker,WR26,63
+2020,Stefon Diggs,WR27,64
+2020,D'Andre Swift,RB27,65
+2020,Kareem Hunt,RB28,66
+2020,David Montgomery,RB29,67
+2020,Marquise Brown,WR28,68
+2020,Michael Gallup,WR29,69
+2020,A.J. Green,WR30,70
+2020,Matt Ryan,QB7,71
+2020,Tyler Boyd,WR31,72
+2020,Drew Brees,QB8,73
+2020,Evan Engram,TE6,74
+2020,Tyler Higbee,TE7,75
+2020,Ronald Jones,RB30,76
+2020,Rob Gronkowski,TE8,77
+2020,Josh Allen,QB9,78
+2020,Hunter Henry,TE9,79
+2020,Jarvis Landry,WR32,80
+2020,William Fuller V ,WR33,81
+2020,Julian Edelman,WR34,82
+2020,J.K. Dobbins,RB31,83
+2020,Jordan Howard,RB32,84
+2020,Deebo Samuel Sr.,WR35,85
+2020,Aaron Rodgers,QB10,86
+2020,Tom Brady,QB11,87
+2020,Phillip Lindsay,RB33,88
+2020,Brandin Cooks,WR36,89
+2020,Marvin Jones Jr.,WR37,90
+2020,James White,RB34,91
+2020,Jared Cook,TE10,92
+2020,Marlon Mack ,RB35,93
+2020,Matt Breida,RB36,94
+2020,Carson Wentz,QB12,95
+2020,Sony Michel,RB37,96
+2020,San Francisco 49ers,DST1,97
+2020,Kerryon Johnson,RB38,98
+2020,Diontae Johnson,WR38,99
+2020,Zack Moss ,RB39,100
+2020,Hayden Hurst,TE11,101
+2020,CeeDee Lamb,WR39,102
+2020,Matthew Stafford,QB13,103
+2020,Tarik Cohen ,RB40,104
+2020,Pittsburgh Steelers,DST2,105
+2020,Darius Slayton,WR40,106
+2020,Emmanuel Sanders,WR41,107
+2020,Jamison Crowder,WR42,108
+2020,Latavius Murray,RB41,109
+2020,Baltimore Ravens,DST3,110
+2020,Tevin Coleman,RB42,111
+2020,Austin Hooper,TE12,112
+2020,Noah Fant,TE13,113
+2020,John Brown,WR43,114
+2020,Christian Kirk,WR44,115
+2020,Sterling Shepard,WR45,116
+2020,Jerry Jeudy,WR46,117
+2020,Alexander Mattison,RB43,118
+2020,Ben Roethlisberger,QB14,119
+2020,Antonio Gibson,RB44,120
+2020,Buffalo Bills,DST4,121
+2020,Henry Ruggs,WR47,122
+2020,Justin Tucker,K1,123
+2020,Darrell Henderson Jr.,RB45,124
+2020,Harrison Butker,K2,125
+2020,Daniel Jones,QB15,126
+2020,Chicago Bears,DST5,127
+2020,Mecole Hardman Jr.,WR48,128
+2020,Mike Gesicki,TE14,129
+2020,Joe Burrow,QB16,130
+2020,Justin Jefferson,WR49,131
+2020,Baker Mayfield,QB17,132
+2020,Ke'Shawn Vaughn,RB46,133
+2020,Tony Pollard,RB47,134
+2020,New England Patriots,DST6,135
+2020,Preston Williams,WR50,136
+2020,Jalen Reagor,WR51,137
+2020,T.J. Hockenson,TE15,138
+2020,Jared Goff,QB18,139
+2020,Cam Newton,QB19,140
+2020,DeSean Jackson,WR52,141
+2020,Wil Lutz,K3,142
+2020,Chase Edmonds,RB48,143
+2020,Adrian Peterson,RB49,144
+2020,Sammy Watkins,WR53,145
+2020,Duke Johnson Jr.,RB50,146
+2020,Greg Zuerlein,K4,147
+2020,Boston Scott,RB51,148
+2020,Minnesota Vikings,DST7,149
+2020,Anthony Miller,WR54,150
+2020,Mike Williams,WR55,151
+2020,Damien Harris,RB52,152
+2020,A.J. Dillon,RB53,153
+2020,Golden Tate,WR56,154
+2020,New Orleans Saints,DST8,155
+2020,Ryan Tannehill,QB20,156
+2020,Ryquell Armstead ,RB54,157
+2020,Jonnu Smith,TE16,158
+2020,Jimmy Garoppolo,QB21,159
+2020,Kansas City Chiefs,DST9,160
+2020,Drew Lock,QB22,161
+2020,Philip Rivers,QB23,162
+2020,Derrius Guice,RB55,163
+2020,Robbie Chosen,WR57,164
+2020,Allen Lazard,WR58,165
+2020,Gardner Minshew II,QB24,166
+2020,Chris Thompson,RB56,167
+2020,Robbie Gould,K5,168
+2020,Nyheim Miller-Hines,RB57,169
+2020,Justin Jackson,RB58,170
+2020,Blake Jarwin ,TE17,171
+2020,Darrel Williams,RB59,172
+2020,Larry Fitzgerald,WR60,174
+2020,Eric Ebron,TE18,175
+2020,Matt Prater,K6,176
+2020,Michael Pittman Jr.,WR61,177
+2020,Parris Campbell ,WR62,178
+2020,Kirk Cousins,QB25,179
+2020,Teddy Bridgewater,QB26,180
+2020,Alshon Jeffery,WR63,181
+2020,Dallas Goedert,TE19,182
+2020,Hunter Renfrow,WR64,183
+2020,Jimmy Graham,TE20,184
+2020,Derek Carr,QB27,185
+2020,Kyle Rudolph,TE21,186
+2020,Greg Olsen,TE22,187
+2020,LeSean McCoy,RB60,188
+2020,Breshad Perriman,WR65,189
+2020,Chris Herndon,TE23,190
+2020,Curtis Samuel,WR66,191
+2020,Jack Doyle,TE24,192
+2020,Carlos Hyde,RB61,193
+2020,Tua Tagovailoa,QB28,194
+2020,.J. Howard,TE25,195
+2020,Jerick McKinnon,RB62,196
+2020,Bryce Love,RB63,197
+2020,Brandon Aiyuk,WR67,198
+2020,Joshua Kelley,RB64,199
+2020,Ian Thomas,TE26,200
+2020,Bryan Edwards,WR68,201
+2020,Zane Gonzalez,K7,202
+2020,Benny Snell Jr.,RB65,203
+2020,Tyler Eifert,TE27,204
+2020,Sam Darnold,QB29,205
+2020,Jamaal Williams,RB66,206
+2020,James Robinson,RB67,207
+2020,Dede Westbrook ,WR69,208
+2020,Denzel Mims,WR70,209
+2020,Irv Smith Jr.,TE28,210
+2020,Los Angeles Chargers,DST10,211
+2020,Rashaad Penny,RB68,212
+2020,Antonio Brown,WR71,213
+2020,Laviska Shenault Jr.,WR72,214
+2020,John Ross,WR73,215
+2020,Chase Claypool,WR74,216
+2020,Los Angeles Rams,DST11,217
+2020,Tampa Bay Buccaneers,DST12,218
+2020,Younghoe Koo,K8,219
+2020,Matt Gay,K9,220
+2020,Corey Davis,WR75,221
+2020,Green Bay Packers,DST13,222
+2020,Lamar Miller,RB69,223
+2020,Indianapolis Colts,DST14,224
+2020,Tee Higgins,WR76,225
+2020,Devonta Freeman,RB70,226
+2020,Dallas Cowboys,DST15,227
+2020,Ka'imi Fairbairn,K10,228
+2020,Denver Broncos,DST16,229
+2020,Michael Badgley,K11,230
+2020,Mason Crosby,K12,231
+2020,James Washington,WR77,232
+2020,Philadelphia Eagles,DST17,233
+2020,Washington Commanders,DST18,234
+2020,Jake Elliott,K13,235
+2020,Cincinnati Bengals,DST19,236
+2020,Dan Bailey,K14,237
+2020,Kenny Stills,WR78,238
+2020,Josh Gordon,WR79,239
+2020,Justice Hill,RB71,240
+2020,Darrynton Evans,RB72,241
+2020,Atlanta Falcons,DST20,242
+2020,Randall Cobb,WR80,243
+2020,Devin Duvernay,WR81,244
+2020,Malcolm Brown,RB73,245
+2020,Lynn Bowden Jr.,WR82,246
+2020,Willie Snead,WR83,247
+2020,Cole Beasley,WR84,248
+2020,Anthony McFarland Jr.,RB74,249
+2020,Detroit Lions,DST21,250
+2020,Brian Hill,RB75,251
+2020,Jalen Hurts,QB30,252
+2020,Giovani Bernard,RB76,253
+2020,Dawson Knox,TE29,254
+2020,Ryan Fitzpatrick,QB31,255
+2020,Royce Freeman,RB77,256
+2020,Mohamed Sanu Sr.,WR85,257
+2020,New York Jets,DST22,258
+2020,Devin Asiasi,TE30,259
+2020,C.J. Uzomah ,TE31,260
+2020,Tennessee Titans,DST23,261
+2020,Jason Sanders,K15,262
+2020,Seattle Seahawks,DST24,263
+2020,Tyrod Taylor,QB32,264
+2020,Austin Seibert,K16,265
+2020,Frank Gore,RB78,266
+2020,Jace Sternberger,TE32,267
+2020,Andy Isabella,WR86,268
+2020,Eno Benjamin,RB79,269
+2020,Jalen Richard,RB80,270
+2020,David Njoku,TE33,271
+2020,Sam Sloman,K17,272
+2020,Kendrick Bourne,WR87,273
+2020,Josh Reynolds,WR88,274
+2020,Gus Edwards,RB81,275
+2020,Brandon McManus,K18,276
+2020,Will Dissly,TE34,277
+2020,Jaylen Samuels,RB82,278
+2020,Randy Bullock,K19,279
+2020,Dion Lewis,RB83,280
+2020,Cleveland Browns,DST25,281
+2020,Dustin Hopkins,K20,282
+2020,Danny Amendola,WR89,283
+2020,Eddy Pineiro,K21,286
+2020,Ito Smith,RB85,287
+2020,Dwayne Haskins,QB33,288
+2020,Joey Slye,K22,289
+2020,Gerald Everett,TE35,290
+2020,Daniel Carlson,K23,291
+2020,Cole Kmet,TE36,292
+2020,Chris Conley,WR91,293
+2020,KJ Hamler,WR92,294
+2020,Jason Myers,K24,295
+2020,Sam Ficken,K25,296
+2020,Chris Boswell,K26,297
+2020,Vance McDonald,TE37,298
+2020,Rex Burkhead ,RB86,299
+2020,Jarrett Stidham,QB34,300
+2020,Miles Boykin,WR93,301
+2020,Stephen Hauschka,K27,302
+2020,Justin Herbert,QB35,303
+2020,Darwin Thompson,RB87,304
+2020,Auden Tate ,WR94,305
+2020,Zach Pascal,WR95,306
+2020,Peyton Barber,RB88,307
+2020,Houston Texans,DST26,308
+2020,Stephen Gostkowski,K28,309
+2020,Steven Sims Jr.,WR96,310
+2020,Nelson Agholor,WR97,311
+2020,Nick Foles,QB36,312
+2020,Josh Lambo ,K29,313
+2020,Phillip Dorsett II,WR98,314
+2020,Logan Thomas,TE38,315
+2020,Adam Humphries,WR99,316
+2020,Marquez Valdes-Scantling,WR100,317
+2020,Cameron Brate,TE39,318
+2020,Russell Gage Jr.,WR101,319
+2020,Jacob Hollister,TE40,320
+2020,Mitchell Trubisky,QB37,321
+2020,Patrick Laird,RB89,322
+2020,Demarcus Robinson,WR102,323
+2020,Darren Fells,TE41,324
+2020,Jacksonville Jaguars,DST27,325
+2020,J.J. Arcega-Whiteside,WR103,326
+2020,Dare Ogunbowale,RB90,327
+2020,Mike Boone,RB91,328
+2020,Van Jefferson,WR104,329
+2020,Marcus Mariota,QB38,330
+2020,Tajae Sharpe,WR105,331
+2020,Aldrick Rosas,K30,332
+2020,Mason Rudolph,QB39,333
+2020,Antonio Gandy-Golden,WR106,334
+2020,David Moore,WR107,335
+2020,Trey Burton,TE42,336
+2020,Jakobi Meyers,WR108,337
+2020,Miami Dolphins,DST28,338
+2020,Kaden Smith,TE43,339
+2020,Kyle Juszczyk,RB92,340
+2020,Greg Ward,WR109,341
+2020,Devine Ozigbo,RB93,342
+2020,Jameis Winston,QB40,343
+2020,Dan Arnold,TE44,344
+2020,Elliott,K31,345
+2020,Arizona Cardinals,DST29,346
+2020,Jordan Reed,TE45,347
+2020,J.D. McKissic,RB94,348
+2020,Scotty Miller,WR110,349
+2020,Adam Trautman,TE46,350
+2020,Drew Sample,TE47,351
+2020,Tyler Bass,K32,352
+2020,Lirim Hajrullahu,K33,353
+2020,Cordarrelle Patterson,RB95,354
+2020,Bisi Johnson,WR111,355
+2020,T.J. Yeldon,RB96,356
+2020,Ryan Succop,K34,357
+2020,Bo Scarbrough ,RB97,358
+2020,Wayne Gallman Jr.,RB98,359
+2020,Trent Taylor,WR112,360
+2020,Josiah Deguara,TE48,361
+2020,Carolina Panthers,DST30,362
+2020,Jordan Love,QB41,363
+2020,Jason Witten,TE49,364
+2020,Dante Pettis,WR113,365
+2020,Kyle Allen,QB42,366
+2020,Damiere Byrd,WR114,367
+2020,Graham Gano,K35,368
+2020,Kalen Ballage,RB99,369
+2020,Ted Ginn Jr.,WR115,370
+2020,Rodrigo Blankenship,K36,371
+2020,Mike Davis,RB100,372
+2020,New York Giants,DST31,373
+2020,Ty Montgomery,RB101,374
+2020,Quintez Cephus,WR116,375
+2020,DeeJay Dallas,RB102,376
+2020,Rashard Higgins,WR117,377
+2020,Hakeem Butler,WR118,378
+2020,Taysom Hill,TE50,379
+2020,Equanimeous St. Brown,WR119,380
+2020,Justin Watson,WR120,381
+2020,Corey Clement,RB103,382
+2020,Gabe Davis,WR121,383
+2020,Deonte Harty,WR122,384
+2020,Demetrius Harris,TE51,385
+2020,Albert kwuegbunam Jr.,TE52,386
+2020,J.J. Taylor,RB104,387
+2020,Mo Alie-Cox,TE53,388
+2020,Tim Tebow,TE54,389
+2020,Brett Maher,K37,390
+2020,John Hightower,WR123,391
+2021,Christian McCaffrey,RB1,1
+2021,Dalvin Cook,RB2,2
+2021,Derrick Henry,RB3,3
+2021,Alvin Kamara,RB4,4
+2021,Ezekiel Elliott,RB5,5
+2021,Nick Chubb,RB6,6
+2021,Aaron Jones Sr.,RB7,7
+2021,Davante Adams,WR1,8
+2021,Jonathan Taylor,RB8,9
+2021,Saquon Barkley,RB9,10
+2021,Tyreek Hill,WR2,11
+2021,Travis Kelce,TE1,12
+2021,Austin Ekeler,RB10,13
+2021,Stefon Diggs,WR3,14
+2021,Najee Harris,RB11,15
+2021,Antonio Gibson,RB12,16
+2021,Patrick Mahomes II,QB1,17
+2021,DeAndre Hopkins,WR4,18
+2021,Joe Mixon,RB13,19
+2021,Calvin Ridley,WR5,20
+2021,DK Metcalf,WR6,21
+2021,Clyde Edwards-Helaire,RB14,22
+2021,Darren Waller,TE2,23
+2021,Justin Jefferson,WR7,24
+2021,A.J. Brown,WR8,25
+2021,George Kittle,TE3,26
+2021,Keenan Allen,WR9,27
+2021,David Montgomery,RB15,28
+2021,Chris Carson ,RB16,29
+2021,Terry McLaurin,WR10,30
+2021,Josh Allen,QB2,31
+2021,Allen Robinson,WR11,32
+2021,Josh Jacobs,RB17,33
+2021,CeeDee Lamb,WR12,34
+2021,James Robinson ,RB18,35
+2021,Mike Evans,WR13,36
+2021,D'Andre Swift,RB19,37
+2021,Miles Sanders,RB20,38
+2021,Kyler Murray,QB3,39
+2021,Chris Godwin Jr.,WR14,40
+2021,Robert Woods,WR15,41
+2021,Amari Cooper,WR16,42
+2021,Lamar Jackson,QB4,43
+2021,Cooper Kupp,WR17,44
+2021,Julio Jones,WR18,45
+2021,Kyle Pitts Sr.,TE4,46
+2021,Tyler Lockett,WR19,47
+2021,Darrell Henderson Jr.,RB21,48
+2021,Myles Gaskin,RB22,49
+2021,Mark Andrews,TE5,50
+2021,DJ Moore,WR20,51
+2021,Adam Thielen,WR21,52
+2021,Kareem Hunt,RB23,53
+2021,Diontae Johnson,WR22,54
+2021,Dak Prescott,QB5,55
+2021,T.J. Hockenson,TE6,56
+2021,Russell Wilson,QB6,57
+2021,Aaron Rodgers,QB7,58
+2021,Brandon Aiyuk,WR23,59
+2021,Justin Herbert,QB8,60
+2021,Raheem Mostert,RB24,61
+2021,Damien Harris,RB25,62
+2021,Tee Higgins,WR24,63
+2021,Chase Edmonds,RB26,64
+2021,Javonte Williams,RB27,65
+2021,Chase Claypool,WR25,66
+2021,Odell Beckham Jr.,WR26,67
+2021,Gus Edwards ,RB28,68
+2021,Jerry Jeudy,WR27,69
+2021,Tom Brady,QB9,70
+2021,Ja'Marr Chase,WR28,71
+2021,Trey Sermon,RB29,72
+2021,Ronald Jones,RB30,73
+2021,Kenny Golladay,WR29,74
+2021,Michael Thomas ,WR30,75
+2021,Melvin Gordon,RB31,76
+2021,Logan Thomas ,TE7,77
+2021,Robbie Chosen,WR31,78
+2021,JuJu Smith-Schuster,WR32,79
+2021,Noah Fant,TE8,80
+2021,Courtland Sutton,WR33,81
+2021,Deebo Samuel Sr.,WR34,82
+2021,DeVonta Smith,WR35,83
+2021,Antonio Brown ,WR36,84
+2021,Robert Tonyan,TE9,85
+2021,Leonard Fournette,RB32,86
+2021,Matthew Stafford,QB10,87
+2021,Tyler Boyd,WR37,88
+2021,Michael Carter,RB33,89
+2021,Jalen Hurts,QB11,90
+2021,A.J. Dillon,RB34,91
+2021,Ryan Tannehill,QB12,92
+2021,Zack Moss,RB35,93
+2021,Tyler Higbee,TE10,94
+2021,Dallas Goedert,TE11,95
+2021,James Conner,RB36,96
+2021,DJ Chark Jr. ,WR38,97
+2021,Los Angeles Rams,DST1,98
+2021,Brandin Cooks,WR39,99
+2021,Laviska Shenault Jr.,WR40,100
+2021,Corey Davis ,WR41,101
+2021,Tampa Bay Buccaneers,DST2,102
+2021,Pittsburgh Steelers,DST3,103
+2021,Kenyan Drake ,RB37,104
+2021,Devin Singletary,RB38,105
+2021,Mike Davis,RB39,106
+2021,Jarvis Landry,WR42,107
+2021,Jamaal Williams,RB40,108
+2021,Washington Commanders,DST4,109
+2021,David Johnson,RB41,110
+2021,Joe Burrow,QB13,111
+2021,Rob Gronkowski,TE12,112
+2021,William Fuller,WR43,113
+2021,Jaylen Waddle,WR44,114
+2021,Sony Michel,RB42,115
+2021,Mike Gesicki,TE13,116
+2021,Michael Pittman Jr.,WR45,117
+2021,Marquez Callaway,WR46,118
+2021,Mike Williams,WR47,119
+2021,Baltimore Ravens,DST5,120
+2021,Justin Tucker,K1,121
+2021,Harrison Butker,K2,122
+2021,Michael Gallup,WR48,123
+2021,San Francisco 49ers,DST6,124
+2021,Tony Pollard,RB43,125
+2021,Curtis Samuel,WR49,126
+2021,Trevor Lawrence,QB14,127
+2021,Mecole Hardman Jr.,WR50,128
+2021,Nyheim Miller-Hines,RB44,129
+2021,Younghoe Koo,K3,130
+2021,Darnell Mooney,WR51,131
+2021,Henry Ruggs III ,WR52,132
+2021,Baker Mayfield,QB15,133
+2021,Tyler Bass,K4,134
+2021,Marvin Jones Jr.,WR53,135
+2021,Marquise Brown,WR54,136
+2021,Matt Ryan,QB16,137
+2021,Justin Fields,QB17,138
+2021,Jakobi Meyers,WR55,139
+2021,Jonnu Smith,TE14,140
+2021,Trey Lance,QB18,141
+2021,Alexander Mattison,RB45,142
+2021,Cole Beasley,WR56,143
+2021,Elijah Moore,WR57,144
+2021,Rhamondre Stevenson,RB46,145
+2021,Denver Broncos,DST7,146
+2021,Greg Zuerlein,K5,147
+2021,Tevin Coleman,RB47,148
+2021,James White ,RB48,149
+2021,Russell Gage Jr.,WR58,150
+2021,J.D. McKissic,RB49,151
+2021,Buffalo Bills,DST8,152
+2021,Phillip Lindsay,RB50,153
+2021,DeVante Parker,WR59,154
+2021,Hunter Henry,TE15,155
+2021,Mac Jones,QB19,156
+2021,Jason Sanders,K6,157
+2021,Chuba Hubbard,RB51,158
+2021,Latavius Murray,RB52,159
+2021,Zach Ertz,TE16,160
+2021,Kirk Cousins,QB20,161
+2021,Tua Tagovailoa,QB21,162
+2021,Ryan Succop,K7,163
+2021,Terrace Marshall Jr.,WR60,164
+2021,Rondale Moore,WR61,165
+2021,Giovani Bernard,RB53,166
+2021,Ben Roethlisberger,QB22,167
+2021,Jameis Winston,QB23,168
+2021,Indianapolis Colts,DST9,169
+2021,New England Patriots,DST10,170
+2021,Gerald Everett,TE17,171
+2021,Cleveland Browns,DST11,172
+2021,Rashaad Penny,RB54,173
+2021,Jared Cook,TE18,174
+2021,Evan Engram,TE19,175
+2021,Nelson Agholor,WR62,176
+2021,A.J. Green,WR63,177
+2021,Rodrigo Blankenship,K8,178
+2021,Tyrell Williams,WR64,179
+2021,Marlon Mack,RB55,180
+2021,Ryan Fitzpatrick ,QB24,181
+2021,Zach Wilson,QB25,182
+2021,Mark Ingram,RB56,183
+2021,Bryan Edwards,WR65,184
+2021,Kansas City Chiefs,DST12,185
+2021,Jalen Reagor,WR66,186
+2021,Mason Crosby,K9,187
+2021,Darrel Williams,RB57,188
+2021,Sterling Shepard,WR67,189
+2021,Randall Cobb,WR68,190
+2021,Marquez Valdes-Scantling,WR69,191
+2021,Kenneth Gainwell,RB58,192
+2021,Robbie Gould,K10,193
+2021,Miami Dolphins,DST13,194
+2021,Gabe Davis,WR70,195
+2021,Pat Freiermuth,TE20,196
+2021,Emmanuel Sanders,WR71,197
+2021,Deshaun Watson,QB26,199
+2021,Amon-Ra St. Brown,WR72,200
+2021,Derek Carr,QB27,201
+2021,Matt Prater,K11,202
+2021,Devontae Booker,RB60,203
+2021,Tony Jones Jr.,RB61,204
+2021,Wil Lutz,K12,205
+2021,Rashod Bateman,WR73,206
+2021,T.Y. Hilton,WR74,207
+2021,Ty Johnson,RB62,208
+2021,Jason Myers,K13,209
+2021,Daniel Carlson,K14,210
+2021,Cam Akers,RB63,211
+2021,Jamison Crowder,WR75,212
+2021,Damien Williams,RB64,213
+2021,Austin Hooper,TE21,214
+2021,Blake Jarwin,TE22,215
+2021,Cole Kmet,TE23,216
+2021,Adam Trautman,TE24,217
+2021,Brandon McManus,K15,218
+2021,Tennessee Titans,DST14,219
+2021,Sam Darnold,QB28,220
+2021,Malcolm Brown,RB65,221
+2021,Chicago Bears,DST15,222
+2021,Anthony Firkser,TE25,223
+2021,Eric Ebron,TE26,224
+2021,Daniel Jones,QB29,225
+2021,Matt Gay,K16,227
+2021,Seattle Seahawks,DST16,228
+2021,Cam Newton,QB30,229
+2021,Darrynton Evans,RB66,230
+2021,Christian Kirk,WR77,231
+2021,Green Bay Packers,DST17,232
+2021,Minnesota Vikings,DST18,233
+2021,Teddy Bridgewater,QB31,234
+2021,New Orleans Saints,DST19,235
+2021,Dawson Knox,TE27,236
+2021,Tarik Cohen,RB67,237
+2021,Parris Campbell,WR78,238
+2021,Nick Folk,K17,239
+2021,Dallas Cowboys,DST20,240
+2021,Carolina Panthers,DST21,241
+2021,Arizona Cardinals,DST22,242
+2021,Allen Lazard,WR79,243
+2021,Salvon Ahmed,RB68,244
+2021,Carson Wentz,QB32,245
+2021,Justin Jackson,RB69,246
+2021,Boston Scott,RB70,247
+2021,Kadarius Toney,WR80,248
+2021,Jordan Akins,TE28,249
+2021,Evan McPherson,K18,250
+2021,Donovan Peoples-Jones,WR81,251
+2021,Cordarrelle Patterson,RB71,252
+2021,Sam Ficken,K19,253
+2021,Joshua Palmer,WR82,254
+2021,Carlos Hyde ,RB72,255
+2021,New York Giants,DST23,256
+2021,Taysom Hill,TE29,257
+2021,Chris Boswell,K20,258
+2021,Anthony McFarland Jr.,RB73,259
+2021,Los Angeles Chargers,DST24,260
+2021,Nico Collins,WR83,261
+2021,Elijah Mitchell,RB74,262
+2021,Benny Snell Jr.,RB75,263
+2021,Sammy Watkins,WR84,264
+2021,Hayden Hurst,TE30,265
+2021,Todd Gurley,RB77,267
+2021,Dustin Hopkins,K21,268
+2021,J.J. Taylor,RB78,269
+2021,O.J. Howard,TE31,270
+2021,Javian Hawkins,RB79,271
+2021,Philadelphia Eagles,DST25,272
+2021,Jerick McKinnon,RB80,273
+2021,Chase McLaughlin,K22,274
+2021,Brian Hill,RB81,275
+2021,Michael Badgley,K23,276
+2021,Jaret Patterson,RB82,277
+2021,Juwan Johnson,TE32,278
+2021,Xavier Jones,RB83,279
+2021,Justice Hill,RB84,280
+2021,Amari Rodgers,WR85,281
+2021,Detrez Newsome,RB85,282
+2021,Darius Slayton,WR86,283
+2021,Paul McRoberts,WR87,284
+2021,Tim Tebow,TE33,285
+2021,Jonathan Brown,K24,286
+2021,Jeff Wilson Jr.,RB86,287
+2021,Nick Tiano,QB33,288
+2021,Andy Dalton,QB34,289
+2021,Kent Taylor,TE34,290
+2021,Stevan Ridley,RB87,291
+2021,Jake Funk,RB88,292
+2021,Juwan Green,WR88,293
+2021,Taywan Taylor,WR89,294
+2021,Tyler Davis,WR90,295
+2021,Khalid Hill,RB89,296
+2021,Jimmy Graham,TE35,297
+2021,Austin Traylor,TE36,298
+2021,Tyler Kroft,TE37,299
+2021,Jarvion Franklin,RB90,300
+2021,Jared Goff,QB35,301
+2021,Drew Anderson,QB36,302
+2021,Darrin Hall,RB91,303
+2021,Breshad Perriman,WR91,304
+2021,Phillip Andersen,K25,305
+2021,Jeremy Kerley,WR92,306
+2021,Broc Rutter,QB37,308
+2021,Royce Freeman,RB93,309
+2021,Lamar Jordan,QB38,310
+2021,Dan Arnold,TE38,311
+2021,Taylor Russolino,K26,312
+2021,Daniel Crawford,TE39,313
+2021,Quinton Flowers,QB39,314
+2021,Joshua Kelley,RB94,315
+2021,Wayne Gallman Jr.,RB95,316
+2021,Isaac Zico,WR93,317
+2021,Byron Pringle,WR94,318
+2021,Trenton Irwin,WR95,319
+2021,Trevor Moore,K27,320
+2021,Kayaune Ross,WR96,321
+2021,Qadree Ollison,RB96,322
+2021,Cole Hedlund,K28,323
+2021,Elliott,K29,324
+2021,Denzel Mims,WR97,325
+2021,Andy Phillips,OL1,326
+2021,Pooka Williams Jr.,RB97,327
+2021,Corey Taylor,RB98,328
+2021,T.J. Linta,QB40,329
+2021,Tyrod Taylor,QB41,330
+2021,Travis Jonsen,WR98,331
+2021,Trenton Cannon,RB99,332
+2021,DeSean Jackson,WR99,333
+2021,Austin Roberts,TE40,334
+2021,Anthony Sherman,RB100,335
+2021,Demarcus Robinson,WR100,336
+2021,Keke Coutee,WR101,337
+2021,Drew Lock,QB42,338
+2021,Scotty Miller,WR102,339
+2021,Quez Watkins,WR103,340
+2021,Chris Herndon,TE41,341
+2021,Hunter Renfrow,WR104,342
+2021,Eno Benjamin,RB101,343
+2021,Mo Alie-Cox,TE42,344
+2021,Dalton Schultz,TE43,345
+2021,Austin MacGinnis,K30,346
+2021,Mike Boone,RB102,347
+2021,Dee Eskridge,WR105,348
+2021,Jimmy Garoppolo,QB43,349
+2021,Larry Rountree,RB103,350
+2021,Jalen Richard,RB104,351
+2021,Samaje Perine,RB105,352
+2021,Olamide Zaccheaus,WR106,353
+2021,Travis Fulgham,WR107,354
+2021,Adam Humphries,WR108,355
+2021,Ke'Shawn Vaughn,RB106,356
+2021,Quintez Cephus,WR109,357
+2021,Chris Evans,RB107,358
+2021,Anthony Miller,WR110,359
+2021,Tim Patrick,WR111,360
+2021,Kalen Ballage,RB108,361
+2021,Graham Gano,K31,362
+2021,David Moore,WR112,363
+2021,KJ Hamler,WR113,364
+2021,Josh Reynolds,WR114,365
+2021,John Brown,WR115,367
+2021,Houston Texans,DST26,368
+2021,Deonte Harty,WR116,369
+2021,Kerryon Johnson,RB110,370
+2021,Cairo Santos,K32,371
+2021,C.J. Uzomah,TE44,373
+2021,Rashard Higgins,WR117,374
+2021,Dyami Brown,WR118,375
+2021,Ka'imi Fairbairn,K33,376
+2021,Jacksonville Jaguars,DST27,377
+2021,New York Jets,DST28,378
+2021,Ameer Abdullah,RB112,379
+2021,Cody Parkey,K34,380
+2021,Zach Pascal,WR119,381
+2021,Van Jefferson,WR120,382
+2021,Ito Smith,RB113,383
+2021,Jake Elliott,K35,384
+2021,Josh Lambo,K36,385
+2021,Atlanta Falcons,DST29,386
+2021,Devin Funchess,WR121,387
+2021,Chris Conley,WR122,388
+2021,Marquise Goodwin,WR123,389
+2021,Jonathan Williams,RB114,390
+2021,Matt Breida,RB115,391
+2021,Kendrick Bourne,WR124,392
+2021,Stephen Anderson,TE45,393
+2021,Keelan Cole Sr.,WR125,394
+2021,Terry Godwin,WR126,395
+2021,Case Cookus,QB44,396
+2021,Marcus Mariota,QB45,397
+2021,Joey Slye,K37,398
+2021,Donald Parham Jr.,TE46,399
+2021,Tylan Wallace,WR127,400
+2021,Antonio Gandy-Golden,WR128,401
+2021,Detroit Lions,DST30,402
+2021,James Washington,WR129,403
+2021,Albert Wilson,WR130,404
+2021,Tutu Atwell,WR131,405
+2021,Tucker McCann,K38,407
+2021,Randy Bullock,K39,408
+2021,David Njoku,TE47,409
+2021,Preston Williams,WR133,410
+2021,Jalen Guyton,WR134,411
+2021,Cam Sims,WR135,412
+2021,Mohamed Sanu Sr.,WR136,413
+2021,Shi Smith,WR137,414
+2021,Damiere Byrd,WR138,415
+2021,Mitchell Trubisky,QB46,416
+2021,Sam Ehlinger,QB47,417
+2021,Anthony Schwartz,WR139,418
+2021,Antonio Williams,RB116,419
+2021,Tyler Johnson,WR140,420
+2021,Antonio Callaway,WR141,421
+2021,Dez Fitzpatrick,WR142,422
+2021,Foster Moreau,TE48,423
+2021,Jack Doyle,TE49,424
+2021,Matt Jones,RB117,425
+2021,Ty Montgomery,RB118,426
+2021,Tyron Billy-Johnson,WR143,428
+2021,Jacob Eason,QB48,429
+2021,Michael Strachan,WR144,430
+2021,Jermar Jefferson,RB119,431
+2021,Jalen Hurd,WR145,432
+2021,Jaylen Samuels,RB120,433
+2021,Tyler Conklin,TE51,434
+2021,Colin Kaepernick,QB49,435
+2021,Johnny Manziel,QB50,436
+2021,Albert Okwuegbunam Jr.,TE52,437
+2021,Ray Rice,RB121,438
+2021,Kylin Hill ,RB122,439
+2021,Greg Ward,WR146,440
+2021,Jordan Love,QB51,441
+2021,Ryan Santoso,K40,442
+2021,Easop Winston Jr.,WR147,443
+2021,Matt Ammendola,K41,444
+2021,Devin Smith,WR148,445
+2021,Riley Ridley,WR149,446
+2021,Adrian Peterson ,RB123,447
+2021,Aldrick Rosas,K42,448
+2021,Dazz Newsome,WR150,449
+2021,Trent Sherfield Sr.,WR151,450
+2021,Jody Fortson Jr. ,TE53,451
+2021,Dede Westbrook,WR152,452
+2021,Tony Romo,QB52,453
+2021,Andy Isabella,WR153,454
+2021,Greg Joseph,K43,455
+2021,Zay Jones,WR154,456
+2021,Matthew Wright,K44,457
+2021,DeeJay Dallas,RB124,458
+2021,Corey Clement,RB125,459
+2021,Will Dissly,TE54,460
+2021,Tom Kennedy,WR155,461
+2021,Kylen Granson,TE55,462
+2021,Devin Duvernay,WR156,463
+2021,Noah Gray,TE56,464
+2021,Gerrid Doaks,RB126,465
+2021,Simi Fehoko,WR157,466
+2021,Damoun Patterson,WR158,467
+2021,Charlie Woerner,TE57,468
+2021,Pharoh Cooper,WR159,469
+2021,Cincinnati Bengals,DST31,470
+2021,Kyle Rudolph,TE58,471
+2021,Khalil Herbert,RB127,472
+2021,Dezmon Patmon,WR160,473
+2021,Jeremy McNichols,RB128,474
+2021,Brandon Dillon,TE59,475
+2021,Kyle Juszczyk,RB129,476
+2021,Chad Beebe,WR161,477
+2021,Taylor Heinicke,QB53,478
+2021,Demetric Felton Jr.,RB130,479
+2021,Quinn Nordin,K45,480
+2021,Rodney Adams,WR162,481
+2021,Davis Mills,QB54,482
+2021,Corey Acosta,K46,483
+2021,Eddy Pineiro,K47,484
+2021,Jesper Horsted,TE60,485
+2021,Durham Smythe,TE61,486
+2021,Peyton Barber,RB131,487
+2021,Chad Henne,QB55,488
+2021,John Wolford,QB56,489
+2021,Mike Glennon,QB57,490
+2021,Rex Burkhead,RB132,491
+2021,Willie Snead,WR163,492
+2021,Drew Sample,TE62,493
+2021,Cornell Powell,WR164,494
+2021,Joe Flacco,QB58,495
+2021,Jacoby Brissett,QB59,496
+2021,Harrison Bryant,TE63,497
+2021,Gardner Minshew II,QB60,498
+2021,Jacob Hollister,TE64,499
+2022,Jonathan Taylor,RB1,1
+2022,Christian McCaffrey,RB2,2
+2022,Austin Ekeler,RB3,3
+2022,Derrick Henry,RB4,4
+2022,Cooper Kupp,WR1,5
+2022,Justin Jefferson,WR2,6
+2022,Dalvin Cook,RB5,7
+2022,Najee Harris,RB6,8
+2022,Ja'Marr Chase,WR3,9
+2022,Joe Mixon,RB7,10
+2022,Davante Adams,WR4,11
+2022,Stefon Diggs,WR5,12
+2022,D'Andre Swift,RB8,13
+2022,Travis Kelce,TE1,14
+2022,Alvin Kamara,RB9,15
+2022,CeeDee Lamb,WR6,16
+2022,Aaron Jones Sr.,RB10,17
+2022,Saquon Barkley,RB11,18
+2022,Nick Chubb,RB12,19
+2022,Tyreek Hill,WR7,20
+2022,Josh Allen,QB1,21
+2022,Leonard Fournette,RB13,22
+2022,Javonte Williams,RB14,23
+2022,Mike Evans,WR8,24
+2022,Deebo Samuel Sr.,WR9,25
+2022,Mark Andrews,TE2,26
+2022,Ezekiel Elliott,RB15,27
+2022,James Conner,RB16,28
+2022,Michael Pittman Jr.,WR10,29
+2022,A.J. Brown,WR11,30
+2022,Keenan Allen,WR12,31
+2022,Tee Higgins,WR13,32
+2022,Kyle Pitts Sr.,TE3,33
+2022,Patrick Mahomes II,QB2,34
+2022,Justin Herbert,QB3,35
+2022,DJ Moore,WR14,36
+2022,George Kittle,TE4,37
+2022,Travis Etienne Jr.,RB17,38
+2022,Mike Williams,WR15,39
+2022,Breece Hall,RB18,40
+2022,Terry McLaurin,WR16,41
+2022,David Montgomery,RB19,42
+2022,Cam Akers,RB20,43
+2022,Lamar Jackson,QB4,44
+2022,Courtland Sutton,WR17,45
+2022,Elijah Mitchell,RB21,46
+2022,Darren Waller,TE5,47
+2022,Diontae Johnson,WR18,48
+2022,Jaylen Waddle,WR19,49
+2022,Josh Jacobs,RB22,50
+2022,Allen Robinson II ,WR20,51
+2022,DK Metcalf,WR21,52
+2022,A.J. Dillon,RB23,53
+2022,J.K. Dobbins,RB24,54
+2022,Kyler Murray,QB5,55
+2022,Joe Burrow,QB6,56
+2022,Jerry Jeudy,WR22,57
+2022,Dalton Schultz,TE6,58
+2022,Jalen Hurts,QB7,59
+2022,Antonio Gibson,RB25,60
+2022,Brandin Cooks,WR23,61
+2022,JuJu Smith-Schuster,WR24,62
+2022,Amon-Ra St. Brown,WR25,63
+2022,Clyde Edwards-Helaire,RB26,64
+2022,Gabe Davis,WR26,65
+2022,Marquise Brown,WR27,66
+2022,T.J. Hockenson,TE7,67
+2022,Dallas Goedert,TE8,68
+2022,Tom Brady,QB8,69
+2022,Michael Thomas ,WR28,70
+2022,Russell Wilson,QB9,71
+2022,Chase Edmonds,RB27,72
+2022,Damien Harris,RB28,73
+2022,Adam Thielen,WR29,74
+2022,Amari Cooper,WR30,75
+2022,Rashod Bateman,WR31,76
+2022,Chris Godwin Jr.,WR32,77
+2022,Dameon Pierce,RB29,78
+2022,Dawson Knox,TE9,79
+2022,Darnell Mooney,WR33,80
+2022,Miles Sanders,RB30,81
+2022,Buffalo Bills,DST1,82
+2022,Devin Singletary,RB31,83
+2022,Rashaad Penny ,RB32,84
+2022,Kareem Hunt,RB33,85
+2022,Tony Pollard,RB34,86
+2022,Dak Prescott,QB10,87
+2022,Hunter Renfrow,WR34,88
+2022,Cordarrelle Patterson,RB35,89
+2022,Rhamondre Stevenson,RB36,90
+2022,Elijah Moore,WR35,91
+2022,Aaron Rodgers,QB11,92
+2022,DeAndre Hopkins,WR36,93
+2022,Brandon Aiyuk,WR37,94
+2022,Zach Ertz,TE10,95
+2022,DeVonta Smith,WR38,96
+2022,Trey Lance,QB12,97
+2022,Allen Lazard,WR39,98
+2022,Tampa Bay Buccaneers,DST2,99
+2022,Melvin Gordon,RB37,100
+2022,San Francisco 49ers,DST3,101
+2022,Matthew Stafford,QB13,102
+2022,Kenneth Walker III,RB38,103
+2022,Christian Kirk,WR40,104
+2022,Justin Tucker,K1,105
+2022,Drake London,WR41,106
+2022,Los Angeles Rams,DST4,107
+2022,Evan McPherson,K2,108
+2022,James Cook,RB39,109
+2022,Tyler Lockett,WR42,110
+2022,Robert Woods,WR43,111
+2022,Pat Freiermuth,TE11,112
+2022,Chris Olave,WR44,113
+2022,Cole Kmet,TE12,114
+2022,Derek Carr,QB14,115
+2022,Darrell Henderson Jr.,RB40,116
+2022,Michael Carter,RB41,117
+2022,Indianapolis Colts,DST5,118
+2022,George Pickens,WR45,119
+2022,Kadarius Toney,WR46,120
+2022,Daniel Carlson,K3,121
+2022,James Robinson,RB42,122
+2022,Kirk Cousins,QB15,123
+2022,Harrison Butker,K4,124
+2022,Tyler Bass,K5,125
+2022,Chase Claypool,WR47,126
+2022,Mike Gesicki,TE13,127
+2022,Alexander Mattison,RB43,128
+2022,Matt Gay,K6,129
+2022,Nyheim Miller-Hines,RB44,130
+2022,Julio Jones,WR48,131
+2022,Denver Broncos,DST6,132
+2022,Brian Robinson Jr.,RB45,133
+2022,Green Bay Packers,DST7,134
+2022,New Orleans Saints,DST8,135
+2022,Dallas Cowboys,DST9,136
+2022,Garrett Wilson,WR49,137
+2022,Albert Okwuegbunam Jr.,TE14,138
+2022,Treylon Burks,WR50,139
+2022,Hunter Henry,TE15,140
+2022,Marquez Valdes-Scantling,WR51,141
+2022,Isiah Pacheco,RB46,142
+2022,Jarvis Landry ,WR52,143
+2022,Skyy Moore,WR53,144
+2022,Raheem Mostert,RB47,145
+2022,David Njoku,TE16,146
+2022,Tyler Boyd,WR54,147
+2022,DeVante Parker,WR55,148
+2022,Russell Gage Jr.,WR56,149
+2022,Isaiah Spiller,RB48,150
+2022,Tua Tagovailoa,QB16,151
+2022,Mecole Hardman Jr.,WR57,152
+2022,Romeo Doubs,WR58,153
+2022,Ronald Jones,RB49,154
+2022,Kenneth Gainwell,RB50,155
+2022,Mark Ingram II ,RB51,156
+2022,Tyler Allgeier,RB52,157
+2022,Marlon Mack,RB53,158
+2022,Justin Fields,QB17,159
+2022,Baltimore Ravens,DST10,160
+2022,Rachaad White,RB54,161
+2022,Jahan Dotson,WR59,162
+2022,Khalil Herbert,RB55,163
+2022,Younghoe Koo,K7,164
+2022,Michael Gallup,WR60,165
+2022,Baker Mayfield,QB18,166
+2022,Zamir White,RB56,167
+2022,Trevor Lawrence,QB19,168
+2022,Tyler Higbee,TE17,169
+2022,Rondale Moore,WR61,170
+2022,Jamaal Williams,RB57,171
+2022,Robbie Gould,K8,172
+2022,Kenny Golladay,WR62,173
+2022,Kenny Pickett,QB20,174
+2022,Isaiah McKenzie,WR63,175
+2022,Odell Beckham Jr.,WR64,176
+2022,Joshua Palmer,WR65,177
+2022,Mac Jones,QB21,178
+2022,Sammy Watkins,WR66,179
+2022,Christian Watson,WR67,180
+2022,Hayden Hurst,TE18,181
+2022,DJ Chark Jr.,WR68,182
+2022,Jalen Tolbert,WR69,183
+2022,Taysom Hill,TE19,184
+2022,Deshaun Watson,QB22,185
+2022,Matt Prater,K9,186
+2022,Nick Folk,K10,187
+2022,Jameis Winston,QB23,188
+2022,J.D. McKissic ,RB58,189
+2022,Carson Wentz,QB24,190
+2022,Cameron Brate,TE20,191
+2022,Mike Davis,RB59,192
+2022,Las Vegas Raiders,DST11,193
+2022,Chicago Bears,DST12,194
+2022,Isaiah Likely,TE21,196
+2022,Greg Joseph,K11,197
+2022,Jakobi Meyers,WR70,198
+2022,Mo Alie-Cox,TE22,199
+2022,Ryan Tannehill ,QB25,200
+2022,Irv Smith Jr.,TE23,201
+2022,Sony Michel,RB61,202
+2022,Robert Tonyan,TE24,203
+2022,Los Angeles Chargers,DST13,204
+2022,Matt Ryan,QB26,205
+2022,Jameson Williams,WR71,206
+2022,New England Patriots,DST14,207
+2022,Greg Zuerlein,K12,208
+2022,Brandon McManus,K13,209
+2022,Nico Collins,WR72,210
+2022,Rodrigo Blankenship,K14,211
+2022,Chris Boswell,K15,212
+2022,Darrel Williams,RB62,213
+2022,Ryan Succop,K16,214
+2022,Jared Goff,QB27,215
+2022,Noah Fant,TE25,216
+2022,Cleveland Browns,DST15,217
+2022,Wil Lutz,K17,218
+2022,Gerald Everett,TE26,219
+2022,Pittsburgh Steelers,DST16,220
+2022,Wan'Dale Robinson,WR73,221
+2022,K.J. Osborn,WR74,222
+2022,KJ Hamler,WR75,223
+2022,Austin Hooper,TE27,224
+2022,Chuba Hubbard,RB63,225
+2022,Alec Pierce,WR76,226
+2022,Tyrion Davis-Price,RB64,227
+2022,Evan Engram,TE28,228
+2022,Devin Duvernay,WR77,229
+2022,Gus Edwards,RB65,230
+2022,Cade York,K18,231
+2022,Philadelphia Eagles,DST17,232
+2022,Jeff Wilson Jr.,RB66,233
+2022,Eno Benjamin,RB67,234
+2022,Marvin Jones Jr.,WR78,235
+2022,Washington Commanders,DST18,236
+2022,Tennessee Titans,DST19,237
+2022,Robbie Chosen,WR79,238
+2022,Zay Jones,WR80,239
+2022,Logan Thomas,TE29,240
+2022,Cincinnati Bengals,DST20,241
+2022,Van Jefferson,WR81,242
+2022,Jason Sanders,K19,243
+2022,Miami Dolphins,DST21,244
+2022,Daniel Jones,QB28,245
+2022,Dontrell Hilliard ,RB68,246
+2022,Jerick McKinnon,RB69,247
+2022,Randall Cobb,WR82,248
+2022,Jake Elliott,K20,249
+2022,Kenyan Drake,RB70,250
+2022,Parris Campbell,WR83,251
+2022,Samaje Perine,RB71,252
+2022,A.J. Green,WR84,253
+2022,Dustin Hopkins,K21,254
+2022,Kansas City Chiefs,DST22,255
+2022,David Bell,WR85,256
+2022,Minnesota Vikings,DST23,257
+2022,Donovan Peoples-Jones,WR86,258
+2022,Curtis Samuel,WR87,259
+2022,Hassan Haskins,RB72,260
+2022,Andre Baccellia,WR88,261
+2022,Parker Houston,TE30,262
+2022,Carl Tucker,TE31,263
+2022,Tyshaun James,WR89,264
+2022,Javon Leake,RB73,265
+2022,Charles Williams,RB74,266
+2022,J.J. Koski ,WR90,267
+2022,Connor Wedington,WR91,268
+2022,Shane Zylstra,TE32,269
+2022,Shaquelle Evans,WR92,270
+2022,Terrell Sinkfield,WR93,271
+2022,Diontae Spencer,WR94,272
+2022,Bennie Fowler,WR95,273
+2022,Cade Brewer,TE33,274
+2022,Levi Lewis,QB29,275
+2022,Kendal Thompson,WR96,276
+2022,Terry Swanson,RB75,277
+2022,David Watford,WR97,278
+2022,Ryan Nall,RB76,279
+2022,Juwan Johnson,TE34,280
+2022,Emeka Emezie,WR98,281
+2022,Brandon Smith,CB1,282
+2022,Javian Hawkins,RB77,283
+2022,Kenneth Dixon,RB78,284
+2022,Alonzo Moore,WR99,285
+2022,Jaron Brown,WR100,286
+2022,Matthew Wright,K22,287
+2022,Tyler Renew,RB79,288
+2022,John Lovett,QB30,289
+2022,Brandon Johnson,LB1,290
+2022,Blake Sims,QB31,291
+2022,Jack Stoll,TE35,292
+2022,Jake Heaps,QB32,293
+2022,Eric Rogers,WR101,294
+2023,Justin Jefferson,WR1,1
+2023,Christian McCaffrey,RB1,2
+2023,Ja'Marr Chase,WR2,3
+2023,Austin Ekeler,RB2,4
+2023,Tyreek Hill,WR3,5
+2023,Travis Kelce,TE1,6
+2023,Bijan Robinson,RB3,7
+2023,Nick Chubb,RB4,8
+2023,Saquon Barkley,RB5,9
+2023,Stefon Diggs,WR4,10
+2023,CeeDee Lamb,WR5,11
+2023,A.J. Brown,WR6,12
+2023,Tony Pollard,RB6,13
+2023,Patrick Mahomes II,QB1,14
+2023,Cooper Kupp,WR7,15
+2023,Derrick Henry,RB7,16
+2023,Josh Jacobs,RB8,17
+2023,Davante Adams,WR8,18
+2023,Garrett Wilson,WR9,19
+2023,Amon-Ra St. Brown,WR10,20
+2023,Josh Allen,QB2,21
+2023,Jalen Hurts,QB3,22
+2023,Jaylen Waddle,WR11,23
+2023,Chris Olave,WR12,24
+2023,Najee Harris,RB9,25
+2023,DeVonta Smith,WR13,26
+2023,Travis Etienne Jr.,RB10,27
+2023,Mark Andrews,TE2,28
+2023,Rhamondre Stevenson,RB11,29
+2023,Tee Higgins,WR14,30
+2023,Joe Mixon,RB12,31
+2023,Jahmyr Gibbs,RB13,32
+2023,Calvin Ridley,WR15,33
+2023,Lamar Jackson,QB4,34
+2023,DK Metcalf,WR16,35
+2023,Joe Burrow,QB5,36
+2023,Aaron Jones Sr.,RB14,37
+2023,Deebo Samuel Sr.,WR17,38
+2023,Amari Cooper,WR18,39
+2023,Dameon Pierce,RB15,40
+2023,Kenneth Walker III,RB16,41
+2023,Breece Hall,RB17,42
+2023,Keenan Allen,WR19,43
+2023,Justin Herbert,QB6,44
+2023,T.J. Hockenson,TE3,45
+2023,Justin Fields,QB7,46
+2023,Jonathan Taylor,RB18,47
+2023,J.K. Dobbins,RB19,48
+2023,Miles Sanders,RB20,49
+2023,George Kittle,TE4,50
+2023,DJ Moore,WR20,51
+2023,Alexander Mattison,RB21,52
+2023,Darren Waller,TE5,53
+2023,Trevor Lawrence,QB8,54
+2023,DeAndre Hopkins,WR21,55
+2023,Terry McLaurin,WR22,56
+2023,Cam Akers,RB22,57
+2023,Drake London,WR23,58
+2023,James Conner,RB23,59
+2023,Christian Watson,WR24,60
+2023,Tyler Lockett,WR25,61
+2023,James Cook,RB24,62
+2023,Dallas Goedert,TE6,63
+2023,Javonte Williams,RB25,64
+2023,Brandon Aiyuk,WR26,65
+2023,Kyle Pitts Sr.,TE7,66
+2023,Chris Godwin Jr.,WR27,67
+2023,Dalvin Cook,RB26,68
+2023,Mike Williams ,WR28,69
+2023,Rachaad White,RB27,70
+2023,Alvin Kamara,RB28,71
+2023,Isiah Pacheco,RB29,72
+2023,D'Andre Swift,RB30,73
+2023,Christian Kirk,WR29,74
+2023,Diontae Johnson,WR30,75
+2023,David Montgomery,RB31,76
+2023,George Pickens,WR31,77
+2023,Jerry Jeudy,WR32,78
+2023,Mike Evans,WR33,79
+2023,Michael Pittman Jr.,WR34,80
+2023,Pat Freiermuth,TE8,81
+2023,Evan Engram,TE9,82
+2023,Dak Prescott,QB9,83
+2023,Deshaun Watson,QB10,84
+2023,Jahan Dotson,WR35,85
+2023,Marquise Brown,WR36,86
+2023,Khalil Herbert,RB32,87
+2023,A.J. Dillon,RB33,88
+2023,Jordan Addison,WR37,89
+2023,Antonio Gibson,RB34,90
+2023,San Francisco 49ers,DST1,91
+2023,David Njoku,TE10,92
+2023,Tua Tagovailoa,QB11,93
+2023,Jaxon Smith-Njigba,WR38,94
+2023,Brian Robinson Jr.,RB35,95
+2023,Gabe Davis,WR39,96
+2023,Brandin Cooks,WR40,97
+2023,Jamaal Williams,RB36,98
+2023,Philadelphia Eagles,DST2,99
+2023,Aaron Rodgers,QB12,100
+2023,Zach Charbonnet,RB37,101
+2023,Michael Thomas,WR41,102
+2023,Courtland Sutton,WR42,103
+2023,Daniel Jones,QB13,104
+2023,Dallas Cowboys,DST3,105
+2023,Zay Flowers,WR43,106
+2023,Rashaad Penny,RB38,107
+2023,Justin Tucker,K1,108
+2023,Samaje Perine,RB39,109
+2023,Kirk Cousins,QB14,110
+2023,Anthony Richardson Sr.,QB15,111
+2023,Odell Beckham Jr.,WR44,112
+2023,Elijah Moore,WR45,113
+2023,Raheem Mostert,RB40,114
+2023,Kadarius Toney,WR46,115
+2023,Treylon Burks,WR47,116
+2023,Skyy Moore,WR48,117
+2023,Geno Smith,QB16,118
+2023,Dalton Kincaid,TE11,119
+2023,Damien Harris,RB41,120
+2023,Buffalo Bills,DST4,121
+2023,JuJu Smith-Schuster,WR49,122
+2023,Ezekiel Elliott,RB42,123
+2023,Jerick McKinnon,RB43,124
+2023,Daniel Carlson,K2,125
+2023,Elijah Mitchell,RB44,126
+2023,De'Von Achane,RB45,127
+2023,New York Jets,DST5,128
+2023,Tyler Bass,K3,129
+2023,Jaylen Warren,RB46,130
+2023,Rashod Bateman,WR50,131
+2023,Evan McPherson,K4,132
+2023,Quentin Johnston,WR51,133
+2023,Dalton Schultz,TE12,134
+2023,Allen Lazard,WR52,135
+2023,Harrison Butker,K5,136
+2023,Tank Bigsby,RB47,137
+2023,Adam Thielen,WR53,138
+2023,Jared Goff,QB17,139
+2023,New England Patriots,DST6,140
+2023,Cole Kmet,TE13,141
+2023,Chig Okonkwo,TE14,142
+2023,Tyler Higbee,TE15,143
+2023,Kenneth Gainwell,RB48,144
+2023,Tyler Allgeier,RB49,145
+2023,Baltimore Ravens,DST7,146
+2023,Kenny Pickett,QB18,147
+2023,Romeo Doubs,WR54,148
+2023,Younghoe Koo,K6,149
+2023,Deuce Vaughn,RB50,150
+2023,Jameson Williams,WR55,151
+2023,Greg Dulcich,TE16,152
+2023,Devin Singletary,RB51,153
+2023,Brock Purdy,QB19,154
+2023,Jalin Hyatt,WR56,155
+2023,Nico Collins,WR57,156
+2023,Bryce Young,QB20,157
+2023,Sam LaPorta,TE17,159
+2023,Roschon Johnson,RB53,160
+2023,Tyler Boyd,WR58,161
+2023,Russell Wilson,QB21,162
+2023,Jordan Love,QB22,163
+2023,Jakobi Meyers,WR59,164
+2023,Miami Dolphins,DST8,165
+2023,Rashee Rice,WR60,166
+2023,Derek Carr,QB23,167
+2023,C.J. Stroud,QB24,168
+2023,Jimmy Garoppolo,QB25,169
+2023,Kendre Miller,RB54,170
+2023,Chuba Hubbard,RB55,171
+2023,Kareem Hunt,RB56,172
+2023,Marvin Mims Jr.,WR61,173
+2023,Denver Broncos,DST9,174
+2023,Zay Jones,WR62,175
+2023,Luke Musgrave,TE18,176
+2023,Cameron Dicker,K7,177
+2023,Tyjae Spears,RB57,178
+2023,Darnell Mooney,WR63,179
+2023,Juwan Johnson,TE19,180
+2023,Deon Jackson,RB58,181
+2023,Clyde Edwards-Helaire,RB59,182
+2023,Michael Gallup,WR64,183
+2023,Jake Elliott,K8,184
+2023,Cordarrelle Patterson,RB60,185
+2023,New Orleans Saints,DST10,186
+2023,Jason Myers,K9,187
+2023,Mac Jones,QB26,188
+2023,Matthew Stafford,QB27,189
+2023,Pittsburgh Steelers,DST11,190
+2023,Gerald Everett,TE20,191
+2023,Taysom Hill,TE21,192
+2023,Irv Smith Jr.,TE22,193
+2023,Sam Howell,QB28,194
+2023,Gus Edwards,RB61,195
+2023,Washington Commanders,DST12,196
+2023,Zamir White,RB62,197
+2023,Dawson Knox,TE23,198
+2023,Brandon McManus,K10,199
+2023,Zach Ertz,TE24,200
+2023,DJ Chark Jr.,WR65,201
+2023,Jason Sanders,K11,202
+2023,Kyler Murray,QB29,203
+2023,Tyler Conklin,TE25,204
+2023,Hayden Hurst,TE26,205
+2023,Jacksonville Jaguars,DST13,206
+2023,Jake Moody,K12,207
+2023,Jake Ferguson,TE27,208
+2023,Seattle Seahawks,DST14,209
+2023,Michael Mayer,TE28,210
+2023,Mike Gesicki,TE29,211
+2023,Kansas City Chiefs,DST15,212
+2023,Rondale Moore,WR66,213
+2023,Donovan Peoples-Jones,WR67,214
+2023,Graham Gano,K13,215
+2023,Jonathan Mingo,WR68,216
+2023,Leonard Fournette,RB63,217
+2023,Van Jefferson,WR69,218
+2023,Cincinnati Bengals,DST16,219
+2023,Matt Gay,K14,220
+2023,K.J. Osborn,WR70,221
+2023,Green Bay Packers,DST17,222
+2023,Ty Chandler,RB64,223
+2023,Joshua Kelley,RB65,224
+2023,Zack Moss,RB66,225
+2023,Justyn Ross,WR71,226
+2023,Alec Pierce,WR72,227
+2023,Tank Dell,WR73,228
+2023,Jayden Reed,WR74,229
+2023,Hunter Henry,TE30,230
+2023,Marquez Valdes-Scantling,WR75,231
+2023,Jeff Wilson Jr.,RB67,232
+2023,Ryan Tannehill,QB30,233
+2023,Minnesota Vikings,DST18,234
+2023,Chase Brown,RB68,235
+2023,Jerome Ford,RB69,236
+2023,Evan Hull ,RB70,237
+2023,Baker Mayfield,QB31,238
+2023,Parris Campbell,WR76,239
+2023,New York Giants,DST19,240
+2023,Isaiah Hodgins,WR77,241
+2023,Greg Zuerlein,K15,242
+2023,Cleveland Browns,DST20,243
+2023,Desmond Ridder,QB32,244
+2023,Tampa Bay Buccaneers,DST21,245
+2023,Nick Folk,K16,246
+2023,Wil Lutz,K17,247
+2023,Brett Maher,K18,248
+2023,Chicago Bears,DST22,249
+2023,Matt Prater,K19,250
+2023,Curtis Samuel,WR78,251
+2023,Hunter Renfrow,WR79,252
+2023,Chris Boswell,K20,253
+2023,John Metchie III,WR80,254
+2023,Rashid Shaheed,WR81,255
+2023,DeVante Parker,WR82,256
+2023,Kyren Williams,RB71,257
+2023,Greg Joseph,K21,258
+2023,Isaiah Likely,TE31,259
+2023,Robert Woods,WR83,260
+2023,Sean Tucker,RB72,261
+2023,Wan'Dale Robinson,WR84,262
+2023,Josh Downs,WR85,263
+2023,Riley Patterson,K22,264
+2023,Detroit Lions,DST23,265
+2023,Richie James Jr.,WR86,266
+2023,Aidan O'Connell,QB33,267
+2023,Joshua Dobbs,QB34,268
+2023,Michael Badgley,K23,269
+2023,Kyle Trask,QB35,270
+2023,Tennessee Titans,DST24,271
+2023,Trey McBride,TE32,272
+2023,Clayton Tune,QB36,273
+2023,Zach Evans,RB73,274
+2023,Michael Wilson,WR87,275
+2023,Los Angeles Rams,DST25,276
+2023,Keaontay Ingram,RB74,277
+2023,DeWayne McBride,RB75,278
+2023,Carolina Panthers,DST26,279
+2023,Puka Nacua,WR88,280
+2023,Cade Otton,TE33,281
+2023,Noah Fant,TE34,282
+2023,Chase Edmonds,RB76,283
+2023,Israel Abanikanda,RB77,284
+2023,Joshua Palmer,WR89,285
+2023,Darius Slayton,WR90,286
+2023,Jared Scott,TE35,287
+2023,Jaleel McLaughlin,RB78,288
+2023,Jonnu Smith,TE36,289
+2023,Brandon Peters,QB37,290
+2023,Trevon Bradford,WR91,291
+2023,Derek Wright,WR92,292
+2023,Sam Darnold,QB38,293
+2023,Carl Tucker,TE37,294
+2023,Michael Carter,RB79,295
+2023,Jacob Harris,TE38,296
+2023,Chase Claypool,WR93,297
+2023,Dustin Crum,QB39,298
+2023,Mecole Hardman Jr.,WR94,299
+2023,Trevon Clark,WR95,300
+2023,Mike White,QB40,301
+2023,Khalil Shakir,WR96,302
+2023,Josh Babicz,TE39,303
+2023,Logan Thomas,TE40,304
+2023,Nick Muse,TE41,305
+2023,Allen Robinson,WR97,306
+2023,Robert Burns,RB80,307
+2023,Jerome Kapp,WR98,308
+2023,Terrace Marshall Jr.,WR99,309
+2023,Los Angeles Chargers,DST27,310
+2023,Jelani Woods,TE42,311
+2023,Tanner Gentry,WR100,312
+2023,Latavius Murray,RB81,313
+2023,Miller Forristall,TE43,314
+2023,Trey Burton,TE44,315
+2023,Cedric Tillman,WR101,316
+2023,Trey Lance,QB41,317
+2023,Luke Schoonmaker,TE45,318
+2023,Rico Dowdle,RB82,319
+2023,Brian Lewerke,QB42,320
+2023,Logan Woodside,QB43,321
+2023,Chad Beebe,WR102,322
+2023,Salvon Ahmed,RB83,323
+2023,Tyquan Thornton,WR103,324
+2023,Pierre Strong Jr.,RB84,325
+2023,Brandon Aubrey,K24,326
+2023,Kerryon Johnson,RB85,327
+2023,Chris Evans,RB86,328
+2023,B.J. Emmons,RB87,329
+2023,Chad Ryland,K25,330
+2023,Thomas Hennigan,WR104,331
+2023,Khalil Tate,QB44,332
+2023,Josh Reynolds,WR105,333
+2023,Isaiah Wright,WR106,334
+2023,Mack Hollins,WR107,335
+2023,D.J. Montgomery,WR108,336
+2023,Marvin Jones Jr.,WR109,337
+2023,Ryan McDaniel,WR110,338
+2023,Matt Breida,RB88,339
+2023,Emmanuel Sanders,WR111,340
+2023,Trey Palmer,WR112,341
+2023,Peyton Barber,RB89,342
+2023,Chris Rodriguez Jr.,RB90,343
+2023,Brandon Smith,WR113,344
+2023,Jaylen Samuels,RB91,345
+2023,Raheem Blackshear,RB92,346
+2023,Chris Brooks,RB93,347
+2023,Josh Hill,TE46,348
+2023,Jacob Saylors,RB94,349
+2023,Bryce Perkins,QB45,350
+2023,Chris Streveler,QB46,351
+2023,Reggie Begelton,WR114,352
+2023,Cam Sutton,TE47,353
+2023,Caleb Huntley,RB95,354
+2023,Derek Carrier,TE48,355
+2023,Keshunn Abram,WR115,356
+2023,Tristan Vizcaino,K26,357
+2023,Aldrick Rosas,K27,358
+2023,Henry Litwin,WR116,359
+2023,Eric Tomlinson,TE49,360
+2024,Christian McCaffrey,RB1,1
+2024,Tyreek Hill,WR1,2
+2024,CeeDee Lamb,WR2,3
+2024,Breece Hall,RB2,4
+2024,Bijan Robinson,RB3,5
+2024,Justin Jefferson,WR3,6
+2024,Ja'Marr Chase,WR4,7
+2024,Amon-Ra St. Brown,WR5,8
+2024,A.J. Brown,WR6,9
+2024,Jonathan Taylor,RB4,10
+2024,Saquon Barkley,RB5,11
+2024,Garrett Wilson,WR7,12
+2024,Jahmyr Gibbs,RB6,13
+2024,Puka Nacua,WR8,14
+2024,Marvin Harrison Jr.,WR9,15
+2024,Travis Etienne Jr.,RB7,16
+2024,Derrick Henry,RB8,17
+2024,Kyren Williams,RB9,18
+2024,Davante Adams,WR10,19
+2024,De'Von Achane,RB10,20
+2024,Isiah Pacheco,RB11,21
+2024,Drake London,WR11,22
+2024,Josh Allen,QB1,23
+2024,Josh Jacobs,RB12,24
+2024,Chris Olave,WR12,25
+2024,Travis Kelce,TE1,26
+2024,Deebo Samuel Sr.,WR13,27
+2024,Nico Collins,WR14,28
+2024,Sam LaPorta,TE2,29
+2024,Patrick Mahomes II,QB2,30
+2024,Jalen Hurts,QB3,31
+2024,Mike Evans,WR15,32
+2024,Brandon Aiyuk,WR16,33
+2024,Cooper Kupp,WR17,34
+2024,Rachaad White,RB13,35
+2024,James Cook,RB14,36
+2024,Lamar Jackson,QB4,37
+2024,DJ Moore,WR18,38
+2024,Michael Pittman Jr.,WR19,39
+2024,DK Metcalf,WR20,40
+2024,Jaylen Waddle,WR21,41
+2024,Joe Mixon,RB15,42
+2024,Kenneth Walker III,RB16,43
+2024,Stefon Diggs,WR22,44
+2024,Alvin Kamara,RB17,45
+2024,DeVonta Smith,WR23,46
+2024,C.J. Stroud,QB5,47
+2024,Trey McBride,TE3,48
+2024,Malik Nabers,WR24,49
+2024,Mark Andrews,TE4,50
+2024,Anthony Richardson Sr.,QB6,51
+2024,Dalton Kincaid,TE5,52
+2024,Aaron Jones Sr.,RB18,53
+2024,Amari Cooper,WR25,54
+2024,James Conner,RB19,55
+2024,George Kittle,TE6,56
+2024,David Montgomery,RB20,57
+2024,Rhamondre Stevenson,RB21,58
+2024,George Pickens,WR26,59
+2024,Tee Higgins,WR27,60
+2024,Kyler Murray,QB7,61
+2024,D'Andre Swift,RB22,62
+2024,Zay Flowers,WR28,63
+2024,Tank Dell,WR29,64
+2024,Kyle Pitts Sr.,TE7,65
+2024,Joe Burrow,QB8,66
+2024,Terry McLaurin,WR30,67
+2024,Najee Harris,RB23,68
+2024,Zamir White,RB24,69
+2024,Rashee Rice,WR31,70
+2024,Evan Engram,TE8,71
+2024,Raheem Mostert,RB25,72
+2024,Jordan Love,QB9,73
+2024,Christian Kirk,WR32,74
+2024,Dak Prescott,QB10,75
+2024,Keenan Allen,WR33,76
+2024,Chris Godwin Jr.,WR34,77
+2024,Calvin Ridley,WR35,78
+2024,Javonte Williams,RB26,79
+2024,Tony Pollard,RB27,80
+2024,Jake Ferguson,TE9,81
+2024,Jayden Reed,WR36,82
+2024,Diontae Johnson,WR37,83
+2024,Devin Singletary,RB28,84
+2024,David Njoku,TE10,85
+2024,Zack Moss ,RB29,86
+2024,Xavier Worthy,WR38,87
+2024,Jaylen Warren,RB30,88
+2024,Rome Odunze,WR39,89
+2024,Brian Robinson Jr.,RB31,90
+2024,Brock Purdy,QB11,91
+2024,Nick Chubb,RB32,92
+2024,Brock Bowers,TE11,93
+2024,Austin Ekeler,RB33,94
+2024,Jayden Daniels,QB12,95
+2024,Caleb Williams,QB13,96
+2024,Jonathon Brooks,RB34,97
+2024,Tyjae Spears,RB35,98
+2024,Jaxon Smith-Njigba,WR40,99
+2024,Christian Watson,WR41,100
+2024,Tua Tagovailoa,QB14,101
+2024,Marquise Brown,WR42,102
+2024,Jordan Addison,WR43,103
+2024,Chase Brown,RB36,104
+2024,Jared Goff,QB15,105
+2024,Jerome Ford,RB37,106
+2024,DeAndre Hopkins,WR44,107
+2024,Ladd McConkey,WR45,108
+2024,Brian Thomas Jr.,WR46,109
+2024,Courtland Sutton,WR47,110
+2024,Dallas Goedert,TE12,111
+2024,Gus Edwards,RB38,112
+2024,Ezekiel Elliott,RB39,113
+2024,Brandon Aubrey,K1,114
+2024,Justin Tucker,K2,115
+2024,Trey Benson,RB40,116
+2024,Keon Coleman,WR48,117
+2024,Jameson Williams,WR49,118
+2024,Blake Corum,RB41,119
+2024,Harrison Butker,K3,120
+2024,Trevor Lawrence,QB16,121
+2024,San Francisco 49ers,DST1,122
+2024,Dalton Schultz,TE13,123
+2024,New York Jets,DST2,124
+2024,Justin Herbert,QB17,125
+2024,Khalil Shakir,WR50,126
+2024,T.J. Hockenson,TE14,127
+2024,Chuba Hubbard,RB42,128
+2024,J.K. Dobbins,RB43,129
+2024,Pat Freiermuth,TE15,130
+2024,Rico Dowdle,RB44,131
+2024,Baltimore Ravens,DST3,132
+2024,Curtis Samuel,WR51,133
+2024,Aaron Rodgers,QB18,134
+2024,Dallas Cowboys,DST4,135
+2024,Romeo Doubs,WR52,136
+2024,Kirk Cousins,QB19,137
+2024,Tyler Lockett,WR53,138
+2024,Cole Kmet,TE16,139
+2024,Jake Elliott,K4,140
+2024,Zach Charbonnet,RB45,141
+2024,Joshua Palmer,WR54,142
+2024,Ka'imi Fairbairn,K5,143
+2024,Jaylen Wright,RB46,144
+2024,Jakobi Meyers,WR55,145
+2024,Matthew Stafford,QB20,146
+2024,Ty Chandler,RB47,147
+2024,Jerry Jeudy,WR56,148
+2024,Cleveland Browns,DST5,149
+2024,Jake Moody,K6,150
+2024,Jaleel McLaughlin,RB48,151
+2024,Baker Mayfield,QB21,152
+2024,Dontayvion Wicks,WR57,153
+2024,MarShawn Lloyd,RB49,154
+2024,Ray Davis,RB50,155
+2024,Brandin Cooks,WR58,156
+2024,Antonio Gibson,RB51,157
+2024,Tyler Allgeier,RB52,158
+2024,Taysom Hill,TE17,159
+2024,Adam Thielen,WR59,160
+2024,Mike Williams,WR60,161
+2024,Rashid Shaheed,WR61,162
+2024,Adonai Mitchell,WR62,163
+2024,Jason Sanders,K7,164
+2024,Evan McPherson,K8,165
+2024,Younghoe Koo,K9,166
+2024,Gabe Davis ,WR63,167
+2024,Pittsburgh Steelers,DST6,168
+2024,Kansas City Chiefs,DST7,169
+2024,Xavier Legette,WR64,170
+2024,Will Levis,QB22,171
+2024,Bucky Irving,RB53,172
+2024,Isaiah Likely,TE18,173
+2024,Ja'Lynn Polk,WR65,174
+2024,Bo Nix,QB23,175
+2024,Kimani Vidal,RB54,176
+2024,Luke Musgrave,TE19,177
+2024,Deshaun Watson,QB24,178
+2024,Khalil Herbert,RB55,179
+2024,Jordan Mason,RB56,180
+2024,Jahan Dotson,WR66,181
+2024,Josh Downs,WR67,182
+2024,Russell Wilson,QB25,183
+2024,Justin Fields,QB26,184
+2024,Tyler Bass,K10,185
+2024,Miami Dolphins,DST8,186
+2024,Tyler Conklin,TE20,187
+2024,Buffalo Bills,DST9,188
+2024,Geno Smith,QB27,189
+2024,Jonnu Smith,TE21,190
+2024,Hunter Henry,TE22,191
+2024,Cameron Dicker,K11,192
+2024,Chig Okonkwo,TE23,193
+2024,Cade Otton,TE24,194
+2024,Ben Sinnott,TE25,195
+2024,Jason Myers,K12,196
+2024,Philadelphia Eagles,DST10,197
+2024,Zach Ertz,TE26,198
+2024,Braelon Allen,RB57,199
+2024,Darnell Mooney,WR68,200
+2024,Daniel Carlson,K13,201
+2024,Michael Wilson,WR69,202
+2024,Noah Fant,TE27,203
+2024,Tyrone Tracy Jr.,RB58,204
+2024,Houston Texans,DST11,205
+2024,Las Vegas Raiders,DST12,206
+2024,Tampa Bay Buccaneers,DST13,207
+2024,New Orleans Saints,DST14,208
+2024,Dawson Knox,TE28,209
+2024,Quentin Johnston,WR70,210
+2024,Seattle Seahawks,DST15,211
+2024,DeMario Douglas,WR71,212
+2024,Bryce Young,QB28,213
+2024,Detroit Lions,DST16,214
+2024,Derek Carr,QB29,215
+2024,Tank Bigsby,RB59,216
+2024,Daniel Jones,QB30,217
+2024,New York Giants,DST17,218
+2024,New England Patriots,DST18,219
+2024,Drake Maye,QB31,220
+2024,Troy Franklin,WR72,221
+2024,Alexander Mattison,RB60,222
+2024,Jermaine Burton,WR73,223
+2024,Sam Darnold,QB32,224
+2024,Audric Estime,RB61,225
+2024,Matt Gay,K14,226
+2024,Chicago Bears,DST19,227
+2024,Luke McCaffrey,WR74,228
+2024,Dameon Pierce,RB62,229
+2024,Cincinnati Bengals,DST20,230
+2024,Will Reichard,K15,231
+2024,Roschon Johnson,RB63,232
+2024,Wan'Dale Robinson,WR75,233
+2024,Marvin Mims Jr.,WR76,234
+2024,Atlanta Falcons,DST21,235
+2024,Jamaal Williams,RB64,236
+2024,Kendre Miller,RB65,237
+2024,Ricky Pearsall,WR77,238
+2024,Indianapolis Colts,DST22,239
+2024,Chris Boswell,K16,240
+2024,Gardner Minshew II,QB33,241
+2024,Rashod Bateman,WR78,242
+2024,Will Shipley,RB66,243
+2024,Green Bay Packers,DST23,244
+2024,Justice Hill,RB67,245
+2024,Cairo Santos,K17,246
+2024,Minnesota Vikings,DST24,247
+2024,Jake Bates,K18,248
+2024,Clyde Edwards-Helaire,RB68,249
+2024,Greg Zuerlein,K19,250
+2024,Greg Dortch,WR79,251
+2024,Kenneth Gainwell,RB69,252
+2024,Roman Wilson,WR80,253
+2024,Jalen McMillan,WR81,254
+2024,Juwan Johnson,TE29,255
+2024,Dustin Hopkins,K20,256
+2024,Samaje Perine,RB70,257
+2024,Ja'Tavion Sanders,TE30,258
+2024,Matt Prater,K21,259
+2024,Denver Broncos,DST25,260
+2024,Mike Gesicki,TE31,261
+2024,Keaton Mitchell,RB71,262
+2024,Dyami Brown,WR82,263
+2024,Jacoby Brissett,QB34,264
+2024,Demarcus Robinson,WR83,265
+2024,Dalvin Cook,RB72,266
+2024,Tyler Boyd,WR84,267
+2024,Malachi Corley,WR85,268
+2024,Jalen Tolbert,WR86,269
+2024,Trey Sermon,RB73,270
+2024,Theo Johnson,TE32,271
+2024,Washington Commanders,DST26,272
+2024,Greg Dulcich,TE33,273
+2024,Isaac Guerendo,RB74,274
+2024,Aidan O'Connell,QB35,275
+2024,Jacksonville Jaguars,DST27,276
+2024,Hayden Hurst,TE34,277
+2024,Kareem Hunt,RB75,278
+2024,Dylan Laube,RB76,279
+2024,Cam Akers,RB77,280
+2024,Carson Steele,RB78,281
+2024,Colby Parkinson,TE35,282
+2024,DJ Chark Jr.,WR87,284
+2024,Javon Baker,WR88,285
+2024,Miles Sanders,RB80,286
+2024,Odell Beckham Jr.,WR89,287
+2024,Andrei Iosivas,WR90,288
+2024,Darius Slayton,WR91,289
+2024,Joe Flacco,QB36,290
+2024,Jalin Hyatt,WR92,291
+2024,Tennessee Titans,DST28,292
+2024,Michael Penix Jr.,QB37,293
+2024,Eric Gray,RB81,294
+2024,Michael Mayer,TE36,295
+2024,Joshua Karty,K22,296
+2024,Cam Little,K23,297
+2024,Brenden Rice,WR93,298
+2024,Elijah Moore,WR94,299
+2024,Malik Washington,WR95,300
+2024,Devontez Walker,WR96,301
+2024,Zay Jones,WR97,302
+2024,Tre Tucker,WR98,303
+2024,Daniel Bellinger,TE37,304
+2024,Kendrick Bourne,WR99,305
+2024,Treylon Burks,WR100,306
+2024,Cordarrelle Patterson,RB82,307
+2024,Tucker Kraft,TE38,308
+2024,Davis Cheek,QB38,309
+2024,Albert Wilson,WR101,310
+2024,Peewee Jarrett,QB39,311
+2024,Deuce Vaughn,RB83,312
+2024,Larry Rose,RB84,313
+2024,Jordan Whittington,WR102,314
+2024,Jonathan Mingo,WR103,315
+2024,J.J. Taylor,RB85,316
+2024,Calvin Austin III,WR104,317
+2024,Noah Brown,WR105,318
+2024,Austin Aune,QB40,319
+2024,Kevin White,WR106,320
+2024,Rasheen Ali,RB86,321
+2024,Van Jefferson,WR107,322
+2024,Isaiah Bowser,RB87,323
+2024,Zay Malone,WR108,324
+2024,Frank Gore Jr.,RB88,325
+2024,Los Angeles Chargers,DST29,326
+2024,Emanuel Wilson,RB89,327
+2024,Josh Reynolds,WR109,328
+2024,K.J. Osborn,WR110,329
+2024,Mark Ingram,RB90,330
+2024,Jeff Wilson Jr.,RB91,331
+2024,Alec Pierce,WR111,332
+2024,Evan Hull,RB92,333
+2024,Wendell Smallwood,RB93,334
+2024,Jalen Nailor,WR112,335
+2024,Nick Keizer,TE39,336
+2024,Mo Alie-Cox,TE40,337
+2024,James White,RB94,338
+2024,Los Angeles Rams,DST30,339
+2024,Anthony Johnson,CB1,340
+2024,A.T. Perry,WR113,341
+2024,Jason Witten,TE41,342
+2024,Vernon Davis,TE42,343

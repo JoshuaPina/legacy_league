@@ -1,0 +1,1449 @@
+PickInRound,Player,Team,Manager,Year,OverallPick
+1,"Christian McCaffrey SF, RB",The Bowers that be,Ant,2024,1
+2,"Breece Hall NYJ, RB",Breeces Pieces,Adam,2024,2
+3,"CeeDee Lamb Dal, WR",Spin that Drake,Tyler,2024,3
+4,"Bijan Robinson Atl, RB",DreamZz,Nate,2024,4
+5,"Tyreek Hill Mia, WR",The Hill,Peete,2024,5
+6,"Amon-Ra St. Brown Det, WR",Mostert On The Beat,Vic,2024,6
+7,"Ja'Marr Chase Cin, WR",The Battle of the JPs commences,Josh,2024,7
+8,"Jonathan Taylor Ind, RB",Joel Embiid Express,Rashide,2024,8
+9,"Saquon Barkley Phi, RB",Mack Attack Combo,Mac,2024,9
+10,"Justin Jefferson Min, WR",Waist Management,Jesus,2024,10
+11,"Jahmyr Gibbs Det, RB","White Dudes For Harris, Son",Chacon,2024,11
+12,"Kyren Williams LAR, RB",Charbzard,Jessie,2024,12
+13,"Travis Etienne Jr. Jax, RB",Right on Thielen,Paul,2024,13
+14,"Derrick Henry Bal, RB",Jus me n Bo Nix,Dario,2024,14
+1,"James Cook Buf, RB",Jus me n Bo Nix,Dario,2024,15
+2,"Isiah Pacheco KC, RB",Right on Thielen,Paul,2024,16
+3,"A.J. Brown Phi, WR",Charbzard,Jessie,2024,17
+4,"Marvin Harrison Jr. Ari, WR","White Dudes For Harris, Son",Chacon,2024,18
+5,"Kenneth Walker III Sea, RB",Waist Management,Jesus,2024,19
+6,"Garrett Wilson NYJ, WR",Mack Attack Combo,Mac,2024,20
+7,"Puka Nacua LAR, WR",Joel Embiid Express,Rashide,2024,21
+8,"Davante Adams LAR, WR",The Battle of the JPs commences,Josh,2024,22
+9,"Rachaad White TB, RB",Mostert On The Beat,Vic,2024,23
+10,"De'Von Achane Mia, RB",The Hill,Peete,2024,24
+11,"Alvin Kamara NO, RB",DreamZz,Nate,2024,25
+12,"Drake London Atl, WR",Spin that Drake,Tyler,2024,26
+13,"Chris Olave NO, WR",Breeces Pieces,Adam,2024,27
+14,"Joe Mixon Hou, RB",The Bowers that be,Ant,2024,28
+1,"Nico Collins Hou, WR",The Bowers that be,Ant,2024,29
+2,"Michael Pittman Jr. Ind, WR",Breeces Pieces,Adam,2024,30
+3,"Josh Jacobs GB, RB",Spin that Drake,Tyler,2024,31
+4,"Travis Kelce KC, TE",DreamZz,Nate,2024,32
+5,"Mike Evans TB, WR",The Hill,Peete,2024,33
+6,"Deebo Samuel Sr. Wsh, WR",Mostert On The Beat,Vic,2024,34
+7,"Cooper Kupp Sea, WR",The Battle of the JPs commences,Josh,2024,35
+8,"DK Metcalf Pit, WR",Joel Embiid Express,Rashide,2024,36
+9,"Brandon Aiyuk SF, WR",Mack Attack Combo,Mac,2024,37
+10,"Zamir White LV, RB",Waist Management,Jesus,2024,38
+11,"Jaylen Waddle Mia, WR","White Dudes For Harris, Son",Chacon,2024,39
+12,"Stefon Diggs Hou, WR",Charbzard,Jessie,2024,40
+13,"DeVonta Smith Phi, WR",Right on Thielen,Paul,2024,41
+14,"DJ Moore Chi, WR",Jus me n Bo Nix,Dario,2024,42
+1,"Calvin Ridley Ten, WR",Jus me n Bo Nix,Dario,2024,43
+2,"Kyle Pitts Atl, TE",Right on Thielen,Paul,2024,44
+3,"David Montgomery Det, RB",Charbzard,Jessie,2024,45
+4,"Patrick Mahomes KC, QB","White Dudes For Harris, Son",Chacon,2024,46
+5,"Tee Higgins Cin, WR",Waist Management,Jesus,2024,47
+6,"Jalen Hurts Phi, QB",Mack Attack Combo,Mac,2024,48
+7,"Josh Allen Buf, QB",Joel Embiid Express,Rashide,2024,49
+8,"Malik Nabers NYG, WR",The Battle of the JPs commences,Josh,2024,50
+9,"Mark Andrews Bal, TE",Mostert On The Beat,Vic,2024,51
+10,"C.J. Stroud Hou, QB",The Hill,Peete,2024,52
+11,"Lamar Jackson Bal, QB",DreamZz,Nate,2024,53
+12,"Zay Flowers Bal, WR",Spin that Drake,Tyler,2024,54
+13,"Trey McBride Ari, TE",Breeces Pieces,Adam,2024,55
+14,"Sam LaPorta Det, TE",The Bowers that be,Ant,2024,56
+1,"D'Andre Swift Chi, RB",The Bowers that be,Ant,2024,57
+2,"Anthony Richardson Ind, QB",Breeces Pieces,Adam,2024,58
+3,"Tank Dell Hou, WR",Spin that Drake,Tyler,2024,59
+4,"George Pickens Pit, WR",DreamZz,Nate,2024,60
+5,"Terry McLaurin Wsh, WR",The Hill,Peete,2024,61
+6,"Kyler Murray Ari, QB",Mostert On The Beat,Vic,2024,62
+7,"Rhamondre Stevenson NE, RB",The Battle of the JPs commences,Josh,2024,63
+8,"Aaron Jones Min, RB",Joel Embiid Express,Rashide,2024,64
+9,"Najee Harris LAC, RB",Mack Attack Combo,Mac,2024,65
+10,"James Conner Ari, RB",Waist Management,Jesus,2024,66
+11,"Ezekiel Elliott FA, RB","White Dudes For Harris, Son",Chacon,2024,67
+12,"Jayden Reed GB, WR",Charbzard,Jessie,2024,68
+13,"Christian Watson GB, WR",Right on Thielen,Paul,2024,69
+14,"Javonte Williams Dal, RB",Jus me n Bo Nix,Dario,2024,70
+1,"DeAndre Hopkins Bal, WR",Jus me n Bo Nix,Dario,2024,71
+2,"Jordan Love GB, QB",Right on Thielen,Paul,2024,72
+3,"Joe Burrow Cin, QB",Charbzard,Jessie,2024,73
+4,"Nick Chubb Cle, RB","White Dudes For Harris, Son",Chacon,2024,74
+5,"Evan Engram Den, TE",Waist Management,Jesus,2024,75
+6,"Brian Robinson Jr. Wsh, RB",Mack Attack Combo,Mac,2024,76
+7,"Dalton Kincaid Buf, TE",Joel Embiid Express,Rashide,2024,77
+8,"Chris Godwin TB, WR",The Battle of the JPs commences,Josh,2024,78
+9,"Raheem Mostert LV, RB",Mostert On The Beat,Vic,2024,79
+10,"Tony Pollard Ten, RB",The Hill,Peete,2024,80
+11,"Amari Cooper Buf, WR",DreamZz,Nate,2024,81
+12,"George Kittle SF, TE",Spin that Drake,Tyler,2024,82
+13,"Christian Kirk Hou, WR",Breeces Pieces,Adam,2024,83
+14,"Tyjae Spears Ten, RB",The Bowers that be,Ant,2024,84
+1,"Rashee Rice KC, WR",The Bowers that be,Ant,2024,85
+2,"Zack Moss Cin, RB",Breeces Pieces,Adam,2024,86
+3,"Dak Prescott Dal, QB",Spin that Drake,Tyler,2024,87
+4,"Keenan Allen Chi, WR",DreamZz,Nate,2024,88
+5,"Jonathon Brooks Car, RB",The Hill,Peete,2024,89
+6,"Chase Brown Cin, RB",Mostert On The Beat,Vic,2024,90
+7,"Devin Singletary NYG, RB",The Battle of the JPs commences,Josh,2024,91
+8,"Keon Coleman Buf, WR",Joel Embiid Express,Rashide,2024,92
+9,"Jayden Daniels Wsh, QB",Mack Attack Combo,Mac,2024,93
+10,"Jaxon Smith-Njigba Sea, WR",Waist Management,Jesus,2024,94
+11,"Rome Odunze Chi, WR","White Dudes For Harris, Son",Chacon,2024,95
+12,"David Njoku Cle, TE",Charbzard,Jessie,2024,96
+13,"Diontae Johnson Bal, WR",Right on Thielen,Paul,2024,97
+14,"J.K. Dobbins LAC, RB",Jus me n Bo Nix,Dario,2024,98
+1,"Hollywood Brown KC, WR",Jus me n Bo Nix,Dario,2024,99
+2,"Brandon Aubrey Dal, K",Right on Thielen,Paul,2024,100
+3,"Courtland Sutton Den, WR",Charbzard,Jessie,2024,101
+4,"Jerome Ford Cle, RB","White Dudes For Harris, Son",Chacon,2024,102
+5,"Trevor Lawrence Jax, QB",Waist Management,Jesus,2024,103
+6,"Alec Ingold Mia, RB",Mack Attack Combo,Mac,2024,104
+7,"Jake Ferguson Dal, TE",Joel Embiid Express,Rashide,2024,105
+8,"Gus Edwards FA, RB",The Battle of the JPs commences,Josh,2024,106
+9,"Cowboys D/ST Dal, D/ST",Mostert On The Beat,Vic,2024,107
+10,"Dalton Schultz Hou, TE",The Hill,Peete,2024,108
+11,"49ers D/ST SF, D/ST",DreamZz,Nate,2024,109
+12,"Austin Ekeler Wsh, RB",Spin that Drake,Tyler,2024,110
+13,"Jaylen Warren Pit, RB",Breeces Pieces,Adam,2024,111
+14,"Brock Purdy SF, QB",The Bowers that be,Ant,2024,112
+1,"Brock Bowers LV, TE",The Bowers that be,Ant,2024,113
+2,"Ladd McConkey LAC, WR",Breeces Pieces,Adam,2024,114
+3,"Xavier Worthy KC, WR",Spin that Drake,Tyler,2024,115
+4,"Jordan Addison Min, WR",DreamZz,Nate,2024,116
+5,"Trey Benson Ari, RB",The Hill,Peete,2024,117
+6,"Jerry Jeudy Cle, WR",Mostert On The Beat,Vic,2024,118
+7,"Rico Dowdle Car, RB",The Battle of the JPs commences,Josh,2024,119
+8,"Ty Chandler Min, RB",Joel Embiid Express,Rashide,2024,120
+9,"Tyler Allgeier Atl, RB",Mack Attack Combo,Mac,2024,121
+10,"Brian Thomas Jr. Jax, WR",Waist Management,Jesus,2024,122
+11,"Isaiah Likely Bal, TE","White Dudes For Harris, Son",Chacon,2024,123
+12,"Jakobi Meyers LV, WR",Charbzard,Jessie,2024,124
+13,"Jets D/ST NYJ, D/ST",Right on Thielen,Paul,2024,125
+14,"Tua Tagovailoa Mia, QB",Jus me n Bo Nix,Dario,2024,126
+1,"Pat Freiermuth Pit, TE",Jus me n Bo Nix,Dario,2024,127
+2,"Tyler Lockett FA, WR",Right on Thielen,Paul,2024,128
+3,"Zach Charbonnet Sea, RB",Charbzard,Jessie,2024,129
+4,"Caleb Williams Chi, QB","White Dudes For Harris, Son",Chacon,2024,130
+5,"Justin Tucker Bal, K",Waist Management,Jesus,2024,131
+6,"Tre Tucker LV, WR",Mack Attack Combo,Mac,2024,132
+7,"Blake Corum LAR, RB",Joel Embiid Express,Rashide,2024,133
+8,"Dallas Goedert Phi, TE",The Battle of the JPs commences,Josh,2024,134
+9,"Curtis Samuel Buf, WR",Mostert On The Beat,Vic,2024,135
+10,"Jameson Williams Det, WR",The Hill,Peete,2024,136
+11,"Jake Elliott Phi, K",DreamZz,Nate,2024,137
+12,"Mike Williams LAC, WR",Spin that Drake,Tyler,2024,138
+13,"Chuba Hubbard Car, RB",Breeces Pieces,Adam,2024,139
+14,"Browns D/ST Cle, D/ST",The Bowers that be,Ant,2024,140
+1,"Harrison Butker KC, K",The Bowers that be,Ant,2024,141
+2,"Ravens D/ST Bal, D/ST",Breeces Pieces,Adam,2024,142
+3,"Steelers D/ST Pit, D/ST",Spin that Drake,Tyler,2024,143
+4,"Darnell Mooney Atl, WR",DreamZz,Nate,2024,144
+5,"Bears D/ST Chi, D/ST",The Hill,Peete,2024,145
+6,"MarShawn Lloyd GB, RB",Mostert On The Beat,Vic,2024,146
+7,"T.J. Hockenson Min, TE",The Battle of the JPs commences,Josh,2024,147
+8,"Rashid Shaheed NO, WR",Joel Embiid Express,Rashide,2024,148
+9,"DeMario Douglas NE, WR",Mack Attack Combo,Mac,2024,149
+10,"Khalil Shakir Buf, WR",Waist Management,Jesus,2024,150
+11,"Jaleel McLaughlin Den, RB","White Dudes For Harris, Son",Chacon,2024,151
+12,"Greg Zuerlein NYJ, K",Charbzard,Jessie,2024,152
+13,"Adam Thielen Car, WR",Right on Thielen,Paul,2024,153
+14,"Chiefs D/ST KC, D/ST",Jus me n Bo Nix,Dario,2024,154
+1,"Cole Kmet Chi, TE",Jus me n Bo Nix,Dario,2024,155
+2,"Joshua Palmer Buf, WR",Right on Thielen,Paul,2024,156
+3,"Gabe Davis Jax, WR",Charbzard,Jessie,2024,157
+4,"Texans D/ST Hou, D/ST","White Dudes For Harris, Son",Chacon,2024,158
+5,"Saints D/ST NO, D/ST",Waist Management,Jesus,2024,159
+6,"Taysom Hill NO, TE",Mack Attack Combo,Mac,2024,160
+7,"Lions D/ST Det, D/ST",Joel Embiid Express,Rashide,2024,161
+8,"Dolphins D/ST Mia, D/ST",The Battle of the JPs commences,Josh,2024,162
+9,"Alexander Mattison Mia, RB",Mostert On The Beat,Vic,2024,163
+10,"Khalil Herbert Ind, RB",The Hill,Peete,2024,164
+11,"Romeo Doubs GB, WR",DreamZz,Nate,2024,165
+12,"Ka'imi Fairbairn Hou, K",Spin that Drake,Tyler,2024,166
+13,"Jared Goff Det, QB",Breeces Pieces,Adam,2024,167
+14,"Ja'Lynn Polk NE, WR",The Bowers that be,Ant,2024,168
+1,"Adonai Mitchell Ind, WR",The Bowers that be,Ant,2024,169
+2,"Dontayvion Wicks GB, WR",Breeces Pieces,Adam,2024,170
+3,"Aaron Rodgers FA, QB",Spin that Drake,Tyler,2024,171
+4,"Deshaun Watson Cle, QB",DreamZz,Nate,2024,172
+5,"Kirk Cousins Atl, QB",The Hill,Peete,2024,173
+6,"Justin Herbert LAC, QB",Mostert On The Beat,Vic,2024,174
+7,"Matthew Stafford LAR, QB",The Battle of the JPs commences,Josh,2024,175
+8,"Geno Smith LV, QB",Joel Embiid Express,Rashide,2024,176
+9,"Evan McPherson Cin, K",Mack Attack Combo,Mac,2024,177
+10,"Baker Mayfield TB, QB",Waist Management,Jesus,2024,178
+11,"Jake Moody SF, K","White Dudes For Harris, Son",Chacon,2024,179
+12,"Bengals D/ST Cin, D/ST",Charbzard,Jessie,2024,180
+13,"Brandin Cooks Dal, WR",Right on Thielen,Paul,2024,181
+14,"Younghoe Koo Atl, K",Jus me n Bo Nix,Dario,2024,182
+1,"Antonio Gibson NE, RB",Jus me n Bo Nix,Dario,2024,183
+2,"Michael Wilson Ari, WR",Right on Thielen,Paul,2024,184
+3,"Jahan Dotson Phi, WR",Charbzard,Jessie,2024,185
+4,"Jonnu Smith Mia, TE","White Dudes For Harris, Son",Chacon,2024,186
+5,"Jamaal Williams FA, RB",Waist Management,Jesus,2024,187
+6,"Jaguars D/ST Jax, D/ST",Mack Attack Combo,Mac,2024,188
+7,"Dustin Hopkins Cle, K",Joel Embiid Express,Rashide,2024,189
+8,"Odell Beckham Jr. FA, WR",The Battle of the JPs commences,Josh,2024,190
+9,"Matt Gay Ind, K",Mostert On The Beat,Vic,2024,191
+10,"Josh Downs Ind, WR",The Hill,Peete,2024,192
+11,"Kendre Miller NO, RB",DreamZz,Nate,2024,193
+12,"Xavier Legette Car, WR",Spin that Drake,Tyler,2024,194
+13,"Elijah Mitchell KC, RB",Breeces Pieces,Adam,2024,195
+14,"Keaton Mitchell Bal, RB",The Bowers that be,Ant,2024,196
+1,"Tyrone Tracy Jr. NYG, RB",The Bowers that be,Ant,2024,197
+2,"Noah Fant Sea, TE",Breeces Pieces,Adam,2024,198
+3,"Dameon Pierce Hou, RB",Spin that Drake,Tyler,2024,199
+4,"Wan'Dale Robinson NYG, WR",DreamZz,Nate,2024,200
+5,"Jaylen Wright Mia, RB",The Hill,Peete,2024,201
+6,"DJ Chark Jr. LAC, WR",Mostert On The Beat,Vic,2024,202
+7,"Kimani Vidal LAC, RB",The Battle of the JPs commences,Josh,2024,203
+8,"Ray Davis Buf, RB",Joel Embiid Express,Rashide,2024,204
+9,"Demarcus Robinson SF, WR",Mack Attack Combo,Mac,2024,205
+10,"Tyler Conklin NYJ, TE",Waist Management,Jesus,2024,206
+11,"Isaac Guerendo SF, RB","White Dudes For Harris, Son",Chacon,2024,207
+12,"Clyde Edwards-Helaire NO, RB",Charbzard,Jessie,2024,208
+13,"Chig Okonkwo Ten, TE",Right on Thielen,Paul,2024,209
+14,"Luke McCaffrey Wsh, WR",Jus me n Bo Nix,Dario,2024,210
+1,"Miles Sanders Dal, RB",Jus me n Bo Nix,Dario,2024,211
+2,"Will Levis Ten, QB",Right on Thielen,Paul,2024,212
+3,"Bucky Irving TB, RB",Charbzard,Jessie,2024,213
+4,"Tutu Atwell LAR, WR","White Dudes For Harris, Son",Chacon,2024,214
+5,"Rashod Bateman Bal, WR",Waist Management,Jesus,2024,215
+6,"Cade Otton TB, TE",Mack Attack Combo,Mac,2024,216
+7,"Braelon Allen NYJ, RB",Joel Embiid Express,Rashide,2024,217
+8,"Jason Sanders Mia, K",The Battle of the JPs commences,Josh,2024,218
+9,"Tucker Kraft GB, TE",Mostert On The Beat,Vic,2024,219
+10,"Tim Patrick Det, WR",The Hill,Peete,2024,220
+11,"Marvin Mims Jr. Den, WR",DreamZz,Nate,2024,221
+12,"Juwan Johnson NO, TE",Spin that Drake,Tyler,2024,222
+13,"Cameron Dicker LAC, K",Breeces Pieces,Adam,2024,223
+14,"Tyler Boyd Ten, WR",The Bowers that be,Ant,2024,224
+1,"Gardner Minshew KC, QB",The Bowers that be,Ant,2024,225
+2,"Bills D/ST Buf, D/ST",Breeces Pieces,Adam,2024,226
+3,"Eric Gray NYG, RB",Spin that Drake,Tyler,2024,227
+4,"Hunter Henry NE, TE",DreamZz,Nate,2024,228
+5,"Jake Bates Det, K",The Hill,Peete,2024,229
+6,"Tank Bigsby Jax, RB",Mostert On The Beat,Vic,2024,230
+7,"Daniel Jones Ind, QB",The Battle of the JPs commences,Josh,2024,231
+8,"Chargers D/ST LAC, D/ST",Joel Embiid Express,Rashide,2024,232
+9,"Jalin Hyatt NYG, WR",Mack Attack Combo,Mac,2024,233
+10,"Justice Hill Bal, RB",Waist Management,Jesus,2024,234
+11,"Isaiah Davis NYJ, RB","White Dudes For Harris, Son",Chacon,2024,235
+12,"Kendrick Bourne NE, WR",Charbzard,Jessie,2024,236
+13,"Kenneth Gainwell Pit, RB",Right on Thielen,Paul,2024,237
+14,"Bo Nix Den, QB",Jus me n Bo Nix,Dario,2024,238
+1,"Davante Adams LV, WR",Elite Defense Inc.,Jesus,2023,1
+2,"Travis Kelce KC, TE",D$ Whet Dream Team,Chacon,2023,2
+3,"Stefon Diggs Buf, WR",DreamZz,Nate,2023,3
+4,"Ja'Marr Chase Cin, WR",Looking for REVENGEEEE,Josh,2023,4
+5,"Bijan Robinson Atl, RB",__,Paul,2023,5
+6,"Derrick Henry Bal, RB",I GUS,Dario,2023,6
+7,"Tony Pollard Ten, RB",Mid_Victor7,Vic,2023,7
+8,"Austin Ekeler Wsh, RB",UNDERDOG EXPRESS,Rashide,2023,8
+9,"Saquon Barkley Phi, RB",Meet The Jeffersons,Peete,2023,9
+10,"Justin Jefferson Min, WR",Olave Garden,Tyler,2023,10
+11,"Christian McCaffrey SF, RB",F It Amon One,Jessie,2023,11
+12,"Joe Mixon Hou, RB",Speed Hills,Adam,2023,12
+13,"Nick Chubb Cle, RB",So then wut r the cowboys?,Brandon,2023,13
+14,"A.J. Brown Phi, WR",Peete secretly loves my team,Ant,2023,14
+1,"Jaylen Waddle Mia, WR",Peete secretly loves my team,Ant,2023,15
+2,"Deebo Samuel SF, WR",So then wut r the cowboys?,Brandon,2023,16
+3,"Tyreek Hill Mia, WR",Speed Hills,Adam,2023,17
+4,"Amon-Ra St. Brown Det, WR",F It Amon One,Jessie,2023,18
+5,"Patrick Mahomes KC, QB",Olave Garden,Tyler,2023,19
+6,"Dameon Pierce Hou, RB",Meet The Jeffersons,Peete,2023,20
+7,"Cooper Kupp LAR, WR",UNDERDOG EXPRESS,Rashide,2023,21
+8,"Garrett Wilson NYJ, WR",Mid_Victor7,Vic,2023,22
+9,"Kenneth Walker III Sea, RB",I GUS,Dario,2023,23
+10,"DK Metcalf Sea, WR",__,Paul,2023,24
+11,"Jalen Hurts Phi, QB",Looking for REVENGEEEE,Josh,2023,25
+12,"Josh Jacobs GB, RB",DreamZz,Nate,2023,26
+13,"Mark Andrews Bal, TE",D$ Whet Dream Team,Chacon,2023,27
+14,"CeeDee Lamb Dal, WR",Elite Defense Inc.,Jesus,2023,28
+1,"Aaron Jones Min, RB",Elite Defense Inc.,Jesus,2023,29
+2,"Raheem Mostert Mia, RB",D$ Whet Dream Team,Chacon,2023,30
+3,"Alexander Mattison LV, RB",DreamZz,Nate,2023,31
+4,"Jahmyr Gibbs Det, RB",Looking for REVENGEEEE,Josh,2023,32
+5,"Justin Fields Pit, QB",__,Paul,2023,33
+6,"Rhamondre Stevenson NE, RB",I GUS,Dario,2023,34
+7,"Amari Cooper Cle, WR",Mid_Victor7,Vic,2023,35
+8,"Josh Allen Buf, QB",UNDERDOG EXPRESS,Rashide,2023,36
+9,"Lamar Jackson Bal, QB",Meet The Jeffersons,Peete,2023,37
+10,"Chris Olave NO, WR",Olave Garden,Tyler,2023,38
+11,"Calvin Ridley Ten, WR",F It Amon One,Jessie,2023,39
+12,"Travis Etienne Jr. Jax, RB",Speed Hills,Adam,2023,40
+13,"Tee Higgins Cin, WR",So then wut r the cowboys?,Brandon,2023,41
+14,"Jonathan Taylor Ind, RB",Peete secretly loves my team,Ant,2023,42
+1,"Brandon Aiyuk SF, WR",Peete secretly loves my team,Ant,2023,43
+2,"Breece Hall NYJ, RB",So then wut r the cowboys?,Brandon,2023,44
+3,"T.J. Hockenson Min, TE",Speed Hills,Adam,2023,45
+4,"J.K. Dobbins Bal, RB",F It Amon One,Jessie,2023,46
+5,"Rachaad White TB, RB",Olave Garden,Tyler,2023,47
+6,"Alvin Kamara NO, RB",Meet The Jeffersons,Peete,2023,48
+7,"Diontae Johnson Car, WR",UNDERDOG EXPRESS,Rashide,2023,49
+8,"Najee Harris Pit, RB",Mid_Victor7,Vic,2023,50
+9,"DJ Moore Chi, WR",I GUS,Dario,2023,51
+10,"Keenan Allen Chi, WR",__,Paul,2023,52
+11,"Darren Waller NYG, TE",Looking for REVENGEEEE,Josh,2023,53
+12,"DeVonta Smith Phi, WR",DreamZz,Nate,2023,54
+13,"Joe Burrow Cin, QB",D$ Whet Dream Team,Chacon,2023,55
+14,"Miles Sanders Car, RB",Elite Defense Inc.,Jesus,2023,56
+1,"Jerry Jeudy Cle, WR",Elite Defense Inc.,Jesus,2023,57
+2,"Zay Flowers Bal, WR",D$ Whet Dream Team,Chacon,2023,58
+3,"James Conner Ari, RB",DreamZz,Nate,2023,59
+4,"Chris Godwin TB, WR",Looking for REVENGEEEE,Josh,2023,60
+5,"Terry McLaurin Wsh, WR",__,Paul,2023,61
+6,"George Pickens Pit, WR",I GUS,Dario,2023,62
+7,"Cam Akers Min, RB",Mid_Victor7,Vic,2023,63
+8,"James Cook Buf, RB",UNDERDOG EXPRESS,Rashide,2023,64
+9,"George Kittle SF, TE",Meet The Jeffersons,Peete,2023,65
+10,"Christian Watson GB, WR",Olave Garden,Tyler,2023,66
+11,"Justin Herbert LAC, QB",F It Amon One,Jessie,2023,67
+12,"David Montgomery Det, RB",Speed Hills,Adam,2023,68
+13,"Mike Evans TB, WR",So then wut r the cowboys?,Brandon,2023,69
+14,"Jahan Dotson Wsh, WR",Peete secretly loves my team,Ant,2023,70
+1,"Evan Engram Jax, TE",Peete secretly loves my team,Ant,2023,71
+2,"Kyle Pitts Atl, TE",So then wut r the cowboys?,Brandon,2023,72
+3,"Michael Pittman Jr. Ind, WR",Speed Hills,Adam,2023,73
+4,"Javonte Williams Den, RB",F It Amon One,Jessie,2023,74
+5,"Dallas Goedert Phi, TE",Olave Garden,Tyler,2023,75
+6,"Brian Robinson Jr. Wsh, RB",Meet The Jeffersons,Peete,2023,76
+7,"D'Andre Swift Chi, RB",UNDERDOG EXPRESS,Rashide,2023,77
+8,"Dalvin Cook Bal, RB",Mid_Victor7,Vic,2023,78
+9,"Odell Beckham Jr. FA, WR",I GUS,Dario,2023,79
+10,"Isiah Pacheco KC, RB",__,Paul,2023,80
+11,"Mike Williams NYJ, WR",Looking for REVENGEEEE,Josh,2023,81
+12,"DeAndre Hopkins Ten, WR",DreamZz,Nate,2023,82
+13,"Jordan Addison Min, WR",D$ Whet Dream Team,Chacon,2023,83
+14,"Trevor Lawrence Jax, QB",Elite Defense Inc.,Jesus,2023,84
+1,"Cole Kmet Chi, TE",Elite Defense Inc.,Jesus,2023,85
+2,"Jameson Williams Det, WR",D$ Whet Dream Team,Chacon,2023,86
+3,"Dak Prescott Dal, QB",DreamZz,Nate,2023,87
+4,"Jaxon Smith-Njigba Sea, WR",Looking for REVENGEEEE,Josh,2023,88
+5,"Tyler Higbee LAR, TE",__,Paul,2023,89
+6,"Daniel Jones NYG, QB",I GUS,Dario,2023,90
+7,"Christian Kirk Jax, WR",Mid_Victor7,Vic,2023,91
+8,"Skyy Moore KC, WR",UNDERDOG EXPRESS,Rashide,2023,92
+9,"Courtland Sutton Den, WR",Meet The Jeffersons,Peete,2023,93
+10,"Drake London Atl, WR",Olave Garden,Tyler,2023,94
+11,"David Njoku Cle, TE",F It Amon One,Jessie,2023,95
+12,"Tua Tagovailoa Mia, QB",Speed Hills,Adam,2023,96
+13,"Aaron Rodgers NYJ, QB",So then wut r the cowboys?,Brandon,2023,97
+14,"Ezekiel Elliott NE, RB",Peete secretly loves my team,Ant,2023,98
+1,"Jared Goff Det, QB",Peete secretly loves my team,Ant,2023,99
+2,"Gabe Davis Jax, WR",So then wut r the cowboys?,Brandon,2023,100
+3,"Khalil Herbert Chi, RB",Speed Hills,Adam,2023,101
+4,"Brandin Cooks Dal, WR",F It Amon One,Jessie,2023,102
+5,"AJ Dillon GB, RB",Olave Garden,Tyler,2023,103
+6,"Adam Thielen Car, WR",Meet The Jeffersons,Peete,2023,104
+7,"Michael Thomas NO, WR",UNDERDOG EXPRESS,Rashide,2023,105
+8,"Deshaun Watson Cle, QB",Mid_Victor7,Vic,2023,106
+9,"Rashaad Penny Phi, RB",I GUS,Dario,2023,107
+10,"Younghoe Koo Atl, K",__,Paul,2023,108
+11,"Zach Charbonnet Sea, RB",Looking for REVENGEEEE,Josh,2023,109
+12,"Tyler Lockett Sea, WR",DreamZz,Nate,2023,110
+13,"Kendre Miller NO, RB",D$ Whet Dream Team,Chacon,2023,111
+14,"Antonio Gibson NE, RB",Elite Defense Inc.,Jesus,2023,112
+1,"49ers D/ST SF, D/ST",Elite Defense Inc.,Jesus,2023,113
+2,"JuJu Smith-Schuster NE, WR",D$ Whet Dream Team,Chacon,2023,114
+3,"Daniel Carlson LV, K",DreamZz,Nate,2023,115
+4,"Elijah Mitchell SF, RB",Looking for REVENGEEEE,Josh,2023,116
+5,"Cowboys D/ST Dal, D/ST",__,Paul,2023,117
+6,"Kadarius Toney KC, WR",I GUS,Dario,2023,118
+7,"Greg Dulcich Den, TE",Mid_Victor7,Vic,2023,119
+8,"Pat Freiermuth Pit, TE",UNDERDOG EXPRESS,Rashide,2023,120
+9,"Zack Moss Cin, RB",Meet The Jeffersons,Peete,2023,121
+10,"Samaje Perine Den, RB",Olave Garden,Tyler,2023,122
+11,"Justin Tucker Bal, K",F It Amon One,Jessie,2023,123
+12,"Jerick McKinnon KC, RB",Speed Hills,Adam,2023,124
+13,"Bills D/ST Buf, D/ST",So then wut r the cowboys?,Brandon,2023,125
+14,"Deuce Vaughn Dal, RB",Peete secretly loves my team,Ant,2023,126
+1,"Jaylen Warren Pit, RB",Peete secretly loves my team,Ant,2023,127
+2,"Cordarrelle Patterson Atl, RB",So then wut r the cowboys?,Brandon,2023,128
+3,"Jakobi Meyers LV, WR",Speed Hills,Adam,2023,129
+4,"Jaguars D/ST Jax, D/ST",F It Amon One,Jessie,2023,130
+5,"Chuba Hubbard Car, RB",Olave Garden,Tyler,2023,131
+6,"Jets D/ST NYJ, D/ST",Meet The Jeffersons,Peete,2023,132
+7,"Elijah Moore Cle, WR",UNDERDOG EXPRESS,Rashide,2023,133
+8,"Anthony Richardson Ind, QB",Mid_Victor7,Vic,2023,134
+9,"Gerald Everett Chi, TE",I GUS,Dario,2023,135
+10,"Devin Singletary NYG, RB",__,Paul,2023,136
+11,"Eagles D/ST Phi, D/ST",Looking for REVENGEEEE,Josh,2023,137
+12,"Dalton Schultz Hou, TE",DreamZz,Nate,2023,138
+13,"Dolphins D/ST Mia, D/ST",D$ Whet Dream Team,Chacon,2023,139
+14,"Treylon Burks Ten, WR",Elite Defense Inc.,Jesus,2023,140
+1,"Tyler Allgeier Atl, RB",Elite Defense Inc.,Jesus,2023,141
+2,"Kirk Cousins Atl, QB",D$ Whet Dream Team,Chacon,2023,142
+3,"Browns D/ST Cle, D/ST",DreamZz,Nate,2023,143
+4,"Marvin Mims Jr. Den, WR",Looking for REVENGEEEE,Josh,2023,144
+5,"Mike Gesicki Cin, TE",__,Paul,2023,145
+6,"Gus Edwards LAC, RB",I GUS,Dario,2023,146
+7,"Patriots D/ST NE, D/ST",Mid_Victor7,Vic,2023,147
+8,"Deon Jackson NYG, RB",UNDERDOG EXPRESS,Rashide,2023,148
+9,"Romeo Doubs GB, WR",Meet The Jeffersons,Peete,2023,149
+10,"Nico Collins Hou, WR",Olave Garden,Tyler,2023,150
+11,"Jeff Wilson Jr. Mia, RB",F It Amon One,Jessie,2023,151
+12,"Steelers D/ST Pit, D/ST",Speed Hills,Adam,2023,152
+13,"Harrison Butker KC, K",So then wut r the cowboys?,Brandon,2023,153
+14,"Juwan Johnson NO, TE",Peete secretly loves my team,Ant,2023,154
+1,"Joshua Kelley LAC, RB",Peete secretly loves my team,Ant,2023,155
+2,"Brock Purdy SF, QB",So then wut r the cowboys?,Brandon,2023,156
+3,"Quentin Johnston LAC, WR",Speed Hills,Adam,2023,157
+4,"Tyler Boyd Cin, WR",F It Amon One,Jessie,2023,158
+5,"Packers D/ST GB, D/ST",Olave Garden,Tyler,2023,159
+6,"Jalin Hyatt NYG, WR",Meet The Jeffersons,Peete,2023,160
+7,"Saints D/ST NO, D/ST",UNDERDOG EXPRESS,Rashide,2023,161
+8,"Isaiah Hodgins NYG, WR",Mid_Victor7,Vic,2023,162
+9,"Allen Lazard NYJ, WR",I GUS,Dario,2023,163
+10,"Jordan Love GB, QB",__,Paul,2023,164
+11,"Tyler Bass Buf, K",Looking for REVENGEEEE,Josh,2023,165
+12,"Damien Harris Buf, RB",DreamZz,Nate,2023,166
+13,"De'Von Achane Mia, RB",D$ Whet Dream Team,Chacon,2023,167
+14,"Graham Gano NYG, K",Elite Defense Inc.,Jesus,2023,168
+1,"Matthew Stafford LAR, QB",Elite Defense Inc.,Jesus,2023,169
+2,"Darnell Mooney Atl, WR",D$ Whet Dream Team,Chacon,2023,170
+3,"Geno Smith Sea, QB",DreamZz,Nate,2023,171
+4,"Tank Bigsby Jax, RB",Looking for REVENGEEEE,Josh,2023,172
+5,"Chase Claypool Mia, WR",__,Paul,2023,173
+6,"Broncos D/ST Den, D/ST",I GUS,Dario,2023,174
+7,"Matt Breida NYG, RB",Mid_Victor7,Vic,2023,175
+8,"Chase Edmonds TB, RB",UNDERDOG EXPRESS,Rashide,2023,176
+9,"Derek Carr NO, QB",Meet The Jeffersons,Peete,2023,177
+10,"Kenny Pickett Phi, QB",Olave Garden,Tyler,2023,178
+11,"Russell Wilson Pit, QB",F It Amon One,Jessie,2023,179
+12,"Jimmy Garoppolo LAR, QB",Speed Hills,Adam,2023,180
+13,"Kareem Hunt Cle, RB",So then wut r the cowboys?,Brandon,2023,181
+14,"Darius Slayton NYG, WR",Peete secretly loves my team,Ant,2023,182
+1,"Jonathan Mingo Car, WR",Peete secretly loves my team,Ant,2023,183
+2,"Isaiah McKenzie NYG, WR",So then wut r the cowboys?,Brandon,2023,184
+3,"Evan McPherson Cin, K",Speed Hills,Adam,2023,185
+4,"Hayden Hurst LAC, TE",F It Amon One,Jessie,2023,186
+5,"Wil Lutz Den, K",Olave Garden,Tyler,2023,187
+6,"Dawson Knox Buf, TE",Meet The Jeffersons,Peete,2023,188
+7,"Ryan Tannehill Ten, QB",UNDERDOG EXPRESS,Rashide,2023,189
+8,"Greg Zuerlein NYJ, K",Mid_Victor7,Vic,2023,190
+9,"C.J. Stroud Hou, QB",I GUS,Dario,2023,191
+10,"Robert Woods Hou, WR",__,Paul,2023,192
+11,"Marquise Brown KC, WR",Looking for REVENGEEEE,Josh,2023,193
+12,"Michael Gallup Dal, WR",DreamZz,Nate,2023,194
+13,"Michael Badgley Det, K",D$ Whet Dream Team,Chacon,2023,195
+14,"Zach Ertz Wsh, TE",Elite Defense Inc.,Jesus,2023,196
+1,"Jayden Reed GB, WR",Elite Defense Inc.,Jesus,2023,197
+2,,D$ Whet Dream Team,Chacon,2023,198
+3,"Allen Robinson II Pit, WR",DreamZz,Nate,2023,199
+4,"Jamaal Williams NO, RB",Looking for REVENGEEEE,Josh,2023,200
+5,"Rashod Bateman Bal, WR",__,Paul,2023,201
+6,"Eddy Pineiro Car, K",I GUS,Dario,2023,202
+7,"Dustin Hopkins Cle, K",Mid_Victor7,Vic,2023,203
+8,"Jason Myers Sea, K",UNDERDOG EXPRESS,Rashide,2023,204
+9,"Jason Sanders Mia, K",Meet The Jeffersons,Peete,2023,205
+10,"DJ Chark Jr. Car, WR",Olave Garden,Tyler,2023,206
+11,,F It Amon One,Jessie,2023,207
+12,"Ravens D/ST Bal, D/ST",Speed Hills,Adam,2023,208
+13,"Taysom Hill NO, TE",So then wut r the cowboys?,Brandon,2023,209
+14,"Brandon McManus Wsh, K",Peete secretly loves my team,Ant,2023,210
+1,"Giants D/ST NYG, D/ST",Peete secretly loves my team,Ant,2023,211
+2,,So then wut r the cowboys?,Brandon,2023,212
+3,,Speed Hills,Adam,2023,213
+4,,F It Amon One,Jessie,2023,214
+5,,Olave Garden,Tyler,2023,215
+6,,Meet The Jeffersons,Peete,2023,216
+7,"Jerome Ford Cle, RB",UNDERDOG EXPRESS,Rashide,2023,217
+8,,Mid_Victor7,Vic,2023,218
+9,,I GUS,Dario,2023,219
+10,,__,Paul,2023,220
+11,,Looking for REVENGEEEE,Josh,2023,221
+12,,DreamZz,Nate,2023,222
+13,,D$ Whet Dream Team,Chacon,2023,223
+14,,Elite Defense Inc.,Jesus,2023,224
+1,,Elite Defense Inc.,Jesus,2023,225
+2,,D$ Whet Dream Team,Chacon,2023,226
+3,,DreamZz,Nate,2023,227
+4,,Looking for REVENGEEEE,Josh,2023,228
+5,,__,Paul,2023,229
+6,,I GUS,Dario,2023,230
+7,,Mid_Victor7,Vic,2023,231
+8,"Kyren Williams LAR, RB",UNDERDOG EXPRESS,Rashide,2023,232
+9,,Meet The Jeffersons,Peete,2023,233
+10,,Olave Garden,Tyler,2023,234
+11,,F It Amon One,Jessie,2023,235
+12,,Speed Hills,Adam,2023,236
+13,,So then wut r the cowboys?,Brandon,2023,237
+14,,Peete secretly loves my team,Ant,2023,238
+1,"Cooper Kupp LAR, WR",Big Dak Energy,Francis,2022,1
+2,"Justin Jefferson Min, WR",Burrow Me Alive :(,Jessie,2022,2
+3,"Alvin Kamara NO, RB",Bso dispatch ....lets type,Jesus,2022,3
+4,"Jonathan Taylor Ind, RB",Silicone Valley DOGS,Dario,2022,4
+5,"Austin Ekeler LAC, RB",Lamb cHOP,Vic,2022,5
+6,"Najee Harris Pit, RB",I Need A Medic,Rashide,2022,6
+7,"Joe Mixon Cin, RB",Team Shooooooter,Fernando,2022,7
+8,"Dalvin Cook Min, RB",In Daniel Jones We Trust,Josh,2022,8
+9,"Nick Chubb Cle, RB",Pharaoh MAC,Mac,2022,9
+10,"Ja'Marr Chase Cin, WR",Saquads and Henny,Chacon,2022,10
+11,"Christian McCaffrey SF, RB",My Brown Finger Hurts,Tyler,2022,11
+12,"Derrick Henry Ten, RB",Team #Let JALLEN COOKS,Peete,2022,12
+1,"Davante Adams LV, WR",Team #Let JALLEN COOKS,Peete,2022,13
+2,"Deebo Samuel SF, WR",My Brown Finger Hurts,Tyler,2022,14
+3,"Aaron Jones GB, RB",Saquads and Henny,Chacon,2022,15
+4,"Leonard Fournette FA, RB",Pharaoh MAC,Mac,2022,16
+5,"Javonte Williams Den, RB",In Daniel Jones We Trust,Josh,2022,17
+6,"Saquon Barkley NYG, RB",Team Shooooooter,Fernando,2022,18
+7,"Cam Akers LAR, RB",I Need A Medic,Rashide,2022,19
+8,"CeeDee Lamb Dal, WR",Lamb cHOP,Vic,2022,20
+9,"Josh Jacobs LV, RB",Silicone Valley DOGS,Dario,2022,21
+10,"D'Andre Swift Det, RB",Bso dispatch ....lets type,Jesus,2022,22
+11,"Ezekiel Elliott FA, RB",Burrow Me Alive :(,Jessie,2022,23
+12,"Tyreek Hill Mia, WR",Big Dak Energy,Francis,2022,24
+1,"James Conner Ari, RB",Big Dak Energy,Francis,2022,25
+2,"David Montgomery Det, RB",Burrow Me Alive :(,Jessie,2022,26
+3,"Tony Pollard Dal, RB",Bso dispatch ....lets type,Jesus,2022,27
+4,"James Robinson NE, RB",Silicone Valley DOGS,Dario,2022,28
+5,"Travis Kelce KC, TE",Lamb cHOP,Vic,2022,29
+6,"Mike Evans TB, WR",I Need A Medic,Rashide,2022,30
+7,"Tee Higgins Cin, WR",Team Shooooooter,Fernando,2022,31
+8,"Stefon Diggs Buf, WR",In Daniel Jones We Trust,Josh,2022,32
+9,"Keenan Allen LAC, WR",Pharaoh MAC,Mac,2022,33
+10,"Mark Andrews Bal, TE",Saquads and Henny,Chacon,2022,34
+11,"A.J. Brown Phi, WR",My Brown Finger Hurts,Tyler,2022,35
+12,"Elijah Mitchell SF, RB",Team #Let JALLEN COOKS,Peete,2022,36
+1,"Josh Allen Buf, QB",Team #Let JALLEN COOKS,Peete,2022,37
+2,"Michael Pittman Jr. Ind, WR",My Brown Finger Hurts,Tyler,2022,38
+3,"Kyle Pitts Atl, TE",Saquads and Henny,Chacon,2022,39
+4,"Jaylen Waddle Mia, WR",Pharaoh MAC,Mac,2022,40
+5,"Rashaad Penny Phi, RB",In Daniel Jones We Trust,Josh,2022,41
+6,"DK Metcalf Sea, WR",Team Shooooooter,Fernando,2022,42
+7,"DJ Moore Chi, WR",I Need A Medic,Rashide,2022,43
+8,"Breece Hall NYJ, RB",Lamb cHOP,Vic,2022,44
+9,"Lamar Jackson Bal, QB",Silicone Valley DOGS,Dario,2022,45
+10,"Rashod Bateman Bal, WR",Bso dispatch ....lets type,Jesus,2022,46
+11,"Mike Williams LAC, WR",Burrow Me Alive :(,Jessie,2022,47
+12,"AJ Dillon GB, RB",Big Dak Energy,Francis,2022,48
+1,"Patrick Mahomes KC, QB",Big Dak Energy,Francis,2022,49
+2,"Travis Etienne Jr. Jax, RB",Burrow Me Alive :(,Jessie,2022,50
+3,"Terry McLaurin Wsh, WR",Bso dispatch ....lets type,Jesus,2022,51
+4,"George Kittle SF, TE",Silicone Valley DOGS,Dario,2022,52
+5,"Justin Herbert LAC, QB",Lamb cHOP,Vic,2022,53
+6,"Dalton Schultz Hou, TE",I Need A Medic,Rashide,2022,54
+7,"Chris Godwin TB, WR",Team Shooooooter,Fernando,2022,55
+8,"Marquise Brown Ari, WR",In Daniel Jones We Trust,Josh,2022,56
+9,"Dallas Goedert Phi, TE",Pharaoh MAC,Mac,2022,57
+10,"Jerry Jeudy Den, WR",Saquads and Henny,Chacon,2022,58
+11,"Dameon Pierce Hou, RB",My Brown Finger Hurts,Tyler,2022,59
+12,"DeAndre Hopkins Ari, WR",Team #Let JALLEN COOKS,Peete,2022,60
+1,"Miles Sanders Car, RB",Team #Let JALLEN COOKS,Peete,2022,61
+2,"Jalen Hurts Phi, QB",My Brown Finger Hurts,Tyler,2022,62
+3,"Clyde Edwards-Helaire KC, RB",Saquads and Henny,Chacon,2022,63
+4,"Elijah Moore NYJ, WR",Pharaoh MAC,Mac,2022,64
+5,"Courtland Sutton Den, WR",In Daniel Jones We Trust,Josh,2022,65
+6,"Tom Brady TB, QB",Team Shooooooter,Fernando,2022,66
+7,"J.K. Dobbins Bal, RB",I Need A Medic,Rashide,2022,67
+8,"Diontae Johnson Pit, WR",Lamb cHOP,Vic,2022,68
+9,"Amon-Ra St. Brown Det, WR",Silicone Valley DOGS,Dario,2022,69
+10,"Kyler Murray Ari, QB",Bso dispatch ....lets type,Jesus,2022,70
+11,"Zach Ertz Ari, TE",Burrow Me Alive :(,Jessie,2022,71
+12,"T.J. Hockenson Min, TE",Big Dak Energy,Francis,2022,72
+1,"Darrell Henderson Jr. FA, RB",Big Dak Energy,Francis,2022,73
+2,"Gabe Davis Buf, WR",Burrow Me Alive :(,Jessie,2022,74
+3,"Darren Waller NYG, TE",Bso dispatch ....lets type,Jesus,2022,75
+4,"Cordarrelle Patterson Atl, RB",Silicone Valley DOGS,Dario,2022,76
+5,"Antonio Gibson Wsh, RB",Lamb cHOP,Vic,2022,77
+6,"Dak Prescott Dal, QB",I Need A Medic,Rashide,2022,78
+7,"Allen Robinson II LAR, WR",Team Shooooooter,Fernando,2022,79
+8,"Chase Edmonds TB, RB",In Daniel Jones We Trust,Josh,2022,80
+9,"Russell Wilson Den, QB",Pharaoh MAC,Mac,2022,81
+10,"Amari Cooper Cle, WR",Saquads and Henny,Chacon,2022,82
+11,"Rhamondre Stevenson NE, RB",My Brown Finger Hurts,Tyler,2022,83
+12,"Michael Thomas NO, WR",Team #Let JALLEN COOKS,Peete,2022,84
+1,"Adam Thielen FA, WR",Team #Let JALLEN COOKS,Peete,2022,85
+2,"JuJu Smith-Schuster NE, WR",My Brown Finger Hurts,Tyler,2022,86
+3,"Deshaun Watson Cle, QB",Saquads and Henny,Chacon,2022,87
+4,"Devin Singletary Hou, RB",Pharaoh MAC,Mac,2022,88
+5,"Brandin Cooks Dal, WR",In Daniel Jones We Trust,Josh,2022,89
+6,"Damien Harris Buf, RB",Team Shooooooter,Fernando,2022,90
+7,"Darnell Mooney Chi, WR",I Need A Medic,Rashide,2022,91
+8,"Jakobi Meyers LV, WR",Lamb cHOP,Vic,2022,92
+9,"Robert Woods FA, WR",Silicone Valley DOGS,Dario,2022,93
+10,"Kareem Hunt Cle, RB",Bso dispatch ....lets type,Jesus,2022,94
+11,"Joe Burrow Cin, QB",Burrow Me Alive :(,Jessie,2022,95
+12,"Kadarius Toney KC, WR",Big Dak Energy,Francis,2022,96
+1,"Bills D/ST Buf, D/ST",Big Dak Energy,Francis,2022,97
+2,"Chase Claypool Chi, WR",Burrow Me Alive :(,Jessie,2022,98
+3,"Pat Freiermuth Pit, TE",Bso dispatch ....lets type,Jesus,2022,99
+4,"DeVonta Smith Phi, WR",Silicone Valley DOGS,Dario,2022,100
+5,"Christian Kirk Jax, WR",Lamb cHOP,Vic,2022,101
+6,"Allen Lazard NYJ, WR",I Need A Medic,Rashide,2022,102
+7,"Noah Fant Sea, TE",Team Shooooooter,Fernando,2022,103
+8,"Darrel Williams Ari, RB",In Daniel Jones We Trust,Josh,2022,104
+9,"Melvin Gordon III FA, RB",Pharaoh MAC,Mac,2022,105
+10,"Chuba Hubbard Car, RB",Saquads and Henny,Chacon,2022,106
+11,"Hunter Renfrow LV, WR",My Brown Finger Hurts,Tyler,2022,107
+12,"Dawson Knox Buf, TE",Team #Let JALLEN COOKS,Peete,2022,108
+1,"Boston Scott Phi, RB",Team #Let JALLEN COOKS,Peete,2022,109
+2,"James Cook Buf, RB",My Brown Finger Hurts,Tyler,2022,110
+3,"Matthew Stafford LAR, QB",Saquads and Henny,Chacon,2022,111
+4,"49ers D/ST SF, D/ST",Pharaoh MAC,Mac,2022,112
+5,"Kenneth Walker III Sea, RB",In Daniel Jones We Trust,Josh,2022,113
+6,"Raheem Mostert Mia, RB",Team Shooooooter,Fernando,2022,114
+7,"Alexander Mattison Min, RB",I Need A Medic,Rashide,2022,115
+8,"Michael Carter NYJ, RB",Lamb cHOP,Vic,2022,116
+9,"Aaron Rodgers GB, QB",Silicone Valley DOGS,Dario,2022,117
+10,"Drake London Atl, WR",Bso dispatch ....lets type,Jesus,2022,118
+11,"Jamaal Williams NO, RB",Burrow Me Alive :(,Jessie,2022,119
+12,"Brandon McManus Den, K",Big Dak Energy,Francis,2022,120
+1,"Myles Gaskin Mia, RB",Big Dak Energy,Francis,2022,121
+2,"Justin Tucker Bal, K",Burrow Me Alive :(,Jessie,2022,122
+3,"Trey Lance SF, QB",Bso dispatch ....lets type,Jesus,2022,123
+4,"Michael Gallup Dal, WR",Silicone Valley DOGS,Dario,2022,124
+5,"Buccaneers D/ST TB, D/ST",Lamb cHOP,Vic,2022,125
+6,"Brandon Aiyuk SF, WR",I Need A Medic,Rashide,2022,126
+7,"Matt Gay Ind, K",Team Shooooooter,Fernando,2022,127
+8,"Treylon Burks Ten, WR",In Daniel Jones We Trust,Josh,2022,128
+9,"Tyler Bass Buf, K",Pharaoh MAC,Mac,2022,129
+10,"Christian Watson GB, WR",Saquads and Henny,Chacon,2022,130
+11,"Chris Olave NO, WR",My Brown Finger Hurts,Tyler,2022,131
+12,"Saints D/ST NO, D/ST",Team #Let JALLEN COOKS,Peete,2022,132
+1,"Albert Okwuegbunam Den, TE",Team #Let JALLEN COOKS,Peete,2022,133
+2,"Kenneth Gainwell Phi, RB",My Brown Finger Hurts,Tyler,2022,134
+3,"Ronald Jones KC, RB",Saquads and Henny,Chacon,2022,135
+4,"Garrett Wilson NYJ, WR",Pharaoh MAC,Mac,2022,136
+5,"Russell Gage TB, WR",In Daniel Jones We Trust,Josh,2022,137
+6,"Cole Kmet Chi, TE",Team Shooooooter,Fernando,2022,138
+7,"Colts D/ST Ind, D/ST",I Need A Medic,Rashide,2022,139
+8,"Joshua Kelley LAC, RB",Lamb cHOP,Vic,2022,140
+9,"Gus Edwards Bal, RB",Silicone Valley DOGS,Dario,2022,141
+10,"Tyler Boyd Cin, WR",Bso dispatch ....lets type,Jesus,2022,142
+11,"Rams D/ST LAR, D/ST",Burrow Me Alive :(,Jessie,2022,143
+12,"Kirk Cousins Min, QB",Big Dak Energy,Francis,2022,144
+1,"Mike Gesicki NE, TE",Big Dak Energy,Francis,2022,145
+2,"Tyler Lockett Sea, WR",Burrow Me Alive :(,Jessie,2022,146
+3,"Broncos D/ST Den, D/ST",Bso dispatch ....lets type,Jesus,2022,147
+4,"Chargers D/ST LAC, D/ST",Silicone Valley DOGS,Dario,2022,148
+5,"Khalil Herbert Chi, RB",Lamb cHOP,Vic,2022,149
+6,"Nyheim Hines Buf, RB",I Need A Medic,Rashide,2022,150
+7,"Ravens D/ST Bal, D/ST",Team Shooooooter,Fernando,2022,151
+8,"David Njoku Cle, TE",In Daniel Jones We Trust,Josh,2022,152
+9,"D'Onta Foreman Chi, RB",Pharaoh MAC,Mac,2022,153
+10,"J.D. McKissic FA, RB",Saquads and Henny,Chacon,2022,154
+11,"George Pickens Pit, WR",My Brown Finger Hurts,Tyler,2022,155
+12,"Derek Carr NO, QB",Team #Let JALLEN COOKS,Peete,2022,156
+1,"Jameson Williams Det, WR",Team #Let JALLEN COOKS,Peete,2022,157
+2,"Packers D/ST GB, D/ST",My Brown Finger Hurts,Tyler,2022,158
+3,"DeVante Parker NE, WR",Saquads and Henny,Chacon,2022,159
+4,"Robbie Anderson FA, WR",Pharaoh MAC,Mac,2022,160
+5,"Justin Fields Chi, QB",In Daniel Jones We Trust,Josh,2022,161
+6,"Ryan Tannehill Ten, QB",Team Shooooooter,Fernando,2022,162
+7,"Marquez Valdes-Scantling KC, WR",I Need A Medic,Rashide,2022,163
+8,"Robert Tonyan Chi, TE",Lamb cHOP,Vic,2022,164
+9,"Curtis Samuel Wsh, WR",Silicone Valley DOGS,Dario,2022,165
+10,"Daniel Carlson LV, K",Bso dispatch ....lets type,Jesus,2022,166
+11,"Alec Pierce Ind, WR",Burrow Me Alive :(,Jessie,2022,167
+12,"Kenny Golladay FA, WR",Big Dak Energy,Francis,2022,168
+1,"Kenyan Drake Bal, RB",Big Dak Energy,Francis,2022,169
+2,"Tyler Higbee LAR, TE",Burrow Me Alive :(,Jessie,2022,170
+3,"Van Jefferson LAR, WR",Bso dispatch ....lets type,Jesus,2022,171
+4,"Jamison Crowder Buf, WR",Silicone Valley DOGS,Dario,2022,172
+5,"DJ Chark Det, WR",Lamb cHOP,Vic,2022,173
+6,"Harrison Butker KC, K",I Need A Medic,Rashide,2022,174
+7,"Samaje Perine Den, RB",Team Shooooooter,Fernando,2022,175
+8,"Brian Robinson Jr. Wsh, RB",In Daniel Jones We Trust,Josh,2022,176
+9,"Corey Davis NYJ, WR",Pharaoh MAC,Mac,2022,177
+10,"Jarvis Landry NO, WR",Saquads and Henny,Chacon,2022,178
+11,"Gerald Everett LAC, TE",My Brown Finger Hurts,Tyler,2022,179
+12,"Jake Elliott Phi, K",Team #Let JALLEN COOKS,Peete,2022,180
+1,"Dontrell Hilliard Ten, RB",Team #Let JALLEN COOKS,Peete,2022,181
+2,"Julio Jones TB, WR",My Brown Finger Hurts,Tyler,2022,182
+3,"A.J. Green Ari, WR",Saquads and Henny,Chacon,2022,183
+4,"Tua Tagovailoa Mia, QB",Pharaoh MAC,Mac,2022,184
+5,"Dolphins D/ST Mia, D/ST",In Daniel Jones We Trust,Josh,2022,185
+6,"Rondale Moore Ari, WR",Team Shooooooter,Fernando,2022,186
+7,"Jahan Dotson Wsh, WR",I Need A Medic,Rashide,2022,187
+8,"Evan McPherson Cin, K",Lamb cHOP,Vic,2022,188
+9,"Rodrigo Blankenship FA, K",Silicone Valley DOGS,Dario,2022,189
+10,"Cowboys D/ST Dal, D/ST",Bso dispatch ....lets type,Jesus,2022,190
+11,"Romeo Doubs GB, WR",Burrow Me Alive :(,Jessie,2022,191
+12,"Evan Engram Jax, TE",Big Dak Energy,Francis,2022,192
+1,,Big Dak Energy,Francis,2022,193
+2,,Burrow Me Alive :(,Jessie,2022,194
+3,,Bso dispatch ....lets type,Jesus,2022,195
+4,,Silicone Valley DOGS,Dario,2022,196
+5,,Lamb cHOP,Vic,2022,197
+6,,I Need A Medic,Rashide,2022,198
+7,,Team Shooooooter,Fernando,2022,199
+8,,In Daniel Jones We Trust,Josh,2022,200
+9,,Pharaoh MAC,Mac,2022,201
+10,,Saquads and Henny,Chacon,2022,202
+11,,My Brown Finger Hurts,Tyler,2022,203
+12,,Team #Let JALLEN COOKS,Peete,2022,204
+1,"Alvin Kamara NO, RB",Ponzie Papi,Jesus,2021,1
+2,"Jonathan Taylor Ind, RB",Forever 21,Rashide,2021,2
+3,"Davante Adams GB, WR",Next next next next man up,Brandon,2021,3
+4,"Najee Harris Pit, RB",GO BEYOND! PLUS ULTRA!,Chacon,2021,4
+5,"Christian McCaffrey Car, RB",Wasted Playoff Spot,Josh,2021,5
+6,"Nick Chubb Cle, RB",Ginyu Force In Hell,Dario,2021,6
+7,"Ezekiel Elliott Dal, RB",Sophomore slump Herro,Vic,2021,7
+8,"Derrick Henry Ten, RB",Team Szn Down the Pitts,Peete,2021,8
+9,"Patrick Mahomes KC, QB",Big Dak Energy,Francis,2021,9
+10,"Aaron Jones GB, RB",Team Shooooooter,Fernando,2021,10
+11,"Saquon Barkley NYG, RB",Mr CHARKuterie,Jessie,2021,11
+12,"Dalvin Cook Min, RB",BACK TO BACK,Tyler,2021,12
+1,"Stefon Diggs Buf, WR",BACK TO BACK,Tyler,2021,13
+2,"Calvin Ridley Atl, WR",Mr CHARKuterie,Jessie,2021,14
+3,"Austin Ekeler LAC, RB",Team Shooooooter,Fernando,2021,15
+4,"Antonio Gibson Wsh, RB",Big Dak Energy,Francis,2021,16
+5,"Chris Carson Sea, RB",Team Szn Down the Pitts,Peete,2021,17
+6,"Tyreek Hill KC, WR",Sophomore slump Herro,Vic,2021,18
+7,"James Robinson Jax, RB",Ginyu Force In Hell,Dario,2021,19
+8,"Darren Waller LV, TE",Wasted Playoff Spot,Josh,2021,20
+9,"DeAndre Hopkins Ari, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,21
+10,"Travis Kelce KC, TE",Next next next next man up,Brandon,2021,22
+11,"Clyde Edwards-Helaire KC, RB",Forever 21,Rashide,2021,23
+12,"Josh Jacobs LV, RB",Ponzie Papi,Jesus,2021,24
+1,"Justin Jefferson Min, WR",Ponzie Papi,Jesus,2021,25
+2,"Keenan Allen LAC, WR",Forever 21,Rashide,2021,26
+3,"Mike Evans TB, WR",Next next next next man up,Brandon,2021,27
+4,"George Kittle SF, TE",GO BEYOND! PLUS ULTRA!,Chacon,2021,28
+5,"Joe Mixon Cin, RB",Wasted Playoff Spot,Josh,2021,29
+6,"Lamar Jackson Bal, QB",Ginyu Force In Hell,Dario,2021,30
+7,"Terry McLaurin Wsh, WR",Sophomore slump Herro,Vic,2021,31
+8,"A.J. Brown Ten, WR",Team Szn Down the Pitts,Peete,2021,32
+9,"Odell Beckham Jr. LAR, WR",Big Dak Energy,Francis,2021,33
+10,"Allen Robinson II Chi, WR",Team Shooooooter,Fernando,2021,34
+11,"David Montgomery Chi, RB",Mr CHARKuterie,Jessie,2021,35
+12,"DK Metcalf Sea, WR",BACK TO BACK,Tyler,2021,36
+1,"Josh Allen Buf, QB",BACK TO BACK,Tyler,2021,37
+2,"Chase Edmonds Ari, RB",Mr CHARKuterie,Jessie,2021,38
+3,"CeeDee Lamb Dal, WR",Team Shooooooter,Fernando,2021,39
+4,"Mark Andrews Bal, TE",Big Dak Energy,Francis,2021,40
+5,"Michael Thomas NO, WR",Team Szn Down the Pitts,Peete,2021,41
+6,"Adam Thielen Min, WR",Sophomore slump Herro,Vic,2021,42
+7,"Miles Sanders Phi, RB",Ginyu Force In Hell,Dario,2021,43
+8,"Cooper Kupp LAR, WR",Wasted Playoff Spot,Josh,2021,44
+9,"Aaron Rodgers GB, QB",GO BEYOND! PLUS ULTRA!,Chacon,2021,45
+10,"Gus Edwards Bal, RB",Next next next next man up,Brandon,2021,46
+11,"Robert Woods LAR, WR",Forever 21,Rashide,2021,47
+12,"D'Andre Swift Det, RB",Ponzie Papi,Jesus,2021,48
+1,"Amari Cooper Dal, WR",Ponzie Papi,Jesus,2021,49
+2,"Dak Prescott Dal, QB",Forever 21,Rashide,2021,50
+3,"Kareem Hunt Cle, RB",Next next next next man up,Brandon,2021,51
+4,"Tyler Lockett Sea, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,52
+5,"Julio Jones Ten, WR",Wasted Playoff Spot,Josh,2021,53
+6,"Diontae Johnson Pit, WR",Ginyu Force In Hell,Dario,2021,54
+7,"Russell Wilson Sea, QB",Sophomore slump Herro,Vic,2021,55
+8,"Kyle Pitts Atl, TE",Team Szn Down the Pitts,Peete,2021,56
+9,"Mike Davis Atl, RB",Big Dak Energy,Francis,2021,57
+10,"Myles Gaskin Mia, RB",Team Shooooooter,Fernando,2021,58
+11,"Kyler Murray Ari, QB",Mr CHARKuterie,Jessie,2021,59
+12,"Damien Harris NE, RB",BACK TO BACK,Tyler,2021,60
+1,"Brandon Aiyuk SF, WR",BACK TO BACK,Tyler,2021,61
+2,"DJ Chark Jr. Jax, WR",Mr CHARKuterie,Jessie,2021,62
+3,"Chris Godwin TB, WR",Team Shooooooter,Fernando,2021,63
+4,"JuJu Smith-Schuster Pit, WR",Big Dak Energy,Francis,2021,64
+5,"Raheem Mostert SF, RB",Team Szn Down the Pitts,Peete,2021,65
+6,"Javonte Williams Den, RB",Sophomore slump Herro,Vic,2021,66
+7,"DeVonta Smith Phi, WR",Ginyu Force In Hell,Dario,2021,67
+8,"Darrell Henderson Jr. LAR, RB",Wasted Playoff Spot,Josh,2021,68
+9,"Jaylen Waddle Mia, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,69
+10,"DJ Moore Car, WR",Next next next next man up,Brandon,2021,70
+11,"Kenny Golladay NYG, WR",Forever 21,Rashide,2021,71
+12,"Chase Claypool Pit, WR",Ponzie Papi,Jesus,2021,72
+1,"Melvin Gordon III Den, RB",Ponzie Papi,Jesus,2021,73
+2,"Sony Michel LAR, RB",Forever 21,Rashide,2021,74
+3,"Justin Herbert LAC, QB",Next next next next man up,Brandon,2021,75
+4,"Devin Singletary Buf, RB",GO BEYOND! PLUS ULTRA!,Chacon,2021,76
+5,"James Conner Ari, RB",Wasted Playoff Spot,Josh,2021,77
+6,"Ja'Marr Chase Cin, WR",Ginyu Force In Hell,Dario,2021,78
+7,"Kenyan Drake LV, RB",Sophomore slump Herro,Vic,2021,79
+8,"Courtland Sutton Den, WR",Team Szn Down the Pitts,Peete,2021,80
+9,"Robby Anderson Car, WR",Big Dak Energy,Francis,2021,81
+10,"Matthew Stafford LAR, QB",Team Shooooooter,Fernando,2021,82
+11,"Tyler Boyd Cin, WR",Mr CHARKuterie,Jessie,2021,83
+12,"T.J. Hockenson Det, TE",BACK TO BACK,Tyler,2021,84
+1,"Jerry Jeudy Den, WR",BACK TO BACK,Tyler,2021,85
+2,"Mike Gesicki Mia, TE",Mr CHARKuterie,Jessie,2021,86
+3,"Noah Fant Den, TE",Team Shooooooter,Fernando,2021,87
+4,"Tee Higgins Cin, WR",Big Dak Energy,Francis,2021,88
+5,"Michael Pittman Jr. Ind, WR",Team Szn Down the Pitts,Peete,2021,89
+6,"Brandin Cooks Hou, WR",Sophomore slump Herro,Vic,2021,90
+7,"Antonio Brown FA, WR",Ginyu Force In Hell,Dario,2021,91
+8,"Mike Williams LAC, WR",Wasted Playoff Spot,Josh,2021,92
+9,"Michael Carter NYJ, RB",GO BEYOND! PLUS ULTRA!,Chacon,2021,93
+10,"Leonard Fournette TB, RB",Next next next next man up,Brandon,2021,94
+11,"Marquez Callaway NO, WR",Forever 21,Rashide,2021,95
+12,"Laviska Shenault Jr. Jax, WR",Ponzie Papi,Jesus,2021,96
+1,"Logan Thomas Wsh, TE",Ponzie Papi,Jesus,2021,97
+2,"Tyler Higbee LAR, TE",Forever 21,Rashide,2021,98
+3,"William Fuller V Mia, WR",Next next next next man up,Brandon,2021,99
+4,"Jarvis Landry Cle, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,100
+5,"Trey Sermon SF, RB",Wasted Playoff Spot,Josh,2021,101
+6,"Marquise Brown Bal, WR",Ginyu Force In Hell,Dario,2021,102
+7,"Corey Davis NYJ, WR",Sophomore slump Herro,Vic,2021,103
+8,"Tom Brady TB, QB",Team Szn Down the Pitts,Peete,2021,104
+9,"Michael Gallup Dal, WR",Big Dak Energy,Francis,2021,105
+10,"Christian Kirk Ari, WR",Team Shooooooter,Fernando,2021,106
+11,"Deebo Samuel SF, WR",Mr CHARKuterie,Jessie,2021,107
+12,"Ronald Jones II TB, RB",BACK TO BACK,Tyler,2021,108
+1,"Buccaneers D/ST TB, D/ST",BACK TO BACK,Tyler,2021,109
+2,"Nyheim Hines Ind, RB",Mr CHARKuterie,Jessie,2021,110
+3,"Trevor Lawrence Jax, QB",Team Shooooooter,Fernando,2021,111
+4,"Phillip Lindsay Mia, RB",Big Dak Energy,Francis,2021,112
+5,"Jonnu Smith NE, TE",Team Szn Down the Pitts,Peete,2021,113
+6,"David Johnson Hou, RB",Sophomore slump Herro,Vic,2021,114
+7,"Robert Tonyan GB, TE",Ginyu Force In Hell,Dario,2021,115
+8,"Ryan Tannehill Ten, QB",Wasted Playoff Spot,Josh,2021,116
+9,"Zach Ertz Ari, TE",GO BEYOND! PLUS ULTRA!,Chacon,2021,117
+10,"Zack Moss Buf, RB",Next next next next man up,Brandon,2021,118
+11,"AJ Dillon GB, RB",Forever 21,Rashide,2021,119
+12,"Dallas Goedert Phi, TE",Ponzie Papi,Jesus,2021,120
+1,"Jalen Hurts Phi, QB",Ponzie Papi,Jesus,2021,121
+2,"Ravens D/ST Bal, D/ST",Forever 21,Rashide,2021,122
+3,"Tony Pollard Dal, RB",Next next next next man up,Brandon,2021,123
+4,"Devontae Booker NYG, RB",GO BEYOND! PLUS ULTRA!,Chacon,2021,124
+5,"Jakobi Meyers NE, WR",Wasted Playoff Spot,Josh,2021,125
+6,"Rob Gronkowski TB, TE",Ginyu Force In Hell,Dario,2021,126
+7,"Steelers D/ST Pit, D/ST",Sophomore slump Herro,Vic,2021,127
+8,"Bills D/ST Buf, D/ST",Team Szn Down the Pitts,Peete,2021,128
+9,"Jamaal Williams Det, RB",Big Dak Energy,Francis,2021,129
+10,"Harrison Butker KC, K",Team Shooooooter,Fernando,2021,130
+11,"Alexander Mattison Min, RB",Mr CHARKuterie,Jessie,2021,131
+12,"Marvin Jones Jr. Jax, WR",BACK TO BACK,Tyler,2021,132
+1,"Wayne Gallman Min, RB",BACK TO BACK,Tyler,2021,133
+2,"Justin Tucker Bal, K",Mr CHARKuterie,Jessie,2021,134
+3,"Commanders D/ST Wsh, D/ST",Team Shooooooter,Fernando,2021,135
+4,"Joe Burrow Cin, QB",Big Dak Energy,Francis,2021,136
+5,"Deshaun Watson Hou, QB",Team Szn Down the Pitts,Peete,2021,137
+6,"Austin Hooper Cle, TE",Sophomore slump Herro,Vic,2021,138
+7,"J.D. McKissic Wsh, RB",Ginyu Force In Hell,Dario,2021,139
+8,"Tyrell Williams FA, WR",Wasted Playoff Spot,Josh,2021,140
+9,"Curtis Samuel Wsh, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,141
+10,"Mecole Hardman KC, WR",Next next next next man up,Brandon,2021,142
+11,"Darnell Mooney Chi, WR",Forever 21,Rashide,2021,143
+12,"Matt Ryan Atl, QB",Ponzie Papi,Jesus,2021,144
+1,"Jason Myers Sea, K",Ponzie Papi,Jesus,2021,145
+2,"Ben Roethlisberger Pit, QB",Forever 21,Rashide,2021,146
+3,"Graham Gano NYG, K",Next next next next man up,Brandon,2021,147
+4,"Younghoe Koo Atl, K",GO BEYOND! PLUS ULTRA!,Chacon,2021,148
+5,"Ty'Son Williams Bal, RB",Wasted Playoff Spot,Josh,2021,149
+6,"49ers D/ST SF, D/ST",Ginyu Force In Hell,Dario,2021,150
+7,"Jason Sanders Mia, K",Sophomore slump Herro,Vic,2021,151
+8,"Elijah Moore NYJ, WR",Team Szn Down the Pitts,Peete,2021,152
+9,"Greg Zuerlein Dal, K",Big Dak Energy,Francis,2021,153
+10,"Justin Jackson LAC, RB",Team Shooooooter,Fernando,2021,154
+11,"Cole Beasley Buf, WR",Mr CHARKuterie,Jessie,2021,155
+12,"Trey Lance SF, QB",BACK TO BACK,Tyler,2021,156
+1,"Rodrigo Blankenship Ind, K",BACK TO BACK,Tyler,2021,157
+2,"Baker Mayfield Cle, QB",Mr CHARKuterie,Jessie,2021,158
+3,"Eric Ebron Pit, TE",Team Shooooooter,Fernando,2021,159
+4,"Patriots D/ST NE, D/ST",Big Dak Energy,Francis,2021,160
+5,"Michael Badgley Ind, K",Team Szn Down the Pitts,Peete,2021,161
+6,"Amon-Ra St. Brown Det, WR",Sophomore slump Herro,Vic,2021,162
+7,"Rashod Bateman Bal, WR",Ginyu Force In Hell,Dario,2021,163
+8,"Rams D/ST LAR, D/ST",Wasted Playoff Spot,Josh,2021,164
+9,"Jerick McKinnon KC, RB",GO BEYOND! PLUS ULTRA!,Chacon,2021,165
+10,"Hunter Henry NE, TE",Next next next next man up,Brandon,2021,166
+11,"Latavius Murray Bal, RB",Forever 21,Rashide,2021,167
+12,"Randall Cobb GB, WR",Ponzie Papi,Jesus,2021,168
+1,"Broncos D/ST Den, D/ST",Ponzie Papi,Jesus,2021,169
+2,"Brandon McManus Den, K",Forever 21,Rashide,2021,170
+3,"Dolphins D/ST Mia, D/ST",Next next next next man up,Brandon,2021,171
+4,"Tre'Quan Smith NO, WR",GO BEYOND! PLUS ULTRA!,Chacon,2021,172
+5,"Justin Fields Chi, QB",Wasted Playoff Spot,Josh,2021,173
+6,"Wil Lutz NO, K",Ginyu Force In Hell,Dario,2021,174
+7,"Russell Gage Atl, WR",Sophomore slump Herro,Vic,2021,175
+8,"Carson Wentz Ind, QB",Team Szn Down the Pitts,Peete,2021,176
+9,"Malcolm Brown Mia, RB",Big Dak Energy,Francis,2021,177
+10,"Tevin Coleman NYJ, RB",Team Shooooooter,Fernando,2021,178
+11,"Colts D/ST Ind, D/ST",Mr CHARKuterie,Jessie,2021,179
+12,"Terrace Marshall Jr. Car, WR",BACK TO BACK,Tyler,2021,180
+1,"Henry Ruggs III FA, WR",BACK TO BACK,Tyler,2021,181
+2,"Rashaad Penny Sea, RB",Mr CHARKuterie,Jessie,2021,182
+3,"Sterling Shepard NYG, WR",Team Shooooooter,Fernando,2021,183
+4,"James White NE, RB",Big Dak Energy,Francis,2021,184
+5,"Darius Slayton NYG, WR",Team Szn Down the Pitts,Peete,2021,185
+6,"Zach Wilson NYJ, QB",Sophomore slump Herro,Vic,2021,186
+7,"Giovani Bernard TB, RB",Ginyu Force In Hell,Dario,2021,187
+8,"Chuba Hubbard Car, RB",Wasted Playoff Spot,Josh,2021,188
+9,"Tua Tagovailoa Mia, QB",GO BEYOND! PLUS ULTRA!,Chacon,2021,189
+10,"Mac Jones NE, QB",Next next next next man up,Brandon,2021,190
+11,"Marlon Mack Ind, RB",Forever 21,Rashide,2021,191
+12,"Jalen Reagor Phi, WR",Ponzie Papi,Jesus,2021,192
+1,,Ponzie Papi,Jesus,2021,193
+2,,Forever 21,Rashide,2021,194
+3,,Next next next next man up,Brandon,2021,195
+4,,GO BEYOND! PLUS ULTRA!,Chacon,2021,196
+5,,Wasted Playoff Spot,Josh,2021,197
+6,,Ginyu Force In Hell,Dario,2021,198
+7,,Sophomore slump Herro,Vic,2021,199
+8,,Team Szn Down the Pitts,Peete,2021,200
+9,,Big Dak Energy,Francis,2021,201
+10,,Team Shooooooter,Fernando,2021,202
+11,,Mr CHARKuterie,Jessie,2021,203
+12,,BACK TO BACK,Tyler,2021,204
+1,"Christian McCaffrey Car, RB",Pina's Final Season,Joshua,2020,1
+2,"Saquon Barkley NYG, RB",Police never showed up :(,Jesus,2020,2
+3,"Ezekiel Elliott Dal, RB",Mr Unlimmmmiiited,Jessie,2020,3
+4,"Lamar Jackson Bal, QB",Team BrickHouse,Dario,2020,4
+5,"Dalvin Cook Min, RB",HES BACK BACK AGAIN,Tyler,2020,5
+6,"Alvin Kamara NO, RB",Team Lights Kamara Action,Peete,2020,6
+7,"Derrick Henry Ten, RB",Brandon's Final Season,Brandon,2020,7
+8,"Clyde Edwards-Helaire KC, RB",DK Donkey Kong,Chacon,2020,8
+9,"Michael Thomas NO, WR",Team Shooooooter,Fernando,2020,9
+10,"Nick Chubb Cle, RB",Big Dak Energy,Francis,2020,10
+11,"Josh Jacobs LV, RB",SHEEZY EXPRESS :(,Rashide,2020,11
+12,"Joe Mixon Cin, RB",The Tubby Jones Academy,Vic,2020,12
+1,"Aaron Jones GB, RB",The Tubby Jones Academy,Vic,2020,13
+2,"Kenyan Drake Ari, RB",SHEEZY EXPRESS :(,Rashide,2020,14
+3,"Patrick Mahomes KC, QB",Big Dak Energy,Francis,2020,15
+4,"Deshaun Watson Hou, QB",Team Shooooooter,Fernando,2020,16
+5,"Austin Ekeler LAC, RB",DK Donkey Kong,Chacon,2020,17
+6,"DeAndre Hopkins Ari, WR",Brandon's Final Season,Brandon,2020,18
+7,"Julio Jones Atl, WR",Team Lights Kamara Action,Peete,2020,19
+8,"Davante Adams GB, WR",HES BACK BACK AGAIN,Tyler,2020,20
+9,"Chris Carson Sea, RB",Team BrickHouse,Dario,2020,21
+10,"Travis Kelce KC, TE",Mr Unlimmmmiiited,Jessie,2020,22
+11,"Todd Gurley II Atl, RB",Police never showed up :(,Jesus,2020,23
+12,"George Kittle SF, TE",Pina's Final Season,Joshua,2020,24
+1,"Chris Godwin TB, WR",Pina's Final Season,Joshua,2020,25
+2,"Cam Akers LAR, RB",Police never showed up :(,Jesus,2020,26
+3,"Tyreek Hill KC, WR",Mr Unlimmmmiiited,Jessie,2020,27
+4,"Melvin Gordon III Den, RB",Team BrickHouse,Dario,2020,28
+5,"Miles Sanders Phi, RB",HES BACK BACK AGAIN,Tyler,2020,29
+6,"Odell Beckham Jr. Cle, WR",Team Lights Kamara Action,Peete,2020,30
+7,"Mike Evans TB, WR",Brandon's Final Season,Brandon,2020,31
+8,"DK Metcalf Sea, WR",DK Donkey Kong,Chacon,2020,32
+9,"Mark Andrews Bal, TE",Team Shooooooter,Fernando,2020,33
+10,"Amari Cooper Dal, WR",Big Dak Energy,Francis,2020,34
+11,"Kenny Golladay Det, WR",SHEEZY EXPRESS :(,Rashide,2020,35
+12,"Cooper Kupp LAR, WR",The Tubby Jones Academy,Vic,2020,36
+1,"David Johnson Hou, RB",The Tubby Jones Academy,Vic,2020,37
+2,"Le'Veon Bell KC, RB",SHEEZY EXPRESS :(,Rashide,2020,38
+3,"Keenan Allen LAC, WR",Big Dak Energy,Francis,2020,39
+4,"Mark Ingram II FA, RB",Team Shooooooter,Fernando,2020,40
+5,"D'Andre Swift Det, RB",DK Donkey Kong,Chacon,2020,41
+6,"James Conner Pit, RB",Brandon's Final Season,Brandon,2020,42
+7,"Raheem Mostert SF, RB",Team Lights Kamara Action,Peete,2020,43
+8,"Adam Thielen Min, WR",HES BACK BACK AGAIN,Tyler,2020,44
+9,"Leonard Fournette TB, RB",Team BrickHouse,Dario,2020,45
+10,"Calvin Ridley Atl, WR",Mr Unlimmmmiiited,Jessie,2020,46
+11,"DJ Moore Car, WR",Police never showed up :(,Jesus,2020,47
+12,"Antonio Gibson Wsh, RB",Pina's Final Season,Joshua,2020,48
+1,"Robert Woods LAR, WR",Pina's Final Season,Joshua,2020,49
+2,"Henry Ruggs III LV, WR",Police never showed up :(,Jesus,2020,50
+3,"Russell Wilson Sea, QB",Mr Unlimmmmiiited,Jessie,2020,51
+4,"Jonathan Taylor Ind, RB",Team BrickHouse,Dario,2020,52
+5,"JuJu Smith-Schuster Pit, WR",HES BACK BACK AGAIN,Tyler,2020,53
+6,"Darren Waller LV, TE",Team Lights Kamara Action,Peete,2020,54
+7,"Zach Ertz Phi, TE",Brandon's Final Season,Brandon,2020,55
+8,"Stefon Diggs Buf, WR",DK Donkey Kong,Chacon,2020,56
+9,"Devin Singletary Buf, RB",Team Shooooooter,Fernando,2020,57
+10,"Courtland Sutton Den, WR",Big Dak Energy,Francis,2020,58
+11,"Evan Engram NYG, TE",SHEEZY EXPRESS :(,Rashide,2020,59
+12,"Kyler Murray Ari, QB",The Tubby Jones Academy,Vic,2020,60
+1,"A.J. Brown Ten, WR",The Tubby Jones Academy,Vic,2020,61
+2,"Tyler Lockett Sea, WR",SHEEZY EXPRESS :(,Rashide,2020,62
+3,"Noah Fant Den, TE",Big Dak Energy,Francis,2020,63
+4,"DeVante Parker Mia, WR",Team Shooooooter,Fernando,2020,64
+5,"Drew Brees NO, QB",DK Donkey Kong,Chacon,2020,65
+6,"Jarvis Landry Cle, WR",Brandon's Final Season,Brandon,2020,66
+7,"Tom Brady TB, QB",Team Lights Kamara Action,Peete,2020,67
+8,"Aaron Rodgers GB, QB",HES BACK BACK AGAIN,Tyler,2020,68
+9,"DJ Chark Jr. Jax, WR",Team BrickHouse,Dario,2020,69
+10,"David Montgomery Chi, RB",Mr Unlimmmmiiited,Jessie,2020,70
+11,"Kareem Hunt Cle, RB",Police never showed up :(,Jesus,2020,71
+12,"Allen Robinson II Chi, WR",Pina's Final Season,Joshua,2020,72
+1,"T.Y. Hilton Ind, WR",Pina's Final Season,Joshua,2020,73
+2,"Dak Prescott Dal, QB",Police never showed up :(,Jesus,2020,74
+3,"Jordan Howard Phi, RB",Mr Unlimmmmiiited,Jessie,2020,75
+4,"CeeDee Lamb Dal, WR",Team BrickHouse,Dario,2020,76
+5,"Hunter Henry LAC, TE",HES BACK BACK AGAIN,Tyler,2020,77
+6,"Phillip Lindsay Den, RB",Team Lights Kamara Action,Peete,2020,78
+7,"Matt Ryan Atl, QB",Brandon's Final Season,Brandon,2020,79
+8,"Zack Moss Buf, RB",DK Donkey Kong,Chacon,2020,80
+9,"A.J. Green Cin, WR",Team Shooooooter,Fernando,2020,81
+10,"Terry McLaurin Wsh, WR",Big Dak Energy,Francis,2020,82
+11,"Michael Gallup Dal, WR",SHEEZY EXPRESS :(,Rashide,2020,83
+12,"Jared Cook FA, TE",The Tubby Jones Academy,Vic,2020,84
+1,"Harrison Butker KC, K",The Tubby Jones Academy,Vic,2020,85
+2,"Will Fuller V Hou, WR",SHEEZY EXPRESS :(,Rashide,2020,86
+3,"Matt Breida Mia, RB",Big Dak Energy,Francis,2020,87
+4,"Marlon Mack Ind, RB",Team Shooooooter,Fernando,2020,88
+5,"Mike Gesicki Mia, TE",DK Donkey Kong,Chacon,2020,89
+6,"Tyler Boyd Cin, WR",Brandon's Final Season,Brandon,2020,90
+7,"Sterling Shepard NYG, WR",Team Lights Kamara Action,Peete,2020,91
+8,"J.K. Dobbins Bal, RB",HES BACK BACK AGAIN,Tyler,2020,92
+9,"Mecole Hardman KC, WR",Team BrickHouse,Dario,2020,93
+10,"Marvin Jones Jr. Det, WR",Mr Unlimmmmiiited,Jessie,2020,94
+11,"Marquise Brown Bal, WR",Police never showed up :(,Jesus,2020,95
+12,"Tarik Cohen Chi, RB",Pina's Final Season,Joshua,2020,96
+1,"Brandin Cooks Hou, WR",Pina's Final Season,Joshua,2020,97
+2,"Tyler Higbee LAR, TE",Police never showed up :(,Jesus,2020,98
+3,"Deebo Samuel SF, WR",Mr Unlimmmmiiited,Jessie,2020,99
+4,"Rob Gronkowski TB, TE",Team BrickHouse,Dario,2020,100
+5,"Steelers D/ST Pit, D/ST",HES BACK BACK AGAIN,Tyler,2020,101
+6,"Ronald Jones II TB, RB",Team Lights Kamara Action,Peete,2020,102
+7,"Tevin Coleman SF, RB",Brandon's Final Season,Brandon,2020,103
+8,"Austin Hooper Cle, TE",DK Donkey Kong,Chacon,2020,104
+9,"Julian Edelman NE, WR",Team Shooooooter,Fernando,2020,105
+10,"John Brown Buf, WR",Big Dak Energy,Francis,2020,106
+11,"Diontae Johnson Pit, WR",SHEEZY EXPRESS :(,Rashide,2020,107
+12,"Kerryon Johnson Det, RB",The Tubby Jones Academy,Vic,2020,108
+1,"Jerry Jeudy Den, WR",The Tubby Jones Academy,Vic,2020,109
+2,"Matthew Stafford LAR, QB",SHEEZY EXPRESS :(,Rashide,2020,110
+3,"49ers D/ST SF, D/ST",Big Dak Energy,Francis,2020,111
+4,"Josh Allen Buf, QB",Team Shooooooter,Fernando,2020,112
+5,"Cam Newton NE, QB",DK Donkey Kong,Chacon,2020,113
+6,"Emmanuel Sanders NO, WR",Brandon's Final Season,Brandon,2020,114
+7,"Buccaneers D/ST TB, D/ST",Team Lights Kamara Action,Peete,2020,115
+8,"Golden Tate FA, WR",HES BACK BACK AGAIN,Tyler,2020,116
+9,"Christian Kirk Ari, WR",Team BrickHouse,Dario,2020,117
+10,"Sony Michel NE, RB",Mr Unlimmmmiiited,Jessie,2020,118
+11,"Latavius Murray NO, RB",Police never showed up :(,Jesus,2020,119
+12,"Jonnu Smith Ten, TE",Pina's Final Season,Joshua,2020,120
+1,"Bills D/ST Buf, D/ST",Pina's Final Season,Joshua,2020,121
+2,"Mike Williams LAC, WR",Police never showed up :(,Jesus,2020,122
+3,"Carson Wentz Ind, QB",Mr Unlimmmmiiited,Jessie,2020,123
+4,"Ryan Tannehill Ten, QB",Team BrickHouse,Dario,2020,124
+5,"Darrell Henderson Jr. LAR, RB",HES BACK BACK AGAIN,Tyler,2020,125
+6,"Preston Williams Mia, WR",Team Lights Kamara Action,Peete,2020,126
+7,"Wil Lutz NO, K",Brandon's Final Season,Brandon,2020,127
+8,"Tee Higgins Cin, WR",DK Donkey Kong,Chacon,2020,128
+9,"Greg Zuerlein Dal, K",Team Shooooooter,Fernando,2020,129
+10,"Justin Tucker Bal, K",Big Dak Energy,Francis,2020,130
+11,"Ravens D/ST Bal, D/ST",SHEEZY EXPRESS :(,Rashide,2020,131
+12,"Darius Slayton NYG, WR",The Tubby Jones Academy,Vic,2020,132
+1,"James White NE, RB",The Tubby Jones Academy,Vic,2020,133
+2,"N'Keal Harry NE, WR",SHEEZY EXPRESS :(,Rashide,2020,134
+3,"T.J. Hockenson Det, TE",Big Dak Energy,Francis,2020,135
+4,"Alexander Mattison Min, RB",Team Shooooooter,Fernando,2020,136
+5,"Justin Jefferson Min, WR",DK Donkey Kong,Chacon,2020,137
+6,"Patriots D/ST NE, D/ST",Brandon's Final Season,Brandon,2020,138
+7,"Eric Ebron Pit, TE",Team Lights Kamara Action,Peete,2020,139
+8,"Robby Anderson Car, WR",HES BACK BACK AGAIN,Tyler,2020,140
+9,"Vikings D/ST Min, D/ST",Team BrickHouse,Dario,2020,141
+10,"Hayden Hurst Atl, TE",Mr Unlimmmmiiited,Jessie,2020,142
+11,"Ben Roethlisberger Pit, QB",Police never showed up :(,Jesus,2020,143
+12,"Zane Gonzalez FA, K",Pina's Final Season,Joshua,2020,144
+1,"Chase Edmonds Ari, RB",Pina's Final Season,Joshua,2020,145
+2,"Dallas Goedert Phi, TE",Police never showed up :(,Jesus,2020,146
+3,"Colts D/ST Ind, D/ST",Mr Unlimmmmiiited,Jessie,2020,147
+4,"Matt Prater Det, K",Team BrickHouse,Dario,2020,148
+5,"Jack Doyle Ind, TE",HES BACK BACK AGAIN,Tyler,2020,149
+6,"Younghoe Koo Atl, K",Team Lights Kamara Action,Peete,2020,150
+7,"Jamison Crowder NYJ, WR",Brandon's Final Season,Brandon,2020,151
+8,"Duke Johnson FA, RB",DK Donkey Kong,Chacon,2020,152
+9,"Cowboys D/ST Dal, D/ST",Team Shooooooter,Fernando,2020,153
+10,"Tony Pollard Dal, RB",Big Dak Energy,Francis,2020,154
+11,"DeSean Jackson FA, WR",SHEEZY EXPRESS :(,Rashide,2020,155
+12,"Bears D/ST Chi, D/ST",The Tubby Jones Academy,Vic,2020,156
+1,"Randall Cobb Hou, WR",The Tubby Jones Academy,Vic,2020,157
+2,"Benny Snell Jr. Pit, RB",SHEEZY EXPRESS :(,Rashide,2020,158
+3,"Sammy Watkins KC, WR",Big Dak Energy,Francis,2020,159
+4,"Breshad Perriman NYJ, WR",Team Shooooooter,Fernando,2020,160
+5,"Larry Fitzgerald Ari, WR",DK Donkey Kong,Chacon,2020,161
+6,"Justin Jackson LAC, RB",Brandon's Final Season,Brandon,2020,162
+7,"Alshon Jeffery Phi, WR",Team Lights Kamara Action,Peete,2020,163
+8,"Jake Elliott Phi, K",HES BACK BACK AGAIN,Tyler,2020,164
+9,"Blake Jarwin Dal, TE",Team BrickHouse,Dario,2020,165
+10,"Robbie Gould SF, K",Mr Unlimmmmiiited,Jessie,2020,166
+11,"Chris Boswell Pit, K",Police never showed up :(,Jesus,2020,167
+12,"Boston Scott Phi, RB",Pina's Final Season,Joshua,2020,168
+1,"Daniel Jones NYG, QB",Pina's Final Season,Joshua,2020,169
+2,"Saints D/ST NO, D/ST",Police never showed up :(,Jesus,2020,170
+3,"Anthony Miller Chi, WR",Mr Unlimmmmiiited,Jessie,2020,171
+4,"Chris Thompson Jax, RB",Team BrickHouse,Dario,2020,172
+5,"Curtis Samuel Car, WR",HES BACK BACK AGAIN,Tyler,2020,173
+6,"Jamaal Williams GB, RB",Team Lights Kamara Action,Peete,2020,174
+7,"Chris Herndon NYJ, TE",Brandon's Final Season,Brandon,2020,175
+8,"Tua Tagovailoa Mia, QB",DK Donkey Kong,Chacon,2020,176
+9,"Greg Olsen Sea, TE",Team Shooooooter,Fernando,2020,177
+10,"Joe Burrow Cin, QB",Big Dak Energy,Francis,2020,178
+11,"Jared Goff Det, QB",SHEEZY EXPRESS :(,Rashide,2020,179
+12,"Jalen Reagor Phi, WR",The Tubby Jones Academy,Vic,2020,180
+1,"Broncos D/ST Den, D/ST",The Tubby Jones Academy,Vic,2020,181
+2,"Brandon Aiyuk SF, WR",SHEEZY EXPRESS :(,Rashide,2020,182
+3,"Parris Campbell Ind, WR",Big Dak Energy,Francis,2020,183
+4,"Allen Lazard GB, WR",Team Shooooooter,Fernando,2020,184
+5,"Titans D/ST Ten, D/ST",DK Donkey Kong,Chacon,2020,185
+6,"Jerick McKinnon SF, RB",Brandon's Final Season,Brandon,2020,186
+7,"Kirk Cousins Min, QB",Team Lights Kamara Action,Peete,2020,187
+8,"Bryce Love Wsh, RB",HES BACK BACK AGAIN,Tyler,2020,188
+9,"AJ Dillon GB, RB",Team BrickHouse,Dario,2020,189
+10,"Devine Ozigbo Jax, RB",Mr Unlimmmmiiited,Jessie,2020,190
+11,"Carlos Hyde Sea, RB",Police never showed up :(,Jesus,2020,191
+12,"Damien Harris NE, RB",Pina's Final Season,Joshua,2020,192
+1,"Adrian Peterson Det, RB",Pina's Final Season,Joshua,2020,193
+2,"Steven Sims Jr. Wsh, WR",Police never showed up :(,Jesus,2020,194
+3,"Michael Pittman Jr. Ind, WR",Mr Unlimmmmiiited,Jessie,2020,195
+4,"Gus Edwards Bal, RB",Team BrickHouse,Dario,2020,196
+5,"Drew Lock Den, QB",HES BACK BACK AGAIN,Tyler,2020,197
+6,"Seahawks D/ST Sea, D/ST",Team Lights Kamara Action,Peete,2020,198
+7,"Joshua Kelley LAC, RB",Brandon's Final Season,Brandon,2020,199
+8,"Jason Sanders Mia, K",DK Donkey Kong,Chacon,2020,200
+9,"Josh Gordon Sea, WR",Team Shooooooter,Fernando,2020,201
+10,"Nyheim Hines Ind, RB",Big Dak Energy,Francis,2020,202
+11,"Josh Lambo Jax, K",SHEEZY EXPRESS :(,Rashide,2020,203
+12,"Corey Davis Ten, WR",The Tubby Jones Academy,Vic,2020,204
+1,"Christian McCaffrey Car, RB",B2B Jordan 96-97,Brandon,2019,1
+2,"Patrick Mahomes KC, QB",Dak Dak Goose,Francis,2019,2
+3,"Todd Gurley II LAR, RB",Margate Rams,Jesus,2019,3
+4,"David Johnson Ari, RB",Team No Defense :(,Rashide,2019,4
+5,"Julio Jones Atl, WR",Graham Crackers,Eric,2019,5
+6,"Davante Adams GB, WR",Avengers: ENDGAME,Josh,2019,6
+7,"Michael Thomas NO, WR",Im Feelin it Mr.Krabz,Chacon,2019,7
+8,"Saquon Barkley NYG, RB","Team Top 2, And I'm Not 2",Peete,2019,8
+9,"DeAndre Hopkins Hou, WR",FREE BELL,Jessie,2019,9
+10,"Alvin Kamara NO, RB",MeeT Me AT THe LoNDoN,Marky,2019,10
+11,"James Conner Pit, RB",Team Shooooooter,Fernando,2019,11
+12,"Le'Veon Bell NYJ, RB",Puntn ho3s like Hunt,Dario,2019,12
+1,"Antonio Brown FA, WR",Puntn ho3s like Hunt,Dario,2019,13
+2,"Melvin Gordon LAC, RB",Team Shooooooter,Fernando,2019,14
+3,"Tyreek Hill KC, WR",MeeT Me AT THe LoNDoN,Marky,2019,15
+4,"Nick Chubb Cle, RB",FREE BELL,Jessie,2019,16
+5,"Leonard Fournette Jax, RB","Team Top 2, And I'm Not 2",Peete,2019,17
+6,"Mike Evans TB, WR",Im Feelin it Mr.Krabz,Chacon,2019,18
+7,"Joe Mixon Cin, RB",Avengers: ENDGAME,Josh,2019,19
+8,"Odell Beckham Jr. Cle, WR",Graham Crackers,Eric,2019,20
+9,"JuJu Smith-Schuster Pit, WR",Team No Defense :(,Rashide,2019,21
+10,"Dalvin Cook Min, RB",Margate Rams,Jesus,2019,22
+11,"Keenan Allen LAC, WR",Dak Dak Goose,Francis,2019,23
+12,"Ezekiel Elliott Dal, RB",B2B Jordan 96-97,Brandon,2019,24
+1,"Travis Kelce KC, TE",B2B Jordan 96-97,Brandon,2019,25
+2,"Stefon Diggs Min, WR",Dak Dak Goose,Francis,2019,26
+3,"Brandin Cooks LAR, WR",Margate Rams,Jesus,2019,27
+4,"Devonta Freeman Atl, RB",Team No Defense :(,Rashide,2019,28
+5,"Sony Michel NE, RB",Graham Crackers,Eric,2019,29
+6,"Josh Jacobs Oak, RB",Avengers: ENDGAME,Josh,2019,30
+7,"Derrick Henry Ten, RB",Im Feelin it Mr.Krabz,Chacon,2019,31
+8,"Adam Thielen Min, WR","Team Top 2, And I'm Not 2",Peete,2019,32
+9,"Kerryon Johnson Det, RB",FREE BELL,Jessie,2019,33
+10,"Aaron Rodgers GB, QB",MeeT Me AT THe LoNDoN,Marky,2019,34
+11,"Zach Ertz Phi, TE",Team Shooooooter,Fernando,2019,35
+12,"Damien Williams KC, RB",Puntn ho3s like Hunt,Dario,2019,36
+1,"Marlon Mack Ind, RB",Puntn ho3s like Hunt,Dario,2019,37
+2,"Robert Woods LAR, WR",Team Shooooooter,Fernando,2019,38
+3,"Cooper Kupp LAR, WR",MeeT Me AT THe LoNDoN,Marky,2019,39
+4,"O.J. Howard TB, TE",FREE BELL,Jessie,2019,40
+5,"Amari Cooper Dal, WR","Team Top 2, And I'm Not 2",Peete,2019,41
+6,"Jordan Howard Phi, RB",Im Feelin it Mr.Krabz,Chacon,2019,42
+7,"George Kittle SF, TE",Avengers: ENDGAME,Josh,2019,43
+8,"Phillip Lindsay Den, RB",Graham Crackers,Eric,2019,44
+9,"Aaron Jones GB, RB",Team No Defense :(,Rashide,2019,45
+10,"Tyler Boyd Cin, WR",Margate Rams,Jesus,2019,46
+11,"Chris Carson Sea, RB",Dak Dak Goose,Francis,2019,47
+12,"T.Y. Hilton Ind, WR",B2B Jordan 96-97,Brandon,2019,48
+1,"Julian Edelman NE, WR",B2B Jordan 96-97,Brandon,2019,49
+2,"David Montgomery Chi, RB",Dak Dak Goose,Francis,2019,50
+3,"Derrius Guice Wsh, RB",Margate Rams,Jesus,2019,51
+4,"Tyler Lockett Sea, WR",Team No Defense :(,Rashide,2019,52
+5,"Duke Johnson Hou, RB",Graham Crackers,Eric,2019,53
+6,"Kenny Golladay Det, WR",Avengers: ENDGAME,Josh,2019,54
+7,"Austin Ekeler LAC, RB",Im Feelin it Mr.Krabz,Chacon,2019,55
+8,"Mark Ingram II Bal, RB","Team Top 2, And I'm Not 2",Peete,2019,56
+9,"Alshon Jeffery Phi, WR",FREE BELL,Jessie,2019,57
+10,"Emmanuel Sanders SF, WR",MeeT Me AT THe LoNDoN,Marky,2019,58
+11,"Tevin Coleman SF, RB",Team Shooooooter,Fernando,2019,59
+12,"Calvin Ridley Atl, WR",Puntn ho3s like Hunt,Dario,2019,60
+1,"Kareem Hunt Cle, RB",Puntn ho3s like Hunt,Dario,2019,61
+2,"Baker Mayfield Cle, QB",Team Shooooooter,Fernando,2019,62
+3,"James White NE, RB",MeeT Me AT THe LoNDoN,Marky,2019,63
+4,"Deshaun Watson Hou, QB",FREE BELL,Jessie,2019,64
+5,"Jarvis Landry Cle, WR","Team Top 2, And I'm Not 2",Peete,2019,65
+6,"Kenyan Drake Ari, RB",Im Feelin it Mr.Krabz,Chacon,2019,66
+7,"Chris Godwin TB, WR",Avengers: ENDGAME,Josh,2019,67
+8,"Allen Robinson II Chi, WR",Graham Crackers,Eric,2019,68
+9,"DJ Moore Car, WR",Team No Defense :(,Rashide,2019,69
+10,"A.J. Green Cin, WR",Margate Rams,Jesus,2019,70
+11,"Will Fuller V Hou, WR",Dak Dak Goose,Francis,2019,71
+12,"Cam Newton Car, QB",B2B Jordan 96-97,Brandon,2019,72
+1,"Tarik Cohen Chi, RB",B2B Jordan 96-97,Brandon,2019,73
+2,"Evan Engram NYG, TE",Dak Dak Goose,Francis,2019,74
+3,"LeSean McCoy KC, RB",Margate Rams,Jesus,2019,75
+4,"Matt Ryan Atl, QB",Team No Defense :(,Rashide,2019,76
+5,"Vance McDonald Pit, TE",Graham Crackers,Eric,2019,77
+6,"Latavius Murray NO, RB",Avengers: ENDGAME,Josh,2019,78
+7,"Philip Rivers LAC, QB",Im Feelin it Mr.Krabz,Chacon,2019,79
+8,"Drew Brees NO, QB","Team Top 2, And I'm Not 2",Peete,2019,80
+9,"Robby Anderson NYJ, WR",FREE BELL,Jessie,2019,81
+10,"Tony Pollard Dal, RB",MeeT Me AT THe LoNDoN,Marky,2019,82
+11,"Ronald Jones II TB, RB",Team Shooooooter,Fernando,2019,83
+12,"Eric Ebron Ind, TE",Puntn ho3s like Hunt,Dario,2019,84
+1,"Carson Wentz Phi, QB",Puntn ho3s like Hunt,Dario,2019,85
+2,"Marvin Jones Jr. Det, WR",Team Shooooooter,Fernando,2019,86
+3,"James Washington Pit, WR",MeeT Me AT THe LoNDoN,Marky,2019,87
+4,"Bears D/ST Chi, D/ST",FREE BELL,Jessie,2019,88
+5,"Hunter Henry LAC, TE","Team Top 2, And I'm Not 2",Peete,2019,89
+6,"Mike Williams LAC, WR",Im Feelin it Mr.Krabz,Chacon,2019,90
+7,"Christian Kirk Ari, WR",Avengers: ENDGAME,Josh,2019,91
+8,"Tom Brady NE, QB",Graham Crackers,Eric,2019,92
+9,"Rashaad Penny Sea, RB",Team No Defense :(,Rashide,2019,93
+10,"Jared Cook NO, TE",Margate Rams,Jesus,2019,94
+11,"Dede Westbrook Jax, WR",Dak Dak Goose,Francis,2019,95
+12,"Peyton Barber TB, RB",B2B Jordan 96-97,Brandon,2019,96
+1,"Russell Wilson Sea, QB",B2B Jordan 96-97,Brandon,2019,97
+2,"Tre'Quan Smith NO, WR",Dak Dak Goose,Francis,2019,98
+3,"DK Metcalf Sea, WR",Margate Rams,Jesus,2019,99
+4,"David Njoku Cle, TE",Team No Defense :(,Rashide,2019,100
+5,"Jaguars D/ST Jax, D/ST",Graham Crackers,Eric,2019,101
+6,"Sterling Shepard NYG, WR",Avengers: ENDGAME,Josh,2019,102
+7,"Kyle Rudolph Min, TE",Im Feelin it Mr.Krabz,Chacon,2019,103
+8,"Chargers D/ST LAC, D/ST","Team Top 2, And I'm Not 2",Peete,2019,104
+9,"Marquez Valdes-Scantling GB, WR",FREE BELL,Jessie,2019,105
+10,"Keke Coutee Hou, WR",MeeT Me AT THe LoNDoN,Marky,2019,106
+11,"Courtland Sutton Den, WR",Team Shooooooter,Fernando,2019,107
+12,"Sammy Watkins KC, WR",Puntn ho3s like Hunt,Dario,2019,108
+1,"Golden Tate NYG, WR",Puntn ho3s like Hunt,Dario,2019,109
+2,"DeSean Jackson Phi, WR",Team Shooooooter,Fernando,2019,110
+3,"Rams D/ST LAR, D/ST",MeeT Me AT THe LoNDoN,Marky,2019,111
+4,"Adrian Peterson Wsh, RB",FREE BELL,Jessie,2019,112
+5,"Marquise Goodwin SF, WR","Team Top 2, And I'm Not 2",Peete,2019,113
+6,"Jamison Crowder NYJ, WR",Im Feelin it Mr.Krabz,Chacon,2019,114
+7,"Matt Breida SF, RB",Avengers: ENDGAME,Josh,2019,115
+8,"Josh Gordon Sea, WR",Graham Crackers,Eric,2019,116
+9,"Dante Pettis SF, WR",Team No Defense :(,Rashide,2019,117
+10,"Larry Fitzgerald Ari, WR",Margate Rams,Jesus,2019,118
+11,"Greg Olsen Sea, TE",Dak Dak Goose,Francis,2019,119
+12,"Corey Davis Ten, WR",B2B Jordan 96-97,Brandon,2019,120
+1,"Dion Lewis Ten, RB",B2B Jordan 96-97,Brandon,2019,121
+2,"Greg Zuerlein LAR, K",Dak Dak Goose,Francis,2019,122
+3,"Michael Gallup Dal, WR",Margate Rams,Jesus,2019,123
+4,"Ravens D/ST Bal, D/ST",Team No Defense :(,Rashide,2019,124
+5,"Kalen Ballage Mia, RB",Graham Crackers,Eric,2019,125
+6,"Texans D/ST Hou, D/ST",Avengers: ENDGAME,Josh,2019,126
+7,"Vikings D/ST Min, D/ST",Im Feelin it Mr.Krabz,Chacon,2019,127
+8,"Preston Williams Mia, WR","Team Top 2, And I'm Not 2",Peete,2019,128
+9,"Royce Freeman Den, RB",FREE BELL,Jessie,2019,129
+10,"Stephen Gostkowski NE, K",MeeT Me AT THe LoNDoN,Marky,2019,130
+11,"Harrison Butker KC, K",Team Shooooooter,Fernando,2019,131
+12,"Mohamed Sanu Sr. NE, WR",Puntn ho3s like Hunt,Dario,2019,132
+1,"Chiefs D/ST KC, D/ST",Puntn ho3s like Hunt,Dario,2019,133
+2,"Darrell Henderson Jr. LAR, RB",Team Shooooooter,Fernando,2019,134
+3,"Justin Jackson LAC, RB",MeeT Me AT THe LoNDoN,Marky,2019,135
+4,"Justin Tucker Bal, K",FREE BELL,Jessie,2019,136
+5,"Mark Andrews Bal, TE","Team Top 2, And I'm Not 2",Peete,2019,137
+6,"Mason Crosby GB, K",Im Feelin it Mr.Krabz,Chacon,2019,138
+7,"Jaylen Samuels Pit, RB",Avengers: ENDGAME,Josh,2019,139
+8,"N'Keal Harry NE, WR",Graham Crackers,Eric,2019,140
+9,"Ka'imi Fairbairn Hou, K",Team No Defense :(,Rashide,2019,141
+10,"Jared Goff LAR, QB",Margate Rams,Jesus,2019,142
+11,"Patriots D/ST NE, D/ST",Dak Dak Goose,Francis,2019,143
+12,"Cowboys D/ST Dal, D/ST",B2B Jordan 96-97,Brandon,2019,144
+1,"Wil Lutz NO, K",B2B Jordan 96-97,Brandon,2019,145
+2,"T.J. Yeldon Buf, RB",Dak Dak Goose,Francis,2019,146
+3,"Cameron Brate TB, TE",Margate Rams,Jesus,2019,147
+4,"Miles Sanders Phi, RB",Team No Defense :(,Rashide,2019,148
+5,"Austin Hooper Atl, TE",Graham Crackers,Eric,2019,149
+6,"Robbie Gould SF, K",Avengers: ENDGAME,Josh,2019,150
+7,"Delanie Walker Ten, TE",Im Feelin it Mr.Krabz,Chacon,2019,151
+8,"Wayne Gallman NYG, RB","Team Top 2, And I'm Not 2",Peete,2019,152
+9,"Darren Waller Oak, TE",FREE BELL,Jessie,2019,153
+10,"Jimmy Graham GB, TE",MeeT Me AT THe LoNDoN,Marky,2019,154
+11,"Dak Prescott Dal, QB",Team Shooooooter,Fernando,2019,155
+12,"Michael Badgley LAC, K",Puntn ho3s like Hunt,Dario,2019,156
+1,"Lamar Jackson Bal, QB",Puntn ho3s like Hunt,Dario,2019,157
+2,"Trey Burton Chi, TE",Team Shooooooter,Fernando,2019,158
+3,"Nelson Agholor Phi, WR",MeeT Me AT THe LoNDoN,Marky,2019,159
+4,"Gus Edwards Bal, RB",FREE BELL,Jessie,2019,160
+5,"Jake Elliott Phi, K","Team Top 2, And I'm Not 2",Peete,2019,161
+6,"Kenny Stills Hou, WR",Im Feelin it Mr.Krabz,Chacon,2019,162
+7,"Malcolm Brown LAR, RB",Avengers: ENDGAME,Josh,2019,163
+8,"Devin Singletary Buf, RB",Graham Crackers,Eric,2019,164
+9,"Darwin Thompson KC, RB",Team No Defense :(,Rashide,2019,165
+10,"Kyler Murray Ari, QB",Margate Rams,Jesus,2019,166
+11,"Nyheim Hines Ind, RB",Dak Dak Goose,Francis,2019,167
+12,"Anthony Miller Chi, WR",B2B Jordan 96-97,Brandon,2019,168
+1,"Carlos Hyde Hou, RB",B2B Jordan 96-97,Brandon,2019,169
+2,"Curtis Samuel Car, WR",Dak Dak Goose,Francis,2019,170
+3,"Jason Myers Sea, K",Margate Rams,Jesus,2019,171
+4,"Ben Roethlisberger Pit, QB",Team No Defense :(,Rashide,2019,172
+5,"Jason Sanders Mia, K",Graham Crackers,Eric,2019,173
+6,"Tyrell Williams Oak, WR",Avengers: ENDGAME,Josh,2019,174
+7,"Danny Amendola Det, WR",Im Feelin it Mr.Krabz,Chacon,2019,175
+8,"Jimmy Garoppolo SF, QB","Team Top 2, And I'm Not 2",Peete,2019,176
+9,"David Moore Sea, WR",FREE BELL,Jessie,2019,177
+10,"Albert Wilson Mia, WR",MeeT Me AT THe LoNDoN,Marky,2019,178
+11,"Steelers D/ST Pit, D/ST",Team Shooooooter,Fernando,2019,179
+12,"Raiders D/ST Oak, D/ST",Puntn ho3s like Hunt,Dario,2019,180
+1,"Alvin Kamara NO, RB",Dak Dak Goose,Francis,2018,1
+2,"Leonard Fournette Jax, RB",Team Shooooooter,Fernando,2018,2
+3,"Dalvin Cook Min, RB",Final Fantasy,Dario,2018,3
+4,"Todd Gurley II LAR, RB",Gurley's Gone Wild,Brandon,2018,4
+5,"Saquon Barkley NYG, RB",Rasheeezyy Express,Rashide,2018,5
+6,"Le'Veon Bell Pit, RB",Make Scranton Great Again,Josh,2018,6
+7,"Antonio Brown Pit, WR",Round and Antonio Brown,Chacon,2018,7
+8,"Odell Beckham Jr. NYG, WR",Team Sippin Don Julio,Peete,2018,8
+9,"DeAndre Hopkins Hou, WR",4 Inch Chubb,Jessie,2018,9
+10,"Akeem Hunt KC, RB",Caramelo Duro,Jesus,2018,10
+11,"Ezekiel Elliott Dal, RB",Graham Crackers,Tyler,2018,11
+12,"David Johnson Ari, RB",TaSTe My SaLT,Marky,2018,12
+1,"Devonta Freeman Atl, RB",TaSTe My SaLT,Marky,2018,13
+2,"Keenan Allen LAC, WR",Graham Crackers,Tyler,2018,14
+3,"Christian McCaffrey Car, RB",Caramelo Duro,Jesus,2018,15
+4,"LeSean McCoy Buf, RB",4 Inch Chubb,Jessie,2018,16
+5,"Julio Jones Atl, WR",Team Sippin Don Julio,Peete,2018,17
+6,"Rob Gronkowski NE, TE",Round and Antonio Brown,Chacon,2018,18
+7,"A.J. Green Cin, WR",Make Scranton Great Again,Josh,2018,19
+8,"Davante Adams GB, WR",Rasheeezyy Express,Rashide,2018,20
+9,"Tom Brady NE, QB",Gurley's Gone Wild,Brandon,2018,21
+10,"Melvin Gordon LAC, RB",Final Fantasy,Dario,2018,22
+11,"Stefon Diggs Min, WR",Team Shooooooter,Fernando,2018,23
+12,"Adam Thielen Min, WR",Dak Dak Goose,Francis,2018,24
+1,"Michael Thomas NO, WR",Dak Dak Goose,Francis,2018,25
+2,"Tyreek Hill KC, WR",Team Shooooooter,Fernando,2018,26
+3,"Cam Newton Car, QB",Final Fantasy,Dario,2018,27
+4,"Jordan Howard Chi, RB",Gurley's Gone Wild,Brandon,2018,28
+5,"Marvin Jones Jr. Det, WR",Rasheeezyy Express,Rashide,2018,29
+6,"Jerick McKinnon SF, RB",Make Scranton Great Again,Josh,2018,30
+7,"Deshaun Watson Hou, QB",Round and Antonio Brown,Chacon,2018,31
+8,"Jarvis Landry Cle, WR",Team Sippin Don Julio,Peete,2018,32
+9,"Russell Wilson Sea, QB",4 Inch Chubb,Jessie,2018,33
+10,"Amari Cooper Dal, WR",Caramelo Duro,Jesus,2018,34
+11,"Aaron Rodgers GB, QB",Graham Crackers,Tyler,2018,35
+12,"T.Y. Hilton Ind, WR",TaSTe My SaLT,Marky,2018,36
+1,"Demaryius Thomas Hou, WR",TaSTe My SaLT,Marky,2018,37
+2,"Doug Baldwin Sea, WR",Graham Crackers,Tyler,2018,38
+3,"Zach Ertz Phi, TE",Caramelo Duro,Jesus,2018,39
+4,"Travis Kelce KC, TE",4 Inch Chubb,Jessie,2018,40
+5,"Joe Mixon Cin, RB",Team Sippin Don Julio,Peete,2018,41
+6,"Brandin Cooks LAR, WR",Round and Antonio Brown,Chacon,2018,42
+7,"Larry Fitzgerald Ari, WR",Make Scranton Great Again,Josh,2018,43
+8,"Lamar Miller Hou, RB",Rasheeezyy Express,Rashide,2018,44
+9,"Mike Evans TB, WR",Gurley's Gone Wild,Brandon,2018,45
+10,"Jay Ajayi Phi, RB",Final Fantasy,Dario,2018,46
+11,"Carlos Hyde Jax, RB",Team Shooooooter,Fernando,2018,47
+12,"JuJu Smith-Schuster Pit, WR",Dak Dak Goose,Francis,2018,48
+1,"Kerryon Johnson Det, RB",Dak Dak Goose,Francis,2018,49
+2,"Carson Wentz Phi, QB",Team Shooooooter,Fernando,2018,50
+3,"Greg Olsen Car, TE",Final Fantasy,Dario,2018,51
+4,"Josh Gordon NE, WR",Gurley's Gone Wild,Brandon,2018,52
+5,"Drew Brees NO, QB",Rasheeezyy Express,Rashide,2018,53
+6,"Alex Collins Bal, RB",Make Scranton Great Again,Josh,2018,54
+7,"Kenyan Drake Mia, RB",Round and Antonio Brown,Chacon,2018,55
+8,"Royce Freeman Den, RB",Team Sippin Don Julio,Peete,2018,56
+9,"Cooper Kupp LAR, WR",4 Inch Chubb,Jessie,2018,57
+10,"Sammy Watkins KC, WR",Caramelo Duro,Jesus,2018,58
+11,"Jimmy Graham GB, TE",Graham Crackers,Tyler,2018,59
+12,"Mark Ingram II NO, RB",TaSTe My SaLT,Marky,2018,60
+1,"Jared Goff LAR, QB",TaSTe My SaLT,Marky,2018,61
+2,"Golden Tate Phi, WR",Graham Crackers,Tyler,2018,62
+3,"Chris Hogan NE, WR",Caramelo Duro,Jesus,2018,63
+4,"Nick Chubb Cle, RB",4 Inch Chubb,Jessie,2018,64
+5,"Derrick Henry Ten, RB",Team Sippin Don Julio,Peete,2018,65
+6,"Marshawn Lynch Oak, RB",Round and Antonio Brown,Chacon,2018,66
+7,"Rex Burkhead NE, RB",Make Scranton Great Again,Josh,2018,67
+8,"Devin Funchess Car, WR",Rasheeezyy Express,Rashide,2018,68
+9,"Julian Edelman NE, WR",Gurley's Gone Wild,Brandon,2018,69
+10,"Alshon Jeffery Phi, WR",Final Fantasy,Dario,2018,70
+11,"Delanie Walker Ten, TE",Team Shooooooter,Fernando,2018,71
+12,"Matt Ryan Atl, QB",Dak Dak Goose,Francis,2018,72
+1,"David Njoku Cle, TE",Dak Dak Goose,Francis,2018,73
+2,"Michael Crabtree Bal, WR",Team Shooooooter,Fernando,2018,74
+3,"Will Fuller V Hou, WR",Final Fantasy,Dario,2018,75
+4,"Evan Engram NYG, TE",Gurley's Gone Wild,Brandon,2018,76
+5,"Jack Doyle Ind, TE",Rasheeezyy Express,Rashide,2018,77
+6,"Allen Robinson Chi, WR",Make Scranton Great Again,Josh,2018,78
+7,"DeVante Parker Mia, WR",Round and Antonio Brown,Chacon,2018,79
+8,"Jimmy Garoppolo SF, QB",Team Sippin Don Julio,Peete,2018,80
+9,"Emmanuel Sanders Den, WR",4 Inch Chubb,Jessie,2018,81
+10,"Jamaal Williams GB, RB",Caramelo Duro,Jesus,2018,82
+11,"Peyton Barber TB, RB",Graham Crackers,Tyler,2018,83
+12,"Randall Cobb GB, WR",TaSTe My SaLT,Marky,2018,84
+1,"Andrew Luck Ind, QB",TaSTe My SaLT,Marky,2018,85
+2,"James White NE, RB",Graham Crackers,Tyler,2018,86
+3,"Tevin Coleman Atl, RB",Caramelo Duro,Jesus,2018,87
+4,"Marlon Mack Ind, RB",4 Inch Chubb,Jessie,2018,88
+5,"Marquise Goodwin SF, WR",Team Sippin Don Julio,Peete,2018,89
+6,"Kyle Rudolph Min, TE",Round and Antonio Brown,Chacon,2018,90
+7,"Philip Rivers LAC, QB",Make Scranton Great Again,Josh,2018,91
+8,"Jaguars D/ST Jax, D/ST",Rasheeezyy Express,Rashide,2018,92
+9,"Martavis Bryant Oak, WR",Gurley's Gone Wild,Brandon,2018,93
+10,"Robby Anderson NYJ, WR",Final Fantasy,Dario,2018,94
+11,"Justin Tucker Bal, K",Team Shooooooter,Fernando,2018,95
+12,"Tarik Cohen Chi, RB",Dak Dak Goose,Francis,2018,96
+1,"Allen Hurns Dal, WR",Dak Dak Goose,Francis,2018,97
+2,"Kirk Cousins Min, QB",Team Shooooooter,Fernando,2018,98
+3,"Jordan Reed Wsh, TE",Final Fantasy,Dario,2018,99
+4,"LeGarrette Blount Det, RB",Gurley's Gone Wild,Brandon,2018,100
+5,"Sterling Shepard NYG, WR",Rasheeezyy Express,Rashide,2018,101
+6,"O.J. Howard TB, TE",Make Scranton Great Again,Josh,2018,102
+7,"Dez Bryant NO, WR",Round and Antonio Brown,Chacon,2018,103
+8,"Trey Burton Chi, TE",Team Sippin Don Julio,Peete,2018,104
+9,"Terrelle Pryor Buf, WR",4 Inch Chubb,Jessie,2018,105
+10,"Robert Woods LAR, WR",Caramelo Duro,Jesus,2018,106
+11,"Rams D/ST LAR, D/ST",Graham Crackers,Tyler,2018,107
+12,"Chris Carson Sea, RB",TaSTe My SaLT,Marky,2018,108
+1,"Jared Cook Oak, TE",TaSTe My SaLT,Marky,2018,109
+2,"Jordy Nelson Oak, WR",Graham Crackers,Tyler,2018,110
+3,"John Ross Cin, WR",Caramelo Duro,Jesus,2018,111
+4,"Mike Gesicki Mia, TE",4 Inch Chubb,Jessie,2018,112
+5,"Austin Seferian-Jenkins Jax, TE",Team Sippin Don Julio,Peete,2018,113
+6,"Mohamed Sanu Atl, WR",Round and Antonio Brown,Chacon,2018,114
+7,"Kenny Stills Mia, WR",Make Scranton Great Again,Josh,2018,115
+8,"Sony Michel NE, RB",Rasheeezyy Express,Rashide,2018,116
+9,"Vikings D/ST Min, D/ST",Gurley's Gone Wild,Brandon,2018,117
+10,"Jameis Winston TB, QB",Final Fantasy,Dario,2018,118
+11,"Eagles D/ST Phi, D/ST",Team Shooooooter,Fernando,2018,119
+12,"Aaron Jones GB, RB",Dak Dak Goose,Francis,2018,120
+1,"Calvin Ridley Atl, WR",Dak Dak Goose,Francis,2018,121
+2,"Rashaad Penny Sea, RB",Team Shooooooter,Fernando,2018,122
+3,"Mason Crosby GB, K",Final Fantasy,Dario,2018,123
+4,"Danny Amendola Mia, WR",Gurley's Gone Wild,Brandon,2018,124
+5,"Duke Johnson Jr. Cle, RB",Rasheeezyy Express,Rashide,2018,125
+6,"Pierre Garcon SF, WR",Make Scranton Great Again,Josh,2018,126
+7,"Patrick Mahomes KC, QB",Round and Antonio Brown,Chacon,2018,127
+8,"Isaiah Crowell NYJ, RB",Team Sippin Don Julio,Peete,2018,128
+9,"Kenneth Dixon Bal, RB",4 Inch Chubb,Jessie,2018,129
+10,"Ben Roethlisberger Pit, QB",Caramelo Duro,Jesus,2018,130
+11,"Corey Davis Ten, WR",Graham Crackers,Tyler,2018,131
+12,"Stephen Gostkowski NE, K",TaSTe My SaLT,Marky,2018,132
+1,"Mike Williams LAC, WR",TaSTe My SaLT,Marky,2018,133
+2,"Devontae Booker Den, RB",Graham Crackers,Tyler,2018,134
+3,"Matthew Stafford Det, QB",Caramelo Duro,Jesus,2018,135
+4,"Joe Flacco Bal, QB",4 Inch Chubb,Jessie,2018,136
+5,"Giovani Bernard Cin, RB",Team Sippin Don Julio,Peete,2018,137
+6,"Graham Gano Car, K",Round and Antonio Brown,Chacon,2018,138
+7,"Wil Lutz NO, K",Make Scranton Great Again,Josh,2018,139
+8,"Adam Vinatieri Ind, K",Rasheeezyy Express,Rashide,2018,140
+9,"Mike Wallace Phi, WR",Gurley's Gone Wild,Brandon,2018,141
+10,"Ameer Abdullah Min, RB",Final Fantasy,Dario,2018,142
+11,"Dion Lewis Ten, RB",Team Shooooooter,Fernando,2018,143
+12,"Michael Gallup Dal, WR",Dak Dak Goose,Francis,2018,144
+1,"Marcus Mariota Ten, QB",Dak Dak Goose,Francis,2018,145
+2,"Willie Snead IV Bal, WR",Team Shooooooter,Fernando,2018,146
+3,"Dede Westbrook Jax, WR",Final Fantasy,Dario,2018,147
+4,"Dak Prescott Dal, QB",Gurley's Gone Wild,Brandon,2018,148
+5,"Case Keenum Den, QB",Rasheeezyy Express,Rashide,2018,149
+6,"Chargers D/ST LAC, D/ST",Make Scranton Great Again,Josh,2018,150
+7,"Falcons D/ST Atl, D/ST",Round and Antonio Brown,Chacon,2018,151
+8,"Eli Manning NYG, QB",Team Sippin Don Julio,Peete,2018,152
+9,"Texans D/ST Hou, D/ST",4 Inch Chubb,Jessie,2018,153
+10,"Jake Elliott Phi, K",Caramelo Duro,Jesus,2018,154
+11,"Benjamin Watson NO, TE",Graham Crackers,Tyler,2018,155
+12,"Tyler Lockett Sea, WR",TaSTe My SaLT,Marky,2018,156
+1,"Broncos D/ST Den, D/ST",TaSTe My SaLT,Marky,2018,157
+2,"Derek Carr Oak, QB",Graham Crackers,Tyler,2018,158
+3,"Frank Gore Mia, RB",Caramelo Duro,Jesus,2018,159
+4,"Nelson Agholor Phi, WR",4 Inch Chubb,Jessie,2018,160
+5,"Tyler Eifert Cin, TE",Team Sippin Don Julio,Peete,2018,161
+6,"Doug Martin Oak, RB",Round and Antonio Brown,Chacon,2018,162
+7,"Corey Clement Phi, RB",Make Scranton Great Again,Josh,2018,163
+8,"DJ Moore Car, WR",Rasheeezyy Express,Rashide,2018,164
+9,"Austin Ekeler LAC, RB",Gurley's Gone Wild,Brandon,2018,165
+10,"Cameron Meredith NO, WR",Final Fantasy,Dario,2018,166
+11,"C.J. Anderson LAR, RB",Team Shooooooter,Fernando,2018,167
+12,"Robbie Gould SF, K",Dak Dak Goose,Francis,2018,168
+1,"Bilal Powell NYJ, RB",Dak Dak Goose,Francis,2018,169
+2,"Brandon Marshall NO, WR",Team Shooooooter,Fernando,2018,170
+3,"Steelers D/ST Pit, D/ST",Final Fantasy,Dario,2018,171
+4,"Chris Thompson Wsh, RB",Gurley's Gone Wild,Brandon,2018,172
+5,"Ted Ginn Jr. NO, WR",Rasheeezyy Express,Rashide,2018,173
+6,"Kalen Ballage Mia, RB",Make Scranton Great Again,Josh,2018,174
+7,"Hunter Henry LAC, TE",Round and Antonio Brown,Chacon,2018,175
+8,"Giants D/ST NYG, D/ST",Team Sippin Don Julio,Peete,2018,176
+9,"T.J. Yeldon Jax, RB",4 Inch Chubb,Jessie,2018,177
+10,"Jamison Crowder Wsh, WR",Caramelo Duro,Jesus,2018,178
+11,"Matt Prater Det, K",Graham Crackers,Tyler,2018,179
+12,"Spencer Ware KC, RB",TaSTe My SaLT,Marky,2018,180
